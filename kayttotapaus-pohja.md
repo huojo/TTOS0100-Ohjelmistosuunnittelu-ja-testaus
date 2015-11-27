@@ -1,4 +1,16 @@
+
+
+
 Käyttötapauskuvaus-pohja
+
+# Lähde
+
+Tämä wiki-dokumentin runko pohjautuu seuraavaan lähteeseen. 
+
+http://www.jhs-suositukset.fi/web/guest/jhs/recommendations/173
+
+Kiitokset alkuperäisen tekijöille!
+
 
 ## KÄYTTÖTAPAUKSEN NIMI esim. Asiakastietojen muutos
 
