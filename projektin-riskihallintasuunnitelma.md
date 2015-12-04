@@ -1,6 +1,7 @@
 | RISKI ID |	Kuvaus | Vakavuus | Kuka hoitaa | Miten toimitaan |
 |:----|:----|:----|:----|:----|:----|
-| RIS01 | Ryhmän jäsen sairastuu flunssaan |  3 | 
+| RIS01 | Ryhmän jäsen sairastuu flunssaan |  3 |  HessuHopo | Ilmoita tiiminvetäjälle ja tarvittaesssa asiakkaalle. Tarkista [kommunikaati-suunnitelma]() |
+
 
 
 
