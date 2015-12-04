@@ -18,3 +18,6 @@
 | V3 | | | 
 | V4 | | | 
 | V5 | Ei haittaa, mutta tarkkailaan | | 
+
+
+[Esimerkki käytännön projektityöstä](https://confluence.csc.fi/download/attachments/41157778/2014_04_08+Riskienhallintasuunnitelma+Oppijan+ehops.xls?version=1&modificationDate=1397471961223)
