@@ -6,7 +6,7 @@ SOPIMUS OPISKELIJAPROJEKTIYHTEISTYÖSTÄ 1 (4)
 
 SOPIMUS OPISKELIJAPROJEKTIYHTEISTYÖSTÄ
 
-1 SOPIMUKSEN OSAPUOLET
+#1 SOPIMUKSEN OSAPUOLET
 
 Tämä projektisopimus (jäljempänä Sopimus) on tehty X Oy:n (jäljempänä 
 
@@ -18,7 +18,7 @@ sopimuksen velvoitteiden täyttämisestä omasta puolestaan (tehdään tarvittae
 
 erillinen sopimus). 
 
-2 SOPIMUKSEN KOHDE
+#2 SOPIMUKSEN KOHDE
 
 Sopimuksella sovitaan IT:n ohjelmistonkehitysprojekteista (jäljempänä Projekti), joissa on 
 
@@ -26,9 +26,9 @@ mukana opiskelijoita. Kunkin projektin tavoitteet määritellään erillisessä
 
 projektisuunnitelmassa.
 
-3 SOPIMUKSEN OSAPUOLTEN VELVOLLISUUDET
+#3 SOPIMUKSEN OSAPUOLTEN VELVOLLISUUDET
 
-3.1 Toimeksiantaja
+##3.1 Toimeksiantaja
 
 Yrityksen velvollisuutena on tarkentaa yhdessä IT:n ja Ryhmän kanssa 
 
@@ -62,11 +62,10 @@ Lisäksi kunkin ryhmän jäsenen velvollisuus on osallistua IT:n järjestämää
 
 tukevaan koulutukseen.
 
-4 SOPIMUKSEN OSAPUOLTEN OIKEUDET
+#4 SOPIMUKSEN OSAPUOLTEN OIKEUDET
 
-4.1 Toimeksiantaja
+##4.1 Toimeksiantaja
 
-SOPIMUS OPISKELIJAPROJEKTIYHTEISTYÖSTÄ 2 (4) 
 
 Toimeksiantaja saa kaikki oikeudet sisältäen muuntelu- ja edelleenluovutusoikeudet 
 
@@ -88,7 +87,7 @@ Kussakin Projektissa sovitaan erikseen, millä tavoin opiskelija voi hyödyntä�
 
 tekemiään tuotoksia omissa projekteissaan.
 
-5 AINEETTOMAT OIKEUDET
+# 5 AINEETTOMAT OIKEUDET
 
 Projektissa mahdollisesti syntyvät keksinnöt, tekijänoikeuden suojaamat teokset tai 
 
@@ -102,7 +101,7 @@ kohtuullisen korvauksen; tämä korvaus sovitaan erikseen Ryhmän ja Toimeksiant
 
 kesken tehtävällä kirjallisella sopimuksella. 
 
-6 OIKEUS MATERIAALIIN JA AINEISTOON
+# 6 OIKEUS MATERIAALIIN JA AINEISTOON
 
 Projektin materiaalin ja aineiston omistus-, tekijän- ja muut oikeudet siirtyvät 
 
@@ -114,25 +113,24 @@ Projektia varten hankitut laitteet, ohjelmistot ja muut välineet saa haltuunsa 
 
 joka on hankinnan tehnyt.
 
-7 MAKSUT JA MAKSUAIKATAULU
+# 7 MAKSUT JA MAKSUAIKATAULU
 
 Maksut ja niiden aikataulu sovitaan erikseen. 
 
-8 MUUTOSTEN TEKEMINEN SOPIMUKSEEN
+# 8 MUUTOSTEN TEKEMINEN SOPIMUKSEEN
 
 Tätä Sopimusta voidaan muuttaa vain kirjallisella sopimuksella, joka on Sopimuksen 
 
 kaikkien osapuolten allekirjoitettava. 
 
-9 RAPORTOINTI
+# 9 RAPORTOINTI
 
 Ryhmä raportoi projektisuunnitelman mukaisesti Projektin edistymisestä Projektin 
 
 johtoryhmälle.
 
-SOPIMUS OPISKELIJAPROJEKTIYHTEISTYÖSTÄ 3 (4) 
 
-10 PROJEKTIN JOHTORYHMÄ JA SEN TEHTÄVÄT
+# 10 PROJEKTIN JOHTORYHMÄ JA SEN TEHTÄVÄT
 
 Projektin johtoryhmän kokoonpano määritellään erikseen. Johtoryhmä valvoo, hyväksyy 
 
@@ -160,7 +158,7 @@ on paikalla. Sopimuksen osapuolien edustajilla on oikeus kutsua johtoryhmän
 
 kokoukseen kuultavaksi asiantuntijoita.
 
-11 TAKUU JA YLLÄPITO
+# 11 TAKUU JA YLLÄPITO
 
 IT ja Ryhmä eivät anna tuloksille takuuta eivätkä sitoudu millään tavalla ylläpitämään 
 
@@ -168,7 +166,7 @@ tuloksia, ellei niistä erikseen sovita. Sen sijaan Projektin aikana tuloksissa 
 
 korjataan, mikäli Projektille määritellyt resurssit sen sallivat.
 
-12 VAHINGONKORVAUKSET, VASTUUNRAJOITUKSET JA KIISTOJEN 
+# 12 VAHINGONKORVAUKSET, VASTUUNRAJOITUKSET JA KIISTOJEN 
 
 Projektin tulosten käyttö tapahtuu Toimeksiantajan vastuulla. Sopimuksen osapuolet 
 
@@ -180,9 +178,9 @@ Sopimuksen tulkinnasta aiheutuvat erimielisyydet ratkaistaan ensisijaisesti neuv
 
 Mikäli näin ei päästä ratkaisuun, Sopimusta koskevat ristiriitaisuudet käsitellään 
 
-Jyväskylän käräjäoikeudessa.
+Jyväskylän/ käräjäoikeudessa.
 
-13 LUOTTAMUKSELLISUUS JA SALASSAPITO
+# 13 LUOTTAMUKSELLISUUS JA SALASSAPITO
 
 Sopimuksen osapuolet sitoutuvat pitämään salassa luottamukselliset tiedot siten, kuin 
 
@@ -192,7 +190,7 @@ Sopimuksen osapuolet pitävät huolta siitä, että heidän työntekijänsä sek
 
 alihankkijansa tai yhteistyökumppaninsa pitävät salassa luottamukselliset tiedot.
 
-14 LAUSUNNON ANTO
+# 14 LAUSUNNON ANTO
 
 Toimeksiantajalla ja IT:n henkilöstöllä ei ole oikeutta Projektin aikana eikä sen jälkeen 
 
@@ -204,9 +202,8 @@ opintojakson arvioinnin yhteydessä opintosuoritusrekisteriin kirjattava opiskel
 
 henkilökohtainen arvosana.
 
-SOPIMUS OPISKELIJAPROJEKTIYHTEISTYÖSTÄ 4 (4) 
 
-15 HENKILÖIDEN PALKKAAMINEN JA PALKITSEMINEN
+# 15 HENKILÖIDEN PALKKAAMINEN JA PALKITSEMINEN
 
 Toimeksiantaja sitoutuu siihen, että se ei palkkaa Ryhmään kuuluvia henkilöitä 
 
@@ -220,13 +217,13 @@ Ryhmän jäseniä haluamallaan tavalla. Projektin aikana tavanomaisen vieraanvar
 
 suhteen ei ole rajoituksia.
 
-16 SOPIMUKSEN SIIRTÄMINEN
+# 16 SOPIMUKSEN SIIRTÄMINEN
 
 Sopimusta ei saa siirtää ilman Sopimuksen muiden osapuolten etukäteen antamaa 
 
 kirjallista lupaa.
 
-17 SOPIMUKSEN PÄÄTTÄMINEN
+# 17 SOPIMUKSEN PÄÄTTÄMINEN
 
 Sopimus päättyy, kun projektisuunnitelmassa kuvattu projektitehtävä on johtoryhmän 
 
@@ -240,7 +237,7 @@ osapuolille synny vahingonkorvausvelvollisuutta toisilleen eikä aiheutuneiden
 
 kustannusten takaisinmaksuvelvollisuutta.
 
-18 ALLEKIRJOITUKSET JA PÄIVÄYS
+# 18 ALLEKIRJOITUKSET JA PÄIVÄYS
 
 Tämä Sopimus tulee voimaan, kun kaikki Sopimuksen osapuolet ovat sen 
 
@@ -248,9 +245,9 @@ allekirjoittaneet. Sopimuksesta on tehty kolme samasanaista kappaletta, yksi kul
 
 osapuolelle.
 
-Jyväskylässä _._.2014 
+Xlässä _._.2014 
 
-Toimeksiantaja X JAMK / IT Projekti Y
+Toimeksiantaja XYZ  / IT Projekti Y
 
 Etunimi Sukunimi Etunimi Sukunimi Etunimi Sukunimi
 
