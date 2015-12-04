@@ -1,3 +1,9 @@
+# Lähteitä
+
+  * https://fi.wikipedia.org/wiki/Ohjelmiston_vaatimusm%C3%A4%C3%A4rittely
+
+
+
 ## XYZ-palvelun/ohjelmiston vaatimusmäärittely
 
 Dokumentin versionumero ?
