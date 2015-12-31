@@ -1,3 +1,15 @@
+## Otsikko
+
+Versionumero
+
+Luokittelu (Salainen/Julkinen etc..)
+
+Vastuuhenkilö
+
+
+
+
+
 ## Johdatus
 
 Mitä tämä dokumentti käsittelee ?
