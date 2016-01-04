@@ -1,27 +1,45 @@
-XYZ-palvleun yleistestisuunnitelma 
+## XYZ-palvelun yleistestisuunnitelma  DRAFT/Place Holder
 
-Versio numero XXXX
-
-
-Testikohde:
+### Versio numero XXXX
 
 
+## Yleiskuvaus
 
-Käytettävät resurssit:
 
-
-Valittu testausstrategia:
+### Testikohde:
 
 
 
-Totetutetut Testaustasot:
+### Käytettävät resurssit:
+
+
+### Valittu testausstrategia:
+
+### Totetutetut Testaustasot:
+
+
+
+# Hyväksyntätestitapaukset (Acceptance Use Cases)
+
+## Testitapaukset:
+
+### IDX
+
+  * test
+  * 
+### IDY
+
+  * test
+  * 
+  
+
+
+
+## Järjestelmätestit (System Test Cases)
+
+## Yksikkötestit (Unit Testing)
 
 
 
 
-Hyväksyntätestitapaukset (Acceptance Use Cases)
-
-Järjestelmätestit (System Test Cases)
-
-Yksikkötestit (Unit Testing)
 
