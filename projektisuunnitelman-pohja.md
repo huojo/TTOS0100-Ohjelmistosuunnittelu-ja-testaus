@@ -119,6 +119,9 @@ Kirjataan minne dokumentit tallennetaan/arkistoidaan, miten ne jaetaan ja kuka o
 
 Listataan riskit, arvioidaan niiden vakavuus ja todennäköisyys ja koetetaan miettiä toimenpiteet kuinka vakavimmat/todennäköisimmät riskit voitaisiin ehkäistä jo ennalta. Lisäksi olisi hyvä olla suunnitelma kuinka toimitaan, jos riski toteutuu.
 
+Liitä seuraava osio tähän mukaan: [Riskienhallinta taulukko](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/riskihallintasuunnitelman-pohja.md)
+
+
 ## 4.5 Katselmointikäytäntö
 
 Luetellaan ja alustavasti aikataulutetaan projektin tuloskatselmukset laaditun toteutussuunnitelman pohjalta. Esitetään luettelomaisesti, mitä katselmuksia pidetään, alustava ajankohta, käsiteltävät asiat, osallistujat sekä käytännöt katselmointimateriaalin toimittamisesta (mitä, milloin, miten).
