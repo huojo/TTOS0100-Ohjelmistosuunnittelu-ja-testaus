@@ -1,4 +1,4 @@
-## Asiakas profiili esimerkit:
+## Asiakasprofiili esimerkit:
 
 Alkuperäiset profiilihahmot määritteli [Juha Hautanen](https://www.linkedin.com/in/juhahautanen)
 Kiitoksia! 
