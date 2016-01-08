@@ -34,13 +34,23 @@ blaah blaah...
 
   * Kirjastot 
   * Jipot ja kikat
+
+
   
 
-## Arkkitehtuuri
+## Yleinen ohjelmsto arkkitehtuuri
 
   * 
   * Palvelut
   
+
+## Palvelujen/n rajapinnat (Interfaces)
+
+ 
+  * [Esimerkki elävästä elämästä](https://virkailija.opintopolku.fi/koodisto-service/swagger/index.html)
+
+
+
   
 ## Suoritysympäristön kuvaus
 
