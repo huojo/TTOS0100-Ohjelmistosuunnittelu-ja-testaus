@@ -1,3 +1,5 @@
+Alkuperäinen dokumentti löytyy [täältä](http://homes.jamk.fi/~huojo/opetus/mallit/Oppimisraportti.dot) 
+
 ## OPPIMISRAPORTTI
 
 Kirjaa opintojakson aikana keskeiset oppimasi asiat tähän asiakirjaan, omaan blogiisi, muistioon tms. Voit kirjoittaa myös aiheeseen liittyvistä epäselvistä asioista tai ongelmista ja kuinka ne ratkaistiin. Lopuksi voit arvioida omaa oppimistasi, esimerkiksi pääsitkö asettamiisi tavoitteisiin ja jos et päässyt niin mistä se johtui.
