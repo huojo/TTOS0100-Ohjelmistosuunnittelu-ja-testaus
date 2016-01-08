@@ -11,7 +11,8 @@ Hän asuu Muuramessa rivitalossa vaimon ja koiran kanssa.
 
 
 ### Ryhmä/segmentti:
-Alumni
+
+  * Alumni
 
 ### Mitä tekee tai miettii?
 
