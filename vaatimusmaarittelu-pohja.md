@@ -2,39 +2,31 @@
 
   * https://fi.wikipedia.org/wiki/Ohjelmiston_vaatimusm%C3%A4%C3%A4rittely
 
+## XXXXXX-palvelun/ohjelmiston vaatimusmäärittely
 
-
-## XYZ-palvelun/ohjelmiston vaatimusmäärittely
-
-Dokumentin versionumero ?
-
-### Sisältö
-
-Sisällysluettelo ?
+Dokumentin versionumero X.Y
 
 ### Materiaalin luokittelu
 
-Kuka saa nähdä ?
-
-### Johdatus
-
-Mikä on tämän dokumentin tehtävä? Mihin se liittyy ? 
-
-## Tärkeää tietää
-
-Oleellista lukijalle ?
+Salattu/Julkinen
 
 ### Oikeudet
 
 Kuka omistaa dokumentin?
 
-### Priorisointi 
 
-Miten taulukoita luetaan
 
-P1 = Erittäin tärkeä, 
-P3 = Oleellinen 
-P5 = Triviaali
+## Sisältö
+
+Sisällysluettelo ?
+
+
+## Johdatus
+
+  * Mikä on tämän dokumentin tehtävä? 
+  * Mihin se liittyy ? 
+  * Tärkeätä tietää
+  * Oleellista lukijalle ?
 
 ### Lyhyt tuote/palvelukuvaus
 
@@ -43,7 +35,6 @@ Mitä määritetyltä palvelulta odotetaan? lyhyesti
 ### Tilaaja
 
 Kuka on tilaaja, yhteistiedot ?
-
 
 
 ### Toimittaja
@@ -83,20 +74,17 @@ Kuka on kiinnostunut tuotteesta tai kenellä on sanansa sanottavana liittyen tuo
   
 
 
-### Sidosryhmäkartta (Stakeholder map)
+## Sidosryhmäkartta (Stakeholder map)
 
 ![](https://www.lucidchart.com/publicSegments/view/afbaa205-0924-40f8-a0a1-96e281aafcf5/image.png)
 
-### Yleinen palvelun asiakaspolku (General Customer Journey)
+## Yleinen palvelun asiakaspolku (General Customer Journey)
 
 ![](https://camo.githubusercontent.com/1429ec848bc406a1bc7f38874188e4af03d3ee46/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f6c6f7076357a6a6a337076676261392f757365725f6a6f75726e6579732d30322e706e673f646c3d31)
 
 Käydään läpi asiakaspolku, jossa käytetään nimettyjä sidosryhmien edustajia
 
-
-
-
-### Asiakasprofiilit (Customer Profiles)
+## Asiakasprofiilit (Customer Profiles)
 
   * Asiakas 1, Mauno Mainio, 67, eläkeläinen, Vierumäki, kotosin Pohjois-Savosta (Matematiikan opettaja)
   * Asiakas 2, Riku Rikas, 30, IT Yrittäjä, asuinpaikka tuntematon, kotoisin nomands land 
@@ -105,7 +93,7 @@ Käydään läpi asiakaspolku, jossa käytetään nimettyjä sidosryhmien edusta
   * Asiakas 5, 
   * Asiakas 6
 
-### Asiakaspolku(Customer Journey Maps)
+## Asiakaspolku(Customer Journey Maps)
 
 ## Palvelun osa-aluejako (Service Domain areas)
 
@@ -117,14 +105,13 @@ Onko olemassa erilaisia tuoteversioita eri ympäristöihin, mitä?
   * Mobiiliversio ?
   * Kenttäversio  
 
-ohjelmiston osa-alueita ?
+ohjelmiston osa-alueita/lohkoja?
 
   * Hallintapaneeli ?
   * Tietokanta-palvelut ?
   * Käyttöliittymät ?
   * Autentikointi ?
   * Laskutus ?
-
 
 ## Tärkeimmät piirteet/ominaisuudet (Features)
 
@@ -180,6 +167,8 @@ ohjelmiston osa-alueita ?
 
    * [Esimerkki4](kayttotapaus-pohja)
 
+
+
 ## Tunnistetut riskit (Risks)
 
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
@@ -187,6 +176,8 @@ ohjelmiston osa-alueita ?
 |RISK001| Käyttäjämäärän äkillinen lisääntyminen, esim poikkeustilanteen aikana | - | P1 |
 |RISK002| Palvelun käytettävyys heikkenee kovan kuormituksen aikana | Toiminnnallinen |  | P5 |
 |RISK003| Heikon verkkoyhteyden vaikutus palvelun käyttöön | Toiminnnallinen | - | P3 |
+
+  * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
 
 
 
@@ -200,6 +191,9 @@ ohjelmiston osa-alueita ?
 |VAT0002| Palvelun täytyy toimia Windows Phonessa | Toiminnnallinen |  "ASAP"-tuotantotiimi | P5 |
 |VAT0003| Palvelun täytyy toimia iPAD 3> | Toiminnnallinen |  "ASAP"-tuotantotiimi | P3 |
 
+  * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
+
+
 ## Tunnistetut laadulliset /ei-toiminnalliset vaatimukset (Non-Functional Requirements)
 
   * [Esimerkkejä tietoturvavaatimuksista](https://confluence.csc.fi/display/oppija/10.+Tietoturvavaatimukset)
@@ -210,26 +204,34 @@ ohjelmiston osa-alueita ?
 |VAL0202| Palvelun saatavuus on oltava 99.1 % | Stabiilisuus |  "ASAP"-tuotantotiimi | P5 |
 |VAL0203| Käyttäjän tiedot on salattavat | Tietoturva |  "ASAP"-tuotantotiimi | P3 |
 
-
-
+  * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
 
 
 ### Käytettävyys
 
+  * Mitä on otettava huomioon ?
+  * Asiakkaan toiveet ?
+  * Teknologiset osa-alueet/asiat, jotka vaikuttavat käytettävyyteen?
 
-## Käyttöliittymä prototyyppi
+# Käyttöliittymä prototyyppi
+
 
 ### Prototyypin esittely
-### Tarvittavat tiedot prototyypin tarkasteluun
-## Linkki prototyyppiin
-## Yhteyshenkilö
+
+   * Linkit prototyyppi ympäristöön
+   * Tarvittavat tiedot prototyypin tarkasteluun
 
 
 ## Palvelun/ohjelmiston arkkitehtuuri
 
 ![](https://camo.githubusercontent.com/5c169deb4debb278bb6219208f577843075ddab3/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f6179707170797376726831316133312f636f6e747269626f6172642d6172636869746563747572652e706e673f646c3d31)
 
+
+
+
 ### Luokkaehdokkaat (Class proposal)
+
+  * Tunnistetut luokkaehdokkaat
 
 ![](https://www.lucidchart.com/publicSegments/view/16b2b5a7-f349-48bf-8efb-594521131e09/image.png)
 
