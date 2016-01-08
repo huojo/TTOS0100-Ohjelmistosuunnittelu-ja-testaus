@@ -169,25 +169,24 @@ ohjelmiston osa-alueita/lohkoja?
 
 ### Käyttötapaus 1
 
-   * [Rekisteröityminen](kayttotapaus-pohja)
+   * [Rekisteröityminen](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md)
 
 ### Käyttötapaus 2
 
-   * [Salasanan vaihto](kayttotapaus-pohja)
+   * [Salasanan vaihto](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md)
 
 ### Käyttötapaus 3
 
-   * [Esimerkki4](kayttotapaus-pohja)
+   * [Esimerkki4](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md)
 
 ### Käyttötapaus 4
 
-   * [Esimerkki4](kayttotapaus-pohja)
+   * [Esimerkki4](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md)
 
 ## Riskit  (Risks)
 
    * Tunnistetaan ohjelmistoon/palveluun liittyviä riskejä..
    * [Riskienhallinta](https://fi.wikipedia.org/wiki/Riskienhallinta)
-
 
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -196,9 +195,6 @@ ohjelmiston osa-alueita/lohkoja?
 |RISK003| Heikon verkkoyhteyden vaikutus palvelun käyttöön | Toiminnnallinen | - | P3 |
 
   * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
-
-
-
 
 ## Yleiset vaatimukset (Functional Requirements)
 
@@ -232,7 +228,6 @@ ohjelmiston osa-alueita/lohkoja?
 |VAL0203| Käyttäjän tiedot on salattavat | Tietoturva |  "ASAP"-tuotantotiimi | P3 |
 
   * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
-
 
 ### Käytettävyys
 
