@@ -193,15 +193,19 @@ ohjelmiston osa-alueita/lohkoja?
 
   * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
 
-
-
-## Tunnistetut toiminnnalliset vaatimukset (Functional Requirements)
-
-
+## Yleiset vaatimukset (Functional Requirements)
 
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|VAT0001| Palvelun täytyy toimia Android versiosssa 4.x alkaen | Toiminnnallinen | "ASAP"-tuotantotiimi | P1 |
+|YVA0001| Palvelun täytyy toimia Android versiosssa 4.x alkaen | Toteutus | "ASAP"-tuotantotiimi | P1 |
+|YVA0002| Palvelun täytyy toimia Windows Phonessa | totetutus |  "ASAP"-tuotantotiimi | P5 |
+|YVA0003| Palvelun täytyy toimia iPAD 3> | totetuts |  "ASAP"-tuotantotiimi | P3 |
+
+## Tunnistetut toiminnnalliset vaatimukset (Functional Requirements)
+
+| Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|VAT0001|  | Toiminnnallinen | "ASAP"-tuotantotiimi | P1 |
 |VAT0002| Palvelun täytyy toimia Windows Phonessa | Toiminnnallinen |  "ASAP"-tuotantotiimi | P5 |
 |VAT0003| Palvelun täytyy toimia iPAD 3> | Toiminnnallinen |  "ASAP"-tuotantotiimi | P3 |
 
@@ -241,8 +245,6 @@ ohjelmiston osa-alueita/lohkoja?
 ![](https://camo.githubusercontent.com/5c169deb4debb278bb6219208f577843075ddab3/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f6179707170797376726831316133312f636f6e747269626f6172642d6172636869746563747572652e706e673f646c3d31)
 
 
-
-
 ### Luokkaehdokkaat (Class proposal)
 
   * Tunnistetut luokkaehdokkaat
@@ -271,6 +273,13 @@ ohjelmiston osa-alueita/lohkoja?
 
 
 ##  Julkaisusuunnitelma ja priorisointi
+
+  * Ominaisuus 1
+  * Ominaisuus 1
+  *   * Ominaisuus 1
+  *     * Ominaisuus 1
+
+
 ### Priorisointi 
 ### Toiminnallisuudet ja toteuttamisjärjestys
 
