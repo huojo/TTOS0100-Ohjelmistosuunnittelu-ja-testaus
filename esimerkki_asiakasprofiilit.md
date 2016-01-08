@@ -1,3 +1,7 @@
+Alkuperäiset profiili hahmot määritteli [Juha Hautanen](https://www.linkedin.com/in/juhahautanen)
+Kiitoksia! 
+
+
 
 ### Persoona
 
