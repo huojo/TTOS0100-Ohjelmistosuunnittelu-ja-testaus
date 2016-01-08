@@ -1,6 +1,4 @@
-# Lähteitä
 
-  * https://fi.wikipedia.org/wiki/Ohjelmiston_vaatimusm%C3%A4%C3%A4rittely
 
 ## XXXXXX-palvelun/ohjelmiston vaatimusmäärittely
 
@@ -247,10 +245,17 @@ ohjelmiston osa-alueita/lohkoja?
 
 ## Palvelun/ohjelmiston arkkitehtuuri
 
+  * Tämä osio voidaan sisällyttää osaksi teknistä suunnittelua. 
+  * Vaatimusmäärittelyssä voi kuitenkin olla  hyvä tarvittaessa kuvata yleistä totetutusta ja siihen liittyviä ongelmakohtia
+  
+
 ![](https://camo.githubusercontent.com/5c169deb4debb278bb6219208f577843075ddab3/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f6179707170797376726831316133312f636f6e747269626f6172642d6172636869746563747572652e706e673f646c3d31)
 
 
 ### Luokkaehdokkaat (Class proposal)
+
+  * Yleensä osa tarkempaa suunnittelua
+  * Voidaan viitata linkeillä...
 
   * Tunnistetut luokkaehdokkaat
 
@@ -258,13 +263,21 @@ ohjelmiston osa-alueita/lohkoja?
 
 ### Luokkamalli (Class Diagram)
 
+  * Ainoastaan karkea kuvaus tarpeen ?
+
 ![](https://www.lucidchart.com/publicSegments/view/c680dd6c-6e68-43b7-bf6c-421bbe21a17c/image.png)
 
 ### Toiminta kuvaus (Sequence Diagram)
 
+  * Sekvenssikuvalla on aika kätevä esittää muutakin
+
 ![](https://en.wikipedia.org/wiki/File:CheckEmail.svg)
 
 ### Sijoittelunäkymä (Deployment diagram
+
+  * Vaatimusmäärittelyssä tämä saattaa olla yksi hyödyllisimpiä UML-kuvauksia ?
+  * Miten ohjelmisto/palvelu tulee karkeasti toimimaan osana vanhaa totetutusta..
+  * Miten olemassa oleva järjestelmä tulee karkeasti toimimaan
 
 ![](https://www.lucidchart.com/publicSegments/view/6f727a36-f880-4dca-b5ac-133f6f860697/image.png)
 
@@ -279,15 +292,36 @@ ohjelmiston osa-alueita/lohkoja?
 
 ##  Julkaisusuunnitelma ja priorisointi
 
-  * Ominaisuus 1
-  * Ominaisuus 1
-  *   * Ominaisuus 1
-  *     * Ominaisuus 1
+Julkaisujärjestys ei aina ole lineaarinen. [Ks. Kriittinen polku](https://fi.wikipedia.org/wiki/Kriittinen_polku)
+
+
+
+Toiminnallisuudet ja toteuttamisjärjestys
+
+  * Ominaisuus 1 - Maaliskuu 2019
+  * Ominaisuus 3 - Huhtikuu 2019
+  * Ominaisuus 5 - Toukokuu 2019
+  * Ominaisuus 2 - Syyskuu 2019
+  *     
 
 
 ### Priorisointi 
-### Toiminnallisuudet ja toteuttamisjärjestys
+
+
+  * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
+
 
 ## Standardit ja lähteet
-### Lähteet
-### Standardit
+
+  * ISTQB
+  * IPMA
+  * etc..
+
+
+
+# Lähteet
+
+# Lähteitä
+
+  * https://fi.wikipedia.org/wiki/Ohjelmiston_vaatimusm%C3%A4%C3%A4rittely
+
