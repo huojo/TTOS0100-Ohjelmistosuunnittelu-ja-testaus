@@ -74,18 +74,21 @@ Kuka on kiinnostunut tuotteesta tai kenellä on sanansa sanottavana liittyen tuo
   * Bad Man, kiusantekijä
   * Snake Consulting Oy, kilpailija
  
-  
-
-
 ## Sidosryhmäkartta (Stakeholder map)
 
 ![](https://www.lucidchart.com/publicSegments/view/afbaa205-0924-40f8-a0a1-96e281aafcf5/image.png)
+
+  * [Mikä ihmeen sidosryhmä?](https://fi.wikipedia.org/wiki/Sidosryhm%C3%A4)
+
 
 ## Yleinen palvelun asiakaspolku (General Customer Journey)
 
 ![](https://camo.githubusercontent.com/1429ec848bc406a1bc7f38874188e4af03d3ee46/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f6c6f7076357a6a6a337076676261392f757365725f6a6f75726e6579732d30322e706e673f646c3d31)
 
 Käydään läpi asiakaspolku, jossa käytetään nimettyjä sidosryhmien edustajia
+
+
+  *  [Mikä ihmeen palvelupolku](https://www.google.fi/search?q=palvelupolku&espv=2&biw=1626&bih=843&site=webhp&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjU3Kn22pnKAhWDWywKHWrDB-wQsAQIHA)
 
 ## Asiakasprofiilit (Customer Profiles)
 
