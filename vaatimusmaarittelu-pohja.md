@@ -28,22 +28,25 @@ Sisällysluettelo ?
   * Tärkeätä tietää
   * Oleellista lukijalle ?
 
-### Lyhyt tuote/palvelukuvaus
+### Lyhyt tuote/palvelukuvaus/asiakastarina
 
-Mitä määritetyltä palvelulta odotetaan? lyhyesti
+  * Mitä määritetyltä palvelulta odotetaan? lyhyesti
+  * Asiakastarina
 
 ### Tilaaja
 
-Kuka on tilaaja, yhteistiedot ?
-
+  * Kuka on tilaaja, yhteistiedot ?
+  * Jos tiedot on projektisuunnitelmassa, niin linkit tänne!
 
 ### Toimittaja
 
-Kuka on toimittaja, yhteistiedot ?
+  * Kuka on toimittaja, yhteistiedot ?
+  * Jos tiedot on projektisuunnitelmassa, niin linkit tänne!
 
 ### Aikataulu
 
-Mitä alustavasti tullaan tekemään ja milloin ?
+  * Mitä alustavasti tullaan tekemään ja milloin ?
+  * Kannattaa viedä osaksi projektisuunnitelmaa ?
 
 | Etappi | Alkaa | Loppuu | | | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|
