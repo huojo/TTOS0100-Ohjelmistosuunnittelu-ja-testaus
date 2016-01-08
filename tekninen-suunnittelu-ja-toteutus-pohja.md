@@ -28,7 +28,7 @@ blaah blaah...
 
 
 
-## Käytetyt teknlogiat
+## Käytetyt teknologiat
 
   * JAVA / Java Script ?
   * HABA kieli
