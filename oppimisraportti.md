@@ -26,4 +26,4 @@ Voit kirjata myös omassa (työ)elämässäsi heränneitä ajatuksia tai etsiä 
 
 Kirjaa opintojakson päätteeksi, miten saavutit 1) asettamasi tavoitteet ja 2) opintojaksolle asetetut osaamistavoitteet. Kerro vaikeimmat ongelmat ja kuinka ne ratkaisit. Kerro myös, miten aiot jatkossa tehostaa omaa tapaasi oppia uusia asioita. Anna myös itsellesi rehellisesti arvosana perusteluineen. Viimeiseksi kirjaa muutama asia, kuinka kehittäisit opintojaksoa tai opettajan opetustyyliä eteenpäin.
 
-P.S. Muuta asiakirjan ominaisuudet File – Properties (Tiedosto – Ominaisuudet; Office 2007:ssa Office-painike => Valmistele – Ominaisuudet)  komennolla. Asiakirja kannattaa tallentaa sellaisella nimellä, että siitä käy ilmi opintojakso ja oma nimesi, esim. IIZO3030_Nieminen.doc. Palautus opintojakson lopussa muiden töiden ohessa.
+
