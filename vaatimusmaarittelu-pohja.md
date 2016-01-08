@@ -294,7 +294,7 @@ ohjelmiston osa-alueita/lohkoja?
 ##  Julkaisusuunnitelma ja priorisointi
 
 Julkaisujärjestys ei aina ole lineaarinen. [Ks. Kriittinen polku](https://fi.wikipedia.org/wiki/Kriittinen_polku)
-
+Joskus se saattaa tuntua siltä: [Release Plan](https://wiki.documentfoundation.org/ReleasePlan)
 
 
 Toiminnallisuudet ja toteuttamisjärjestys
