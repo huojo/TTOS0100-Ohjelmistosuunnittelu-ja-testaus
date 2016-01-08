@@ -103,8 +103,6 @@ Käydään läpi asiakaspolku, jossa käytetään nimettyjä sidosryhmien edusta
 
   * Tarkennetaan kuvausta  ?
 
-
-
 ## Palvelun osa-aluejako (Service Domain areas)
 
 Millaisiin osa-alueiseiin voidaan ohjelmisto/palvelu voidaan jakaa.
@@ -181,9 +179,11 @@ ohjelmiston osa-alueita/lohkoja?
 
    * [Esimerkki4](kayttotapaus-pohja)
 
+## Riskit  (Risks)
 
+   * Tunnistetaan ohjelmistoon/palveluun liittyviä riskejä..
+   * [Riskienhallinta](https://fi.wikipedia.org/wiki/Riskienhallinta)
 
-## Tunnistetut riskit (Risks)
 
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -193,21 +193,26 @@ ohjelmiston osa-alueita/lohkoja?
 
   * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
 
+
+
+
 ## Yleiset vaatimukset (Functional Requirements)
+
+  * Tässä osiossa voidaan nostaa esiin huomioitavia tärkeitä vaatimuksia, jotka on hyvä pitää mielessä!
 
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|YVA0001| Palvelun täytyy toimia Android versiosssa 4.x alkaen | Toteutus | "ASAP"-tuotantotiimi | P1 |
-|YVA0002| Palvelun täytyy toimia Windows Phonessa | totetutus |  "ASAP"-tuotantotiimi | P5 |
-|YVA0003| Palvelun täytyy toimia iPAD 3> | totetuts |  "ASAP"-tuotantotiimi | P3 |
+|YVA0001| Palvelun täytyy toimia Android versiosssa 4.x alkaen | Tekninen | "ASAP"-tuotantotiimi | P1 |
+|YVA0002| Palvelun täytyy toimia Windows Phonessa | totetutus |  "ASAP"-tuotantotiimi | P2 |
+|YVA0003| Palvelun täytyy toimia Windows 95:ssa, koska johtajalla on moinen koneessaan! | totetuts |  "ASAP"-tuotantotiimi | P5 |
 
 ## Tunnistetut toiminnnalliset vaatimukset (Functional Requirements)
 
 | Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |VAT0001|  | Toiminnnallinen | "ASAP"-tuotantotiimi | P1 |
-|VAT0002| Palvelun täytyy toimia Windows Phonessa | Toiminnnallinen |  "ASAP"-tuotantotiimi | P5 |
-|VAT0003| Palvelun täytyy toimia iPAD 3> | Toiminnnallinen |  "ASAP"-tuotantotiimi | P3 |
+|VAT0002| Käyttäjä voi tarvittaessa vaihtaa salasanansa | Toiminnnallinen |  "ASAP"-tuotantotiimi | P5 |
+|VAT0003| Salasanan vaihdon jälkeen ei käyttäjän tarvitse kirjautua uudestaan | Toiminnnallinen |  "ASAP"-tuotantotiimi | P3 |
 
   * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
 
