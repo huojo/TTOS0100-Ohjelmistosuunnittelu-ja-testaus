@@ -101,9 +101,13 @@ Käydään läpi asiakaspolku, jossa käytetään nimettyjä sidosryhmien edusta
 
 ## Asiakaspolku(Customer Journey Maps)
 
+  * Tarkennetaan kuvausta  ?
+
+
+
 ## Palvelun osa-aluejako (Service Domain areas)
 
-Millaisiin osa-alueiseiin voidaan suunniteltu palvelu jakaa. Alla esimerkkejä
+Millaisiin osa-alueiseiin voidaan ohjelmisto/palvelu voidaan jakaa.
 
 Onko olemassa erilaisia tuoteversioita eri ympäristöihin, mitä?
 
@@ -120,6 +124,10 @@ ohjelmiston osa-alueita/lohkoja?
   * Laskutus ?
 
 ## Tärkeimmät piirteet/ominaisuudet (Features)
+
+  * Kirjataan tärkeimmät ominaisuudet
+  * Mitä ovat oleelliset ominaiduudet ?
+  * [Tsekkaa MVP - Minimum Viable Product Features](https://en.wikipedia.org/wiki/Minimum_viable_product)
 
 ### Ominaisuus 1
 
