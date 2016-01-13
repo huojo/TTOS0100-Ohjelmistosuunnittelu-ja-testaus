@@ -8,7 +8,7 @@ Näitä hahmo esimerkkejä voidaan käyttää palvelumäärittelyssä/suunnittel
 
 ### Persoona
 
-[](https://openclipart.org/image/300px/svg_to_png/219445/Young.png&disposition=attachment)
+![](https://openclipart.org/image/300px/svg_to_png/219445/Young.png&disposition=attachment)
 
   * Jarno Purnu
   * Jarno on 28 vuotias tradenomi. 
