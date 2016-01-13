@@ -114,9 +114,18 @@ Arvo: uskalikko
 
 ### Persoona
 
+Maija Laatikka
+Maija on 34-vuotias 
+tilapalveluasiantuntija 
+Latopolis Oy tilapalvelu-
+yhtiössä. Hän on palveluliiketoiminnan johtamisen YAMK opiskelija. Opinnot ovat suurelta osin hyödyllisiä ja on mukavaa, kun harjoitustehtävät voi tehdä omalle työnantajalle ja osittain jopa työajalla. Maija asuu Jyväskylässä harrastaa ryhmäliikuntaa ja käsitöitä, joista julkaisee blogia. 
+Arvo: Sijoittuu arvokeskiöön
+
+
 
 ### Ryhmä/segmentti:
 
+Pet Capsule-hoitokoti yrittäjä ?
 
 ### Mitä tekee tai miettii?
 
