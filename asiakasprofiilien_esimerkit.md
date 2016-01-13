@@ -6,7 +6,7 @@ Kiitoksia!
 Näitä hahmo esimerkkejä voidaan käyttää palvelumäärittelyssä/suunnittelun tukena.
 
 
-### Persoona
+### Persoona 1
 
 ![](https://openclipart.org/image/300px/svg_to_png/219445/Young.png&disposition=attachment)
 
@@ -31,6 +31,18 @@ Jarno pitää työstään, vaikka myynti onkin stressaavaa. Kuitenkin siihen lii
 
 Töissä käytössä monipuoliset tietotekniset välineet. Kotona paljon viihde-elektroniikkaa joissa käytetään suoratoistopalveluita. Harrastusmielessä on tehnyt myös joitain kotiautomaatiosovelluksia
 
+### Persoona 2
 
+![](https://openclipart.org/image/300px/svg_to_png/181752/womanmoney.png&disposition=attachment)
+
+Persoona
+Olga Tammimäki
+Olga on 36-vuotias toiminta-
+terapia opiskelija. Hän on alan-
+vaihtaja, sillä hän on aikaisem-
+malta ammatiltaan artesaani, 
+mutta alan töitä on ollut todella 
+vaikea saada. Toisaalta vuodet ovat vierähtäneet lasten kanssa kotona, mutta nyt kun nuorinkin on koulussa, on aika miettiä omaa ammatillista tulevaisuutta. Olga asuu Petäjävedellä omakotitalossa. Hän harrastaa omavarasitaloutta ja pitää eettisyyttä merkittävänä tekijänä.
+Arvo: Avoin etsijä
 
 
