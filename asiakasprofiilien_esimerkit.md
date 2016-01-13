@@ -58,6 +58,22 @@ Arvo: Avoin etsijä
 
 ### Persoona
 
+Simo Selin
+
+(OKM, ELY-keskus, KS-Liitto,…)
+Hän on 45 vuotia valtiotieteen maisteri.
+Hän toimii erityisasiantuntijan tms.
+tehtävissä ja on usein tekemisissä 
+ammattikorkeakoulujen kanssa. Simo 
+asuu kaupungissa. Hän hölkkää ja
+käy vaimon kanssa joskus konserteissa. 
+Hän on aktiivinen yhdistysmies. Valtion aluehallinnon ja hallinnon muutos saattaa vaikuttaa myös hänen virastonsa tehtäviin. 
+
+Simolla on rotukoira (Aasian hirvikoira) Kalle, ja kääpiösnautseri Köntsä 
+
+
+Arvo: Esikuvahakuinen erottuja
+
 
 ### Ryhmä/segmentti:
 
@@ -73,6 +89,14 @@ Arvo: Avoin etsijä
 ![](https://openclipart.org/image/300px/svg_to_png/181752/womanmoney.png&disposition=attachment)
 
 ### Persoona
+
+Matias Moilanen
+
+Matias on vuoden 2014 abiturientti Hän kirjoitti M:n paperit Lyseosta, minkä
+jälkeen hän meni töihin. Hän on ollut vuokrafirman listoilla ja
+tehnyt erilaisia hanttihommia. Matiaksella harrastaa eksoottisiä eläimiä varaani ja hämähäkki kuuluvat kalustoon.
+Arvo: uskalikko
+
 
 
 ### Ryhmä/segmentti:
