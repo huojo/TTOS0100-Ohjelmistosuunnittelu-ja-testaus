@@ -8,6 +8,8 @@ Näitä hahmo esimerkkejä voidaan käyttää palvelumäärittelyssä/suunnittel
 
 ### Persoona
 
+[](https://openclipart.org/image/2400px/svg_to_png/219445/Young.png)
+
   * Jarno Purnu
   * Jarno on 28 vuotias tradenomi. 
   * Hän valmistui muutama vuosi sitten JAMKista. Nyt hän on B2B 
