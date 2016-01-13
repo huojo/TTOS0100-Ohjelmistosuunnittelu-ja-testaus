@@ -14,13 +14,15 @@ Näitä hahmo esimerkkejä voidaan käyttää palvelumäärittelyssä/suunnittel
   * Jarno on 28 vuotias tradenomi. 
   * Hän valmistui muutama vuosi sitten JAMKista. Nyt hän on B2B 
 projektimyyjänä KS-Wastemanagement jätepalvelussa. Jarno harrastaa monipuolisesti liikuntaa.
-Hän asuu Muuramessa rivitalossa vaimon ja koiran kanssa. 
+Hän asuu Muuramessa rivitalossa yksin kolmen kissan kanssa. Työn takia hän on paljon reissussa eri paikkakunnilla.
+Jarmolla on kolme Seroki-kissaa (Vamppi, Skepa ja Jarna)
 
   * Arvo: Uskalikot, vaikuttajat
 
 
 ### Ryhmä/segmentti:
 
+Mahdollinen asiakas
 
 ### Mitä tekee tai miettii?
 
@@ -33,18 +35,17 @@ Töissä käytössä monipuoliset tietotekniset välineet. Kotona paljon viihde-
 
 ![](https://openclipart.org/image/300px/svg_to_png/181752/womanmoney.png&disposition=attachment)
 
-Persoona
-Olga Tammimäki
-Olga on 36-vuotias toiminta-
-terapia opiskelija. Hän on alan-
-vaihtaja, sillä hän on aikaisem-
-malta ammatiltaan artesaani, 
-mutta alan töitä on ollut todella 
-vaikea saada. Toisaalta vuodet ovat vierähtäneet lasten kanssa kotona, mutta nyt kun nuorinkin on koulussa, on aika miettiä omaa ammatillista tulevaisuutta. Olga asuu Petäjävedellä omakotitalossa. Hän harrastaa omavarasitaloutta ja pitää eettisyyttä merkittävänä tekijänä.
-Arvo: Avoin etsijä
+## Persoona
+
+  * Olga Tammimäki
+  * Olga on 36-vuotias toimintaterapia opiskelija. Hän on alanvaihtaja, sillä hän on aikaisemmalta ammatiltaan artesaani, 
+mutta alan töitä on ollut todella vaikea saada. Toisaalta vuodet ovat vierähtäneet lasten kanssa kotona, mutta nyt kun nuorinkin on koulussa, on aika miettiä omaa ammatillista tulevaisuutta. Olga asuu Petäjävedellä omakotitalossa. Hän harrastaa omavarasitaloutta ja pitää eettisyyttä merkittävänä tekijänä.
+
+  * Arvo: Avoin etsijä
 
 ### Ryhmä/segmentti:
 
+Mahdollinen PetCapsule-yrittäjä
 
 ### Mitä tekee tai miettii?
 
