@@ -1,6 +1,6 @@
 ## Asiakasprofiili esimerkit:
 
-Alkuperäiset profiilihahmot määritteli [Juha Hautanen](https://www.linkedin.com/in/juhahautanen)
+Osan profiilihahmoista määritteli [Juha Hautanen](https://www.linkedin.com/in/juhahautanen)
 Kiitoksia! 
 
 Näitä hahmo esimerkkejä voidaan käyttää palvelumäärittelyssä/suunnittelun tukena.
