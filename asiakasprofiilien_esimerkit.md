@@ -137,7 +137,7 @@ Pet Capsule-hoitokoti yrittäjä ?
 
 ## Persoona 6
 
-![](https://openclipart.org/image/300px/svg_to_png/181752/womanmoney.png&disposition=attachment)
+![](https://openclipart.org/image/300px/svg_to_png/161701/oldmanandabook.png&disposition=attachment)
 
 ### Persoona
 
