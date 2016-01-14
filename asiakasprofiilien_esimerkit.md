@@ -6,7 +6,7 @@ Kiitoksia!
 Näitä hahmo esimerkkejä voidaan käyttää palvelumäärittelyssä/suunnittelun tukena.
 
 
-## Persoona 1
+# Persoona 1
 
 ![](https://openclipart.org/image/300px/svg_to_png/219445/Young.png&disposition=attachment)
 
@@ -31,7 +31,7 @@ Mahdollinen asiakas
 
 Töissä käytössä monipuoliset tietotekniset välineet. Kotona paljon viihde-elektroniikkaa joissa käytetään suoratoistopalveluita. Harrastusmielessä on tehnyt myös joitain kotiautomaatiosovelluksia
 
-## Persoona 2
+# Persoona 2
 
 ![](https://openclipart.org/image/300px/svg_to_png/315/TheresaKnott-worldlabel-ladyface.png&disposition=attachment)
 
@@ -53,7 +53,7 @@ Mahdollinen PetCapsule-yrittäjä
 ### Välineet ja vehkeet:
 
 
-## Persoona 3
+# Persoona 3
 
 ![](https://openclipart.org/image/300px/svg_to_png/201539/diamonds-and-money.png&disposition=attachment)
 
@@ -86,7 +86,7 @@ Arvo: Konservatiivinen, mutta kiinnostunut teknologiasta
 
 Käytössä yleensä kannettava tietokone (PC)
 
-## Persoona 4
+# Persoona 4
 
 ![](https://openclipart.org/image/300px/svg_to_png/62575/1274679653.png&disposition=attachment)
 
@@ -110,7 +110,7 @@ Arvo: uskalikko
 ### Välineet ja vehkeet:
 
 
-## Persoona 5
+# Persoona 5
 
 ![](https://openclipart.org/image/300px/svg_to_png/181752/womanmoney.png&disposition=attachment)
 
@@ -136,7 +136,7 @@ Pet Capsule-hoitokoti yrittäjä ?
 
 
 
-## Persoona 6
+# Persoona 6
 
 ![](https://openclipart.org/image/300px/svg_to_png/161701/oldmanandabook.png&disposition=attachment)
 
@@ -151,7 +151,7 @@ Pet Capsule-hoitokoti yrittäjä ?
 
 ### Välineet ja vehkeet:
 
-## Persoona 7
+# Persoona 7
 
 ![](https://openclipart.org/image/300px/svg_to_png/222252/feels.png&disposition=attachment)
 
@@ -174,7 +174,7 @@ Pet Capsule-palvelun väärinkäyttäjä
 
 Käu
 
-## Persoona 8
+# Persoona 8
 
 ![](https://openclipart.org/image/300px/svg_to_png/4990/johnny-automatic-Little-Tommy-Grace.png&disposition=attachment)
 
