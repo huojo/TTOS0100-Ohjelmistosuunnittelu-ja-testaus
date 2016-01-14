@@ -6,6 +6,7 @@ Kiitoksia!
 Näitä hahmo esimerkkejä voidaan käyttää palvelumäärittelyssä/suunnittelun tukena.
 
 
+
 # Persoona 1
 
 ![](https://openclipart.org/image/300px/svg_to_png/219445/Young.png&disposition=attachment)
@@ -27,6 +28,8 @@ Mahdollinen asiakas
 ### Välineet ja vehkeet:
 
 Töissä käytössä monipuoliset tietotekniset välineet. Kotona paljon viihde-elektroniikkaa joissa käytetään suoratoistopalveluita. Harrastusmielessä on tehnyt myös joitain kotiautomaatiosovelluksia
+
+
 
 # Persoona 2
 
@@ -162,7 +165,7 @@ Pet Capsule-palvelun väärinkäyttäjä
 
 ### Välineet ja vehkeet:
 
-Käu
+I am Avatar!!
 
 # Persoona 8
 
@@ -179,9 +182,6 @@ Arvo: Elämässä tärkeää ovat ystävät ja eläimet
 ### Ryhmä/segmentti:
 
 Pet Capsule-palvelun käyttäjä 
-
-### Mitä tekee tai miettii?
-
 
 
 ### Välineet ja vehkeet:
