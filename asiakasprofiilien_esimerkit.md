@@ -152,9 +152,16 @@ Pet Capsule-hoitokoti yrittäjä ?
 
 ## Persoona 7
 
-![](https://openclipart.org/image/300px/svg_to_png/181752/womanmoney.png&disposition=attachment)
+![](https://openclipart.org/image/300px/svg_to_png/222252/feels.png&disposition=attachment)
 
 ### Persoona
+
+Mauri "Sad Frog" L 
+Mauri on 29-vuotias tilastotieteen ja psykologian opiskelija, jonka opinnot ovat jääneet taka-alalle. Elämään on tullut haastetta, koska hän on liittynyt krakkeri-ryhmän  
+
+Latopolis Oy tilapalvelu-
+yhtiössä. Hän on palveluliiketoiminnan johtamisen YAMK opiskelija. Opinnot ovat suurelta osin hyödyllisiä ja on mukavaa, kun harjoitustehtävät voi tehdä omalle työnantajalle ja osittain jopa työajalla. Maija asuu Jyväskylässä harrastaa ryhmäliikuntaa ja käsitöitä, joista julkaisee blogia. 
+Arvo: Sijoittuu arvokeskiöön
 
 
 ### Ryhmä/segmentti:
