@@ -24,9 +24,6 @@ Jarmolla on kolme Seroki-kissaa (Vamppi, Skepa ja Jarna)
 
 Mahdollinen asiakas
 
-### Mitä tekee tai miettii?
-
-
 ### Välineet ja vehkeet:
 
 Töissä käytössä monipuoliset tietotekniset välineet. Kotona paljon viihde-elektroniikkaa joissa käytetään suoratoistopalveluita. Harrastusmielessä on tehnyt myös joitain kotiautomaatiosovelluksia
@@ -39,7 +36,7 @@ Töissä käytössä monipuoliset tietotekniset välineet. Kotona paljon viihde-
 
   * Olga Tammimäki
   * Olga on 36-vuotias toimintaterapia opiskelija. Hän on alanvaihtaja, sillä hän on aikaisemmalta ammatiltaan artesaani, 
-mutta alan töitä on ollut todella vaikea saada. Toisaalta vuodet ovat vierähtäneet lasten kanssa kotona, mutta nyt kun nuorinkin on koulussa, on aika miettiä omaa ammatillista tulevaisuutta. Olga asuu Petäjävedellä omakotitalossa. Hän harrastaa omavarasitaloutta ja pitää eettisyyttä merkittävänä tekijänä.
+mutta alan töitä on ollut todella vaikea saada. Toisaalta vuodet ovat vierähtäneet lasten kanssa kotona, mutta nyt kun nuorinkin on koulussa, on aika miettiä omaa ammatillista tulevaisuutta. Olga asuu Petäjävedellä omakotitalossa. Hän harrastaa omavarasitaloutta ja pitää eettisyyttä merkittävänä tekijänä. Tammimäen suvulla on maatila, joka on ollut tyhjillään viimeiset 10 vuotta. Tilalle olisi hyvä löytää uutta käyttöä.
 
   * Arvo: Avoin etsijä
 
@@ -47,10 +44,13 @@ mutta alan töitä on ollut todella vaikea saada. Toisaalta vuodet ovat vieräht
 
 Mahdollinen PetCapsule-yrittäjä
 
-### Mitä tekee tai miettii?
 
 
 ### Välineet ja vehkeet:
+
+Googlen käyttö ja dokumenttien kirjoittelu sujuu. Puhelin aplikaatioita tarpeen mukaan. 
+
+
 
 
 # Persoona 3
@@ -62,25 +62,15 @@ Mahdollinen PetCapsule-yrittäjä
 Simo Selin
 
 (OKM, ELY-keskus, KS-Liitto,…)
-Hän on 55 vuotia valtiotieteen maisteri.
-Hän toimii erityisasiantuntijan tms.
-tehtävissä ja on usein tekemisissä 
-ammattikorkeakoulujen kanssa. Simo 
-asuu kaupungissa. Hän hölkkää ja
-käy vaimon kanssa joskus konserteissa. 
-Hän on aktiivinen yhdistysmies. Valtion aluehallinnon ja hallinnon muutos saattaa vaikuttaa myös hänen virastonsa tehtäviin. 
+Hän on 55 vuotia valtiotieteen maisteri. Hän toimii erityisasiantuntijan tms. tehtävissä ja on usein tekemisissä ammattikorkeakoulujen kanssa. Simo asuu kaupungissa. Hän hölkkää ja käy vaimon kanssa joskus konserteissa. Hän on aktiivinen yhdistysmies. Valtion aluehallinnon ja hallinnon muutos on suuri kiinnostuksen kohde. 
 
-Simolla on rotukoira (Aasian hirvikoira) Kalle, ja kääpiösnautseri Köntsä 
+Simolla on rotukoira Aasian hirvikoira Kalle, ja kääpiösnautseri Köntsä 
 
+### Arvot  
 
-Arvo: Konservatiivinen, mutta kiinnostunut teknologiasta
-
+Konservatiivinen, mutta kiinnostunut teknologiasta
 
 ### Ryhmä/segmentti:
-
-
-### Mitä tekee tai miettii?
-
 
 ### Välineet ja vehkeet:
 
