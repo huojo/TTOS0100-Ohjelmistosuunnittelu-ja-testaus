@@ -156,20 +156,43 @@ Pet Capsule-hoitokoti yrittäjä ?
 
 ### Persoona
 
-Mauri "Sad Frog" L 
-Mauri on 29-vuotias tilastotieteen ja psykologian opiskelija, jonka opinnot ovat jääneet taka-alalle. Elämään on tullut haastetta, koska hän on liittynyt krakkeri-ryhmän  
+Mauri "Sad Frog" L****n 
 
-Latopolis Oy tilapalvelu-
-yhtiössä. Hän on palveluliiketoiminnan johtamisen YAMK opiskelija. Opinnot ovat suurelta osin hyödyllisiä ja on mukavaa, kun harjoitustehtävät voi tehdä omalle työnantajalle ja osittain jopa työajalla. Maija asuu Jyväskylässä harrastaa ryhmäliikuntaa ja käsitöitä, joista julkaisee blogia. 
-Arvo: Sijoittuu arvokeskiöön
+Mauri on 29-vuotias tilastotieteen ja psykologian opiskelija, jonka opinnot ovat jääneet taka-alalle. Elämään on tullut "haastetta" liittymällä osaksi monikansallista "Ases of spaces"-krakkeri ryhmää. Tilatut hyökkäykset kuuluvat Maurin toimenkuvaan.
 
+Arvo: Jos joku maksaa niin tämä poika jaksaa..
 
 ### Ryhmä/segmentti:
 
+Pet Capsule-palvelun väärinkäyttäjä
 
 ### Mitä tekee tai miettii?
 
 
 ### Välineet ja vehkeet:
 
+Käu
 
+## Persoona 8
+
+![](https://openclipart.org/image/300px/svg_to_png/4990/johnny-automatic-Little-Tommy-Grace.png&disposition=attachment)
+
+### Persoona
+
+Jamppa K. Ukka  
+
+Jamppa on 41-vuotias kukkakauppa yrittäjä, jonka sai myrkytyksen tuntemattomasta kasvista. Myrkytyksen seurauksena hän joutui vuodelepoon kuukauden ajaksi (sairaalaan). Jampalla on kotonaan viisi frettiä. (Rambo, Jambo, Sampo, Mambo ja Touko), joita pitää hoitaa päivittäin. Jamppa on saanut avukseen naapurin Jaskan, joka käy päivittäin hoitamassa otukset.  
+
+Arvo: Elämässä tärkeää ovat ystävät ja eläimet
+
+### Ryhmä/segmentti:
+
+Pet Capsule-palvelun käyttäjä 
+
+### Mitä tekee tai miettii?
+
+
+
+### Välineet ja vehkeet:
+
+Jamppa pysyy käyttämään 
