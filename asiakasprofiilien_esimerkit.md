@@ -33,7 +33,7 @@ Töissä käytössä monipuoliset tietotekniset välineet. Kotona paljon viihde-
 
 ## Persoona 2
 
-![](https://openclipart.org/image/300px/svg_to_png/181752/womanmoney.png&disposition=attachment)
+![](https://openclipart.org/image/300px/svg_to_png/315/TheresaKnott-worldlabel-ladyface.png&disposition=attachment)
 
 ## Persoona
 
