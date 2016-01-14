@@ -88,7 +88,7 @@ Käytössä yleensä kannettava tietokone (PC)
 
 ## Persoona 4
 
-![](https://openclipart.org/image/300px/svg_to_png/181752/womanmoney.png&disposition=attachment)
+![](https://openclipart.org/image/300px/svg_to_png/62575/1274679653.png&disposition=attachment)
 
 ### Persoona
 
