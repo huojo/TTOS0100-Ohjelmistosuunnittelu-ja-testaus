@@ -55,14 +55,14 @@ Mahdollinen PetCapsule-yrittäjä
 
 ## Persoona 3
 
-![](https://openclipart.org/image/300px/svg_to_png/181752/womanmoney.png&disposition=attachment)
+![](https://openclipart.org/image/300px/svg_to_png/201539/diamonds-and-money.png&disposition=attachment)
 
 ### Persoona
 
 Simo Selin
 
 (OKM, ELY-keskus, KS-Liitto,…)
-Hän on 45 vuotia valtiotieteen maisteri.
+Hän on 55 vuotia valtiotieteen maisteri.
 Hän toimii erityisasiantuntijan tms.
 tehtävissä ja on usein tekemisissä 
 ammattikorkeakoulujen kanssa. Simo 
@@ -73,7 +73,7 @@ Hän on aktiivinen yhdistysmies. Valtion aluehallinnon ja hallinnon muutos saatt
 Simolla on rotukoira (Aasian hirvikoira) Kalle, ja kääpiösnautseri Köntsä 
 
 
-Arvo: Esikuvahakuinen erottuja
+Arvo: Konservatiivinen, mutta kiinnostunut teknologiasta
 
 
 ### Ryhmä/segmentti:
@@ -84,6 +84,7 @@ Arvo: Esikuvahakuinen erottuja
 
 ### Välineet ja vehkeet:
 
+Käytössä yleensä kannettava tietokone (PC)
 
 ## Persoona 4
 
