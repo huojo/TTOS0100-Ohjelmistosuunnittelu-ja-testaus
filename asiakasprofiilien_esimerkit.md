@@ -97,9 +97,6 @@ Arvo: uskalikko
 ### Ryhmä/segmentti:
 
 
-### Mitä tekee tai miettii?
-
-
 ### Välineet ja vehkeet:
 
 
@@ -122,7 +119,6 @@ Arvo: Sijoittuu arvokeskiöön
 
 Pet Capsule-hoitokoti yrittäjä ?
 
-### Mitä tekee tai miettii?
 
 
 ### Välineet ja vehkeet:
@@ -137,9 +133,6 @@ Pet Capsule-hoitokoti yrittäjä ?
 
 
 ### Ryhmä/segmentti:
-
-
-### Mitä tekee tai miettii?
 
 
 ### Välineet ja vehkeet:
@@ -160,8 +153,6 @@ Arvo: Jos joku maksaa niin tämä poika jaksaa..
 
 Pet Capsule-palvelun väärinkäyttäjä
 
-### Mitä tekee tai miettii?
-
 
 ### Välineet ja vehkeet:
 
@@ -175,7 +166,8 @@ I am Avatar!!
 
 Jamppa K. Ukka  
 
-Jamppa on 41-vuotias kukkakauppa yrittäjä, jonka sai myrkytyksen tuntemattomasta kasvista. Myrkytyksen seurauksena hän joutui vuodelepoon kuukauden ajaksi (sairaalaan). Jampalla on kotonaan viisi frettiä. (Rambo, Jambo, Sampo, Mambo ja Touko), joita pitää hoitaa päivittäin. Jamppa on saanut avukseen naapurin Jaskan, joka käy päivittäin hoitamassa otukset.  
+Jamppa on 41-vuotias kukkakauppayrittäjä, jonka sai myrkytyksen tuntemattomasta kasvista. Myrkytyksen seurauksena hän joutui vuodelepoon kuukauden ajaksi (sairaalaan). Juuri nyt Jamppa ei pysyt käyttämään kun oikeaa vasenta kättään, muuten kroppa on turta.
+Jampalla on kotonaan viisi frettiä. (Rambo, Jambo, Sampo, Mambo ja Touko), joita pitää hoitaa päivittäin. Jamppa on saanut avukseen naapurin Jaskan, joka käy päivittäin hoitamassa otukset.  
 
 Arvo: Elämässä tärkeää ovat ystävät ja eläimet
 
@@ -183,7 +175,28 @@ Arvo: Elämässä tärkeää ovat ystävät ja eläimet
 
 Pet Capsule-palvelun käyttäjä 
 
+### Välineet ja vehkeet:
+
+Jamppa pysyy käyttämään iPadiä, joka on vuoteen vieressä
+
+# Persoona 9
+
+![](https://openclipart.org/image/300px/svg_to_png/4990/johnny-automatic-Little-Tommy-Grace.png&disposition=attachment)
+
+### Persoona
+
+Jamppa K. Ukka  
+
+Jamppa on 41-vuotias kukkakauppayrittäjä, jonka sai myrkytyksen tuntemattomasta kasvista. Myrkytyksen seurauksena hän joutui vuodelepoon kuukauden ajaksi (sairaalaan). Juuri nyt Jamppa ei pysyt käyttämään kun oikeaa vasenta kättään, muuten kroppa on turta.
+Jampalla on kotonaan viisi frettiä. (Rambo, Jambo, Sampo, Mambo ja Touko), joita pitää hoitaa päivittäin. Jamppa on saanut avukseen naapurin Jaskan, joka käy päivittäin hoitamassa otukset.  
+
+Arvo: Elämässä tärkeää ovat ystävät ja eläimet
+
+### Ryhmä/segmentti:
+
+Pet Capsule-palvelun käyttäjä 
 
 ### Välineet ja vehkeet:
 
-Jamppa pysyy käyttämään 
+Jamppa pysyy käyttämään iPadiä, joka on vuoteen vieressä
+
