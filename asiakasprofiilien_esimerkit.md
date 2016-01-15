@@ -96,9 +96,11 @@ Arvo: uskalikko
 
 ### Ryhmä/segmentti:
 
+Mahdollinen PetCapsule-asiakas
 
 ### Välineet ja vehkeet:
 
+Vehkeet kunnossa!
 
 # Persoona 5
 
@@ -110,26 +112,26 @@ Maija Laatikka
 Maija on 34-vuotias 
 tilapalveluasiantuntija 
 Latopolis Oy tilapalvelu-
-yhtiössä. Hän on palveluliiketoiminnan johtamisen YAMK opiskelija. Opinnot ovat suurelta osin hyödyllisiä ja on mukavaa, kun harjoitustehtävät voi tehdä omalle työnantajalle ja osittain jopa työajalla. Maija asuu Jyväskylässä harrastaa ryhmäliikuntaa ja käsitöitä, joista julkaisee blogia. 
+yhtiössä. Maija asuu Jyväskylässä harrastaa rivitanssia ja viinin tekoa, joista julkaisee blogia. 
+Vapaa-ajallaan hän myös lenkittää naapurien koira, koska omistajat ovat vanhoja ihmisiä-
+
 Arvo: Sijoittuu arvokeskiöön
-
-
 
 ### Ryhmä/segmentti:
 
-Pet Capsule-hoitokoti yrittäjä ?
-
-
+Pet Capsule-hoitokotiyrittäjä ?
 
 ### Välineet ja vehkeet:
-
-
 
 # Persoona 6
 
 ![](https://openclipart.org/image/300px/svg_to_png/161701/oldmanandabook.png&disposition=attachment)
 
 ### Persoona
+
+Kalervo Pulsu
+Kalervo on 72-vuotias eläkeläinen, joka harrastaa kalastusta ja on myös innokas metsämies.
+Metsästäjällä on myös koira Suomen-Spanieli Keijo
 
 
 ### Ryhmä/segmentti:
