@@ -42,9 +42,6 @@ Projektiryhmän ja toimeksiantajan edustajien välisessä viestinnässä ovat ke
 
 Viestinnässä ulkopuolisten kanssa käytetään projektiryhmäläisten omaa harkintaa.  Osalle ulkopuolisista sidosryhmistä (muut projektit, osa laitoksen henkilökunnasta) on mahdollisuus viestiä [LN keskustelutietokannan] avulla. Lisäksi ulkopuolisille sidosryhmille on tarjolla informaatiota X projektin www sivustossa.
 
-#	[Viestintäopinnot projektin aikana
-
-Projektin aikana projektiryhmäläiset suorittavat [2] opintoviikon laajuiset viestinnän opinnot [mm:n] johdolla. Viestintäopintoihin kuuluu sekä ryhmässä suoritettavia jaksoja että yksilöllisesti tuotettujen tekstien arviointia. Ensimmäinen viestintäopintoihin liittyvä tilaisuus on p.k.vvvv.]
 
 #	Viestinnän seuranta ja arviointi
 
