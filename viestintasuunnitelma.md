@@ -1,3 +1,10 @@
+
+Alkuperäinen löytyy täältä! http://homes.jamk.fi/~huojo/opetus/IIZP2010/
+
+
+Tämä on wiki muotoinen viestintäsuunnitelma esimerkki..
+
+
 #	Johdanto
 
 Tämä viestintäsuunnitelman tarkoituksena on määritellä X projektin yhteydessä käytetyt viestintämenetelmät ja  kanavat. Selkeällä ja yhdenmukaisella viestinnällä varmistetaan informaation kulku ja vaikutetaan projektin laatutavoitteiden toteutumiseen.
