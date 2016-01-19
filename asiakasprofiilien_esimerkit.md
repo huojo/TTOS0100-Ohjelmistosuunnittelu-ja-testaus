@@ -186,7 +186,7 @@ Jamppa pysyy käyttämään iPadiä, joka on vuoteen vieressä
 
 # Persoona 9
 
-![](https://openclipart.org/image/800px/svg_to_png/81991/knitting-granny.png&disposition=attachment)
+![](https://openclipart.org/image/300px/svg_to_png/81991/knitting-granny.png&disposition=attachment)
 
 ### Persoona
 
