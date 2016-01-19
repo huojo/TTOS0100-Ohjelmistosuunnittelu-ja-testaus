@@ -65,7 +65,7 @@ Googlen käyttö ja dokumenttien kirjoittelu sujuu. Puhelin aplikaatioita tarpee
 Simo Selin
 
 (OKM, ELY-keskus, KS-Liitto,…)
-Hän on 55 vuotia valtiotieteen maisteri. Hän toimii erityisasiantuntijan tms. tehtävissä ja on usein tekemisissä ammattikorkeakoulujen kanssa. Simo asuu kaupungissa. Hän hölkkää ja käy vaimon kanssa joskus konserteissa. Hän on aktiivinen yhdistysmies. Valtion aluehallinnon ja hallinnon muutos on suuri kiinnostuksen kohde. 
+Hän on 55 vuotia valtiotieteen maisteri. Hän toimii erityisasiantuntijan tms. tehtävissä ja raportoi Valvirialle turvallisuus/hygienia tarkastuksista. Simo asuu kaupungissa. Hän hölkkää ja käy vaimon kanssa joskus konserteissa. Hän on aktiivinen eläinoikeusaktiivi. Valtion aluehallinnon ja hallinnon muutos on suuri kiinnostuksen kohde. 
 
 Simolla on rotukoira Aasian hirvikoira Kalle, ja kääpiösnautseri Köntsä 
 
@@ -74,6 +74,8 @@ Simolla on rotukoira Aasian hirvikoira Kalle, ja kääpiösnautseri Köntsä
 Konservatiivinen, mutta kiinnostunut teknologiasta
 
 ### Ryhmä/segmentti:
+
+Viranomainen
 
 ### Välineet ja vehkeet:
 
@@ -131,7 +133,7 @@ Pet Capsule-hoitokotiyrittäjä ?
 
 Kalervo Pulsu
 Kalervo on 72-vuotias eläkeläinen, joka harrastaa kalastusta ja on myös innokas metsämies.
-Metsästäjällä on myös koira Suomen-Spanieli Keijo
+Metsästäjällä on myös koira Suomen-Spanieli Keijo. Kalervolla on todettu värisokeus, joka joissain tilanteissa hankaloittaa 
 
 
 ### Ryhmä/segmentti:
