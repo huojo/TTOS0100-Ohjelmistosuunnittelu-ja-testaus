@@ -186,22 +186,20 @@ Jamppa pysyy käyttämään iPadiä, joka on vuoteen vieressä
 
 # Persoona 9
 
-![](https://openclipart.org/image/300px/svg_to_png/4990/johnny-automatic-Little-Tommy-Grace.png&disposition=attachment)
+![](https://openclipart.org/image/800px/svg_to_png/81991/knitting-granny.png&disposition=attachment)
 
 ### Persoona
 
-Mjummo   
+Eliisa Avanto
 
-Jamppa on 41-vuotias kukkakauppayrittäjä, jonka sai myrkytyksen tuntemattomasta kasvista. Myrkytyksen seurauksena hän joutui vuodelepoon kuukauden ajaksi (sairaalaan). Juuri nyt Jamppa ei pysyt käyttämään kun oikeaa vasenta kättään, muuten kroppa on turta.
-Jampalla on kotonaan viisi frettiä. (Rambo, Jambo, Sampo, Mambo ja Touko), joita pitää hoitaa päivittäin. Jamppa on saanut avukseen naapurin Jaskan, joka käy päivittäin hoitamassa otukset.  
+Eliisa on 85-vuotias vanharouva, joka harrastaa kudontaa. Eliisa oli nuoruudessaan töissä Berliinin eläintarhassa, josta hänelle jäi into huolehtia eläimistä. Lastenlapset tuovat usein otuksiaan Eliisan luo hoitoon, koska hänelle siitä on pelkästään iloa. Lapset ovat kuitenkin hieman huolestuneita, mitä otuksille ja Eliisalle kuuluu. Eliisa itse ei perusta liian hienoista välineistä, mutta pitää esim. videopuhelua mukavana ajatuksena (kunhan hän itse saa päättää!)
 
-Arvo: Elämässä tärkeää ovat ystävät ja eläimet
+Arvo: Jänikset maailman kartalle!
 
 ### Ryhmä/segmentti:
 
-Pet Capsule-palvelun käyttäjä 
+Pet Capsule-palvelun käyttäjä ? 
 
 ### Välineet ja vehkeet:
 
-Jamppa pysyy käyttämään iPadiä, joka on vuoteen vieressä
-
+Eliisa voi osallistua videopuheluun 
