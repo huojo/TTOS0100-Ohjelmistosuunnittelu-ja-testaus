@@ -61,28 +61,44 @@ Sisällysluettelo ?
 
 ## Palvelun/ohjelmiston sidosryhmät ja asiakkaat (Service and customers) 
 
+
 ### Sidosryhmät (Stakeholders)
 
 https://en.wikipedia.org/wiki/Stakeholder_analysis
 
+  * [Mikä ihmeen sidosryhmä?](https://fi.wikipedia.org/wiki/Sidosryhm%C3%A4)
+
+
+Sidosryhmät (esimerkkejä)
+
+* [Linkki sidosryhmän omaan sivuun]()
+* Mungo consulting Oy, Palvelun tarjoaja
+* RahoittajaA, yrityksen osakas, Bankoman Oy, osakkeen omistaja 55 %
+* RahoittajaB, Yrityksen osakas, Mauri Bosse, omistaa 5 %
+* TuotantotiimiA, em. yrityksen työntekijät, Kalle, Kille, Pelle ja Pöppö
+* SuurAsiakasA, NordMan Oy, yritysasiakas
+* SuurAsiakasB, Bill Cates Ikkunatehdas, yritysasiakas
+* Bad Man, kiusantekijä
+* Snake Consulting Oy, kilpailija
+
+Sidosryhmä asiakkaat 
+
+Voi olla järkevää luoda oma sivu asiakasprofiileille..
+
+  * [Linkki asiakasprofiiliin 1]()
+  * [Linkki asiakasprofiiliin 2]()
+  * [Linkki asiakasprofiiliin 3]()
+
+
+
 Kuka on kiinnostunut tuotteesta tai kenellä on sanansa sanottavana liittyen tuotteen kehittämiseen ?
 
-  * Mungo consulting Oy, Palvelun tarjoaja
-  * RahoittajaA, yrityksen osakas, Bankoman Oy, osakkeen omistaja 55 %
-  * RahoittajaB, Yrityksen osakas, Mauri Bosse, omistaa 5 %
-  * TuotantotiimiA, em. yrityksen työntekijät, Kalle, Kille, Pelle ja Pöppö
-  * SuurAsiakasA, NordMan Oy, yritysasiakas
-  * SuurAsiakasB, Bill Cates Ikkunatehdas, yritysasiakas
-  * AsiakasRyhmäX, eläkeläiset
-  * AsiakasRyhmäZ, maastamuuttajat
-  * Bad Man, kiusantekijä
-  * Snake Consulting Oy, kilpailija
- 
 ## Sidosryhmäkartta (Stakeholder map)
 
 ![](https://www.lucidchart.com/publicSegments/view/afbaa205-0924-40f8-a0a1-96e281aafcf5/image.png)
 
-  * [Mikä ihmeen sidosryhmä?](https://fi.wikipedia.org/wiki/Sidosryhm%C3%A4)
+
+
 
 
 ## Yleinen palvelun asiakaspolku (General Customer Journey)
