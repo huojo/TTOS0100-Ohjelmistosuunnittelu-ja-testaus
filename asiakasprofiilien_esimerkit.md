@@ -141,6 +141,8 @@ Mahdollinen Pet Capsule-käyttäjä
 
 ### Välineet ja vehkeet:
 
+HoundDog-tutkapanta ja puhelin aplikaatio (Android)
+
 # Persoona 7
 
 ![](https://openclipart.org/image/300px/svg_to_png/222252/feels.png&disposition=attachment)
