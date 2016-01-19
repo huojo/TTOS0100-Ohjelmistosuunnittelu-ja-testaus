@@ -1,4 +1,4 @@
-## Persoonat esimerkit:
+## Persoona esimerkit:
 
 Osan profiilihahmoista määritteli [Juha Hautanen](https://www.linkedin.com/in/juhahautanen)
 Kiitoksia! 
