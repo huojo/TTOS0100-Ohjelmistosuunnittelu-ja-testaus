@@ -65,7 +65,7 @@ Googlen käyttö ja dokumenttien kirjoittelu sujuu. Puhelin aplikaatioita tarpee
 Simo Selin
 
 (OKM, ELY-keskus, KS-Liitto,…)
-Hän on 55 vuotia valtiotieteen maisteri. Hän toimii erityisasiantuntijan tms. tehtävissä ja raportoi Valvirialle turvallisuus/hygienia tarkastuksista. Simo asuu kaupungissa. Hän hölkkää ja käy vaimon kanssa joskus konserteissa. Hän on aktiivinen eläinoikeusaktiivi. Valtion aluehallinnon ja hallinnon muutos on suuri kiinnostuksen kohde. 
+Hän on 55 vuotias valtiotieteen maisteri. Hän toimii erityisasiantuntijan tms. tehtävissä ja raportoi Valvirialle turvallisuus/hygienia tarkastuksista. Simo asuu kaupungissa. Hän hölkkää ja käy vaimon kanssa joskus konserteissa. Hän on aktiivinen eläinoikeusaktiivi. Valtion aluehallinnon ja hallinnon muutos on suuri kiinnostuksen kohde. 
 
 Simolla on rotukoira Aasian hirvikoira Kalle, ja kääpiösnautseri Köntsä 
 
@@ -133,11 +133,11 @@ Pet Capsule-hoitokotiyrittäjä ?
 
 Kalervo Pulsu
 Kalervo on 72-vuotias eläkeläinen, joka harrastaa kalastusta ja on myös innokas metsämies.
-Metsästäjällä on myös koira Suomen-Spanieli Keijo. Kalervolla on todettu värisokeus, joka joissain tilanteissa hankaloittaa 
-
+Metsästyskaverina Kalervolla on verikoira Keijo. Keijo mekkaloi luonteensa mukaisesti äänekkäästi hakkuen, joten sille on rakennettu äänieristetty häkki. Keijo on myös innokas järsimään ympäristöään. Kalervolla on todettu värisokeus, joka joissain tilanteissa hankaloittaa elämää.   
 
 ### Ryhmä/segmentti:
 
+Mahdollinen Pet Capsule-käyttäjä
 
 ### Välineet ja vehkeet:
 
@@ -156,7 +156,6 @@ Arvo: Jos joku maksaa niin tämä poika jaksaa..
 ### Ryhmä/segmentti:
 
 Pet Capsule-palvelun väärinkäyttäjä
-
 
 ### Välineet ja vehkeet:
 
@@ -189,7 +188,7 @@ Jamppa pysyy käyttämään iPadiä, joka on vuoteen vieressä
 
 ### Persoona
 
-Jamppa K. Ukka  
+Mjummo   
 
 Jamppa on 41-vuotias kukkakauppayrittäjä, jonka sai myrkytyksen tuntemattomasta kasvista. Myrkytyksen seurauksena hän joutui vuodelepoon kuukauden ajaksi (sairaalaan). Juuri nyt Jamppa ei pysyt käyttämään kun oikeaa vasenta kättään, muuten kroppa on turta.
 Jampalla on kotonaan viisi frettiä. (Rambo, Jambo, Sampo, Mambo ja Touko), joita pitää hoitaa päivittäin. Jamppa on saanut avukseen naapurin Jaskan, joka käy päivittäin hoitamassa otukset.  
