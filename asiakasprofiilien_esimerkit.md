@@ -202,4 +202,4 @@ Pet Capsule-palvelun käyttäjä ?
 
 ### Välineet ja vehkeet:
 
-Eliisa voi osallistua videopuheluun 
+Eliisa voi osallistua videopuheluun, kunhan se on riittävän yksinkertaista
