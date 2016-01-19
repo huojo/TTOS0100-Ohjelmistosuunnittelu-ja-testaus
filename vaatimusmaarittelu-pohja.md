@@ -59,15 +59,14 @@ Sisällysluettelo ?
 | Esi-katselmointi | 25.2.2017 | |  | P1 |
 | Vaatimusmäärittely luovutetaan | 28.2.2017 | 12.2.2017 |  | P1 |
 
-## Palvelun/ohjelmiston sidosryhmät ja asiakkaat (Service and customers) 
+## Palvelun/ohjelmiston tunnistetut sidosryhmät ja asiakkaat (Stakeholders and customers) 
 
 
 ### Sidosryhmät (Stakeholders)
 
-https://en.wikipedia.org/wiki/Stakeholder_analysis
-
-  * [Mikä ihmeen sidosryhmä?](https://fi.wikipedia.org/wiki/Sidosryhm%C3%A4)
-
+* https://en.wikipedia.org/wiki/Stakeholder_analysis
+* [Mikä ihmeen sidosryhmä?](https://fi.wikipedia.org/wiki/Sidosryhm%C3%A4)
+* Kuka on kiinnostunut tuotteesta tai kenellä on sanansa sanottavana liittyen tuotteen kehittämiseen ?
 
 Sidosryhmät (esimerkkejä)
 
@@ -81,34 +80,7 @@ Sidosryhmät (esimerkkejä)
 * Bad Man, kiusantekijä
 * Snake Consulting Oy, kilpailija
 
-Sidosryhmä asiakkaat 
-
-Voi olla järkevää luoda oma sivu asiakasprofiileille..
-
-  * [Linkki asiakasprofiiliin 1]()
-  * [Linkki asiakasprofiiliin 2]()
-  * [Linkki asiakasprofiiliin 3]()
-
-
-
-Kuka on kiinnostunut tuotteesta tai kenellä on sanansa sanottavana liittyen tuotteen kehittämiseen ?
-
-## Sidosryhmäkartta (Stakeholder map)
-
-![](https://www.lucidchart.com/publicSegments/view/afbaa205-0924-40f8-a0a1-96e281aafcf5/image.png)
-
-
-
-
-
-## Yleinen palvelun asiakaspolku (General Customer Journey)
-
-![](https://camo.githubusercontent.com/1429ec848bc406a1bc7f38874188e4af03d3ee46/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f6c6f7076357a6a6a337076676261392f757365725f6a6f75726e6579732d30322e706e673f646c3d31)
-
-Käydään läpi asiakaspolku, jossa käytetään nimettyjä sidosryhmien edustajia
-
-
-  *  [Mikä ihmeen palvelupolku](https://www.google.fi/search?q=palvelupolku&espv=2&biw=1626&bih=843&site=webhp&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjU3Kn22pnKAhWDWywKHWrDB-wQsAQIHA)
+Tunnistetut asiakasprofiilit 
 
 ## Asiakasprofiilit (Customer Profiles)
 
@@ -116,12 +88,26 @@ Käydään läpi asiakaspolku, jossa käytetään nimettyjä sidosryhmien edusta
   * Asiakas 2, Riku Rikas, 30, IT Yrittäjä, asuinpaikka tuntematon, kotoisin nomands land 
   * Asiakas 3, Siiri Koikkalainen 99, suurmummo, Hankasalmi, (Sokea)
   * Asiakas 4, John Rambu, 55, tuntematon, Helsinki, (Bad Man)
-  * Asiakas 5, 
-  * Asiakas 6
 
-## Asiakaspolku(Customer Journey Maps)
+Voi olla toisaalta järkevää luoda oma sivu jokaiselle asiakasprofiileille..
 
-  * Tarkennetaan kuvausta  ?
+  * [Linkki asiakasprofiiliin 1]()
+  * [Linkki asiakasprofiiliin 2]()
+  * [Linkki asiakasprofiiliin 3]()
+
+
+## Sidosryhmäkartta (Stakeholder map)
+
+![](https://www.lucidchart.com/publicSegments/view/afbaa205-0924-40f8-a0a1-96e281aafcf5/image.png)
+
+## Yleinen palvelun asiakaspolku (General Customer Journey)
+
+![](https://camo.githubusercontent.com/1429ec848bc406a1bc7f38874188e4af03d3ee46/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f6c6f7076357a6a6a337076676261392f757365725f6a6f75726e6579732d30322e706e673f646c3d31)
+
+Käydään läpi asiakaspolku, jossa käytetään nimettyjä sidosryhmien edustajia
+
+  *  [Mikä ihmeen palvelupolku](https://www.google.fi/search?q=palvelupolku&espv=2&biw=1626&bih=843&site=webhp&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjU3Kn22pnKAhWDWywKHWrDB-wQsAQIHA)
+
 
 ## Palvelun osa-aluejako (Service Domain areas)
 
@@ -140,6 +126,27 @@ ohjelmiston osa-alueita/lohkoja?
   * Käyttöliittymät ?
   * Autentikointi ?
   * Laskutus ?
+
+## Tärkeimmät asiakaspolut (Customer Journey Maps) valituiden asiakasprofiilien näkökulmasta
+
+  * Tarkennetaan kuvausta tehtävän mukaisesti ?
+
+### Asiakaspolku käytöönotto [asiakasprofiili_1] näkökulmasta
+
+* lorem ipsum
+* Blue Print-kuva ?
+
+
+### Asiakaspolku tuotteen takuukorjaus [asiakasprofiili_2] näkökulmasta
+
+* lorem ipsum
+* Blue Print-kuva ?
+
+### Asiakaspolku tuotten uudelleenasennus [asiakasprofiili_3] näkökulmasta
+
+* lorem ipsum
+* Blue Print-kuva ?
+
 
 ## Tärkeimmät piirteet/ominaisuudet (Features)
 
