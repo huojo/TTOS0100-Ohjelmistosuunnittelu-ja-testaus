@@ -84,6 +84,8 @@ Tunnistetut asiakasprofiilit
 
 ## Asiakasprofiilit (Customer Profiles)
 
+Esimerkkejä! korvatkaa
+
   * Asiakas 1, Mauno Mainio, 67, eläkeläinen, Vierumäki, kotosin Pohjois-Savosta (Matematiikan opettaja)
   * Asiakas 2, Riku Rikas, 30, IT Yrittäjä, asuinpaikka tuntematon, kotoisin nomands land 
   * Asiakas 3, Siiri Koikkalainen 99, suurmummo, Hankasalmi, (Sokea)
@@ -91,9 +93,9 @@ Tunnistetut asiakasprofiilit
 
 Voi olla toisaalta järkevää luoda oma sivu jokaiselle asiakasprofiileille..
 
-  * [Linkki asiakasprofiiliin 1]()
-  * [Linkki asiakasprofiiliin 2]()
-  * [Linkki asiakasprofiiliin 3]()
+  * [Linkki asiakasprofiiliin 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md)
+  * [Linkki asiakasprofiiliin 2](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md)
+  * [Linkki asiakasprofiiliin 3](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md)
 
 
 ## Sidosryhmäkartta (Stakeholder map)
