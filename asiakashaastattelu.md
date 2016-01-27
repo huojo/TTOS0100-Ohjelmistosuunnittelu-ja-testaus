@@ -38,8 +38,16 @@ Käyttötapaus: Asiakas tilaan ruokaa kotitoimituksella
 * Askel 3
 * Askel 4
 
+Poikkeukset:
+
+Tuotetta ei löydy kaupasta. (asiakkaan on annettava lupa korvaavan tuoteen valintaan?)
 
 
+
+Huomioitavaa:
+
+* Muista, että asiakas voi peruutaa tilauksen
+* Mitä jos osoite on väärin ?
 
 
 
