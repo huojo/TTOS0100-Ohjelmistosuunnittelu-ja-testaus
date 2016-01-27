@@ -18,11 +18,11 @@
 * Millaisissa rooleissa sitä käytetään ?
 * Mitä toiminnallisuuksia olisi hyvä olla ?
 
-### Kirjataan huomiot käyttötapausten/user storyjen muotoon:
+### Kirjataan huomiot [Use Case eli käyttötapausten](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md) muotoon:
 
-tärkeimmät käyttötapaukset
+Tunnista tärkeimmät käyttötapaukset
 
-
+* Mitkä ovat tärkeimmät polut ? (Näitä käytetään testauksessa!!)
 * Millaisen polun käyttäjän 
 * Mitä pitää saada aikaan ?
 * Mitä on mahdollinen lopputulos ?
