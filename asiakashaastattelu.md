@@ -1,6 +1,6 @@
 # Ohjeita asiakkaan kuulemiseen
 
-![](https://openclipart.org/image/2400px/svg_to_png/231887/Conflict-Silhouette.png)
+![]https://openclipart.org/image/300px/svg_to_png/231887/Conflict-Silhouette.png&disposition=attachment)
 
 * Haastattelutilanteessa kannattaa toimia aktiivisesti! Tapaamisten järjestäminen voi olla hankalaa!
 * Kannattaa pitää kieli keskellä suuta! Tässä kohtaa toimittaja pyrkii luomaan luottosuhdetta asiakkaaseen ja voi jopa menettää tilauksen!
