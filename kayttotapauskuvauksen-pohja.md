@@ -17,6 +17,12 @@ Kiitokset alkuperäisen tekijöille!
 Yleiskuvaus	Kuvataan lyhyesti mikä on käyttötapauksen tarkoitus/ tehtävä. 
 Esim. Käyttäjä lisää, muuttaa tai poistaa tietoja
 
+## Kuva
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Edit_an_article.svg/261px-Edit_an_article.svg.png)
+
+Alkuperäinen lähde: wikipedia.org
+
 ###Laatija	Kirjataan laatijan nimi.
 
   * Päiväys / Versio	Kirjataan laatimispäivä ja versio.
