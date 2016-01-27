@@ -1,7 +1,12 @@
 # Ohjeita asiakkaan kuulemiseen
 
-## 
-
+* Haastattelutilanteessa kannattaa toimia aktiivisesti!
+* Kannattaa pitää kieli keskellä suuta! Tässä kohtaa toimittaja pyrkii luomaan luottosuhdetta asiakkaaseen ja voi jopa menettää tilauksen!
+* Älä oleta, että tiedät jo ratkaisun! Kuuntele asiakasta!
+* Piirrä kuvia!
+* Vältä teknistä jargonia! Asiakas ei välttämättä ymmärrä totetuksesta mitään!
+* Tärkeintä on ymmärtää kipupiste ja kirkastaa käyttötilanne/skenaario yhdessä asiakkaan kanssa
+* Monimutkaiset tuotteen tarvitsevat useita tapaamisia ja työpajoja!
 
 
 # Haastattelun tavoitteet:
