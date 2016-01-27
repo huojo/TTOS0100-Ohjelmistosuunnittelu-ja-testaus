@@ -12,15 +12,19 @@
 
 # Haastattelun tavoitteet:
 
-* Saada riittävä käsitys asiakkaan toimiannosta
+* Saada riittävä käsitys asiakkaan toimeksiannosta
 * Mikä on asiakkaan todellin tuska ? (Mikä ongelma pitää ratkaista)
 * Kuka/mikä käyttää palvelu/tuotetta ?
-* Millaisissa rooleissa sitä käytetään ?
+* Millaisissa rooleissa sitä käytetään ? 
 * Mitä toiminnallisuuksia olisi hyvä olla ?
 
-### Kirjataan huomiot [Use Case eli käyttötapausten](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md) muotoon:
+* Erilaiset rajoitukset ? (lait, viranomaiset, tiedon varastointi etc..)
+* Muut vaatimukset ? (Toiminnallisuudet tottakai, mutta mitä esim. skaalautuvuus, tehokkuus, tietoturva, 
 
-Tunnista tärkeimmät käyttötapaukset
+
+### Kirjataan tärkeimmtä käyttöskenaariot [Use Case eli käyttötapausten](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md) muotoon:
+
+Kirjaa tärkeimmät käyttötapaukset(skenaariot), koskä niiden avulla voidaan tunnistaa tärkeimmät toiminnot!!!
 
 * Mitkä ovat tärkeimmät polut ? (Näitä käytetään testauksessa!!)
 * Millaisen polun käyttäjän 
@@ -48,6 +52,12 @@ Huomioitavaa:
 
 * Muista, että asiakas voi peruutaa tilauksen
 * Mitä jos osoite on väärin ?
+
+
+
+# Miksi näin!?
+
+  * Tämä kaikki tieto tarvitaan Vaatimusmäärittelyn tekemiseen!
 
 
 
