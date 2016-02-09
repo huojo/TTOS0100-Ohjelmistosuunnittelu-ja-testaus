@@ -1,5 +1,17 @@
 ## Pongaa Reku pelin säännöt V0.1
 
+Ohessa kasa kortteja ja alla karkea selitys, mitä jokaisen kortin kohdalla on tarkoitus huomioida.
+
+Peli on kehitysvaiheessa ja se ei edusta vielä täydellisyyttä. Pyrin kehittämään sitä kurssin aikana ja sen pohjalta.
+
+PELIN TAVOITE:
+
+* Oppia tunnistamaan tärkeitä ohjelmiston määrittelyyn liittyviä termejä/käsitteitä
+* Oppia keskustelmaan oleellisista asioista, jotka vaikuttavat ohjelmiston/palvelun määrittelyyn & suunnitteluun
+* Oppia tulkitsemaan olemassa olevia vaatimusmäärittelyjä ?
+
+
+
 ![](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/images/bongaa-reku-suomeksi1.jpg)
 
 ![](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/images/bongaa-reku-suomeksi2.jpg)
