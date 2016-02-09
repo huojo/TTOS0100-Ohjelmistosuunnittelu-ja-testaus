@@ -11,13 +11,30 @@ PELIN TAVOITE:
 * Oppia tulkitsemaan olemassa olevia vaatimusmäärittelyjä ?
 
 
+Kuva1: Tässä kokoelma erilaisia käsitteitä.
+
 
 ![](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/images/bongaa-reku-suomeksi1.jpg)
+
+Kuva2: Tässä kokoelma erilaisia käsitteitä.
 
 ![](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/images/bongaa-reku-suomeksi2.jpg)
 
 
 # Vaatimusten eri muotoja
+
+* Mikä on vaatimus ?
+
+Ohjelmistotekniikassa puhutaa yleisesti vaatimuksista (Requirements). Vaatimusten avulla määritellään ohjelmistoon, ominaisuuteen tai palveluun liittyviä osa-alueita.
+
+* Millainen on vaatimus ?
+
+Vaatimus on yleisesti muotoa esim. _Käyttäjän on mahdollista kirjauta palveluun käyttäen Facebook-tunnusta_
+
+tai _Järjestelmän X käynnistyminen saa kestää maksimissaan 5 minuuttia_
+
+
+
 
 
 
