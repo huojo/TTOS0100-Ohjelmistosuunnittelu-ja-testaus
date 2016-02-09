@@ -24,6 +24,15 @@
 ## Tehokkuus (Performance)
 
 * sopivia kysymyksiä
+ 
+
+## Kuormitettavuus (Load)
+
+* sopivia kysymyksiä
+ 
+## Käytettävyys (Usability)
+
+* sopivia kysymyksiä
 
 ## Laajennettavuus (Scalability)
 
