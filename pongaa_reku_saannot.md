@@ -33,7 +33,10 @@ Vaatimus on yleisesti muotoa esim. _Käyttäjän on mahdollista kirjauta palvelu
 
 tai _Järjestelmän X käynnistyminen saa kestää maksimissaan 5 minuuttia_
 
+Tärkeää on huomata, että vaatimus käsittelee vain yhtä asiaa! 
 
+
+_Järjestelmän X sammuttaminen saa kestää 2 minuuttia ja sammuessaan palvelu lähettää tekstiviestin administraattorille_
 
 
 
