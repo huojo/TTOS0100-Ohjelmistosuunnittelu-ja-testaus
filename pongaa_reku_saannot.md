@@ -25,23 +25,27 @@ Kuva2: Tässä kokoelma erilaisia käsitteitä.
 
 * Mikä on vaatimus ?
 
-Ohjelmistotekniikassa puhutaa yleisesti vaatimuksista (Requirements). Vaatimusten avulla määritellään ohjelmistoon, ominaisuuteen tai palveluun liittyviä osa-alueita.
+Ohjelmistotekniikassa puhutaa yleisesti vaatimuksista (Requirements). Vaatimusten avulla tarkennetaan ohjelmistoon, ominaisuuteen tai palveluun liittyviä toimintoja tai rajoituksia.
 
 * Millainen on vaatimus ?
 
-Vaatimus on yleisesti muotoa esim. _Käyttäjän on mahdollista kirjauta palveluun käyttäen Facebook-tunnusta_
+Vaatimus on yleisesti muotoa esim. 
 
-tai _Järjestelmän X käynnistyminen saa kestää maksimissaan 5 minuuttia_
+_Käyttäjän on mahdollista kirjauta palveluun käyttäen Facebook-tunnusta_
 
-Tärkeää on huomata, että vaatimus käsittelee vain yhtä asiaa! 
+tai _Järjestelmän X käynnistyminen saa kestää maksimissaan 5 minuuttia_ tai _Salasanassa on käytettävä vähintään MD5-tason salausta_
 
+Tärkeää on huomata, että vaatimus käsittelee vain yhtä asia kokonaisuutta! 
 
 _Järjestelmän X sammuttaminen saa kestää 2 minuuttia ja sammuessaan palvelu lähettää tekstiviestin administraattorille_
 
+## Asiakkuus & tilaaja tason vaatimukset (Needs)
 
+Asiakas voi esittää yleensä huomattavasti yleisempiä toiveita. Näitä kuvataa usein asiakkaan tarpeina (Needs)
+On tärkeää kirjata asiakkaan tarpeet ja johtaa niistä virallisempia vaatimuksia esim.
 
+Asiakkaan tarve/toive: _Asiakaan mielestä google tunnusten käyttö helpottaisi kirjautumista ko. palveluun_ -> Vaatimusmuodossa _ X on mahdollista kirjautua käyttäen google-käyttäjätunnusta.
 
-## Asiakkuus & tilaaja tason vaatimukset
 
 ### Asiakas vaatimus (Customer requirement)
 
