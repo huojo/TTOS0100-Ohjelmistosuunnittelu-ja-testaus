@@ -41,23 +41,31 @@
 
 ## Kuormitettavuus (Load)
 
-* sopivia kysymyksiä
+* Miten paljon palvelua on kyettävä kuormittamaan ja samalla säilyttämään riittävä palvelukapasiteetti?
+
+
  
 ## Käytettävyys (Usability)
 
-* sopivia kysymyksiä
+* Millainen käytettävyys tuotteella/toiminnalla on oltava? 
+* Onko jotain vertailukohtaa tarjolla?
+* Millä kriteereillä käytettävyyttä on kehitettävä? Onko asiakasryhmiä, joille käytettävyys on huomioitava erikseen?
+
 
 ## Laajennettavuus (Scalability)
 
-* sopivia kysymyksiä
+* Miten laajennettavuus on otettava huomioon? 
+* millaista palvelun käyttö on ? Piikki kuormia? esim. joulumyynti ?
+* Miten paljon asiakkaita voi olla tulevaisuudessa? 
+* Onko tarve laajentaa palvelua?
 
 ## Ylläpidettävyys (Maintainablity)
 
-* sopivia kysymyksiä
+* Miten ohjelmisto on toteutettava, että se olisi ylläpidettävä? Miten dokumentoinnissa pitää huolehtia ylläpidettävyys?
 
 ## Tietoturva (Security)
 
-* sopivia kysymyksiä
+* Onko joitain mitä tietoturvan näkökulmasta on huomioitava ? standardi ? Suojausluokat ? etc.
 
 ## Käyttöturvallisuus (Safety)
 
