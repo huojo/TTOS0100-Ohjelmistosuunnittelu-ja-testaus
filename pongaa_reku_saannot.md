@@ -35,9 +35,45 @@ _Käyttäjän on mahdollista kirjauta palveluun käyttäen Facebook-tunnusta_
 
 tai _Järjestelmän X käynnistyminen saa kestää maksimissaan 5 minuuttia_ tai _Salasanassa on käytettävä vähintään MD5-tason salausta_
 
-Tärkeää on huomata, että vaatimus käsittelee vain yhtä asia kokonaisuutta! 
+Tärkeää on huomata, että vaatimus käsittelee vain yhtä asia kokonaisuutta! Alla olevassa vaatimuksessa on periaateessa kaksi erillistä. Usein ne myös johtavat useampaan uuteen
 
 _Järjestelmän X sammuttaminen saa kestää 2 minuuttia ja sammuessaan palvelu lähettää tekstiviestin administraattorille_
+
+voisi johtaaa useampaan vaatimukseen => 
+
+* _Järjestelmän X sammuttaminen saa kestää 2 minuuttia_
+* _Järjestelmän X sammuttamisesta voidaan lähettää tekstiviesti_
+* _Järjestelmän X tilatieto voidaan lähettää tekstiviestinä_
+* _Järjestelmän X tilatieto voidaan lähettää sähköpostina_
+* _tilatieto palvelun vastaan ottajan osoite voidaan asettaa käyttöliittymässä Y_
+
+=> Näistä vaatimuksista voisi tunnistaa uusi ominaisuuksia/osa-alueita esim. "tilatieto-viestipalvelu" ja "palveluhallinta"
+
+
+Ominaisuus "Tilatieto-viestipalvelu" 
+
+Toiminnallisia vaatimuksi olisivat: 
+
+* _Järjestelmän X tilatieto voidaan lähettää tekstiviestinä_
+* _Järjestelmän X tilatieto voidaan lähettää sähköpostina_
+* _tilatieto palvelun vastaan ottajan osoite voidaan asettaa käyttöliittymässä Y_
+
+Ominaisuus "Palvelunhallinta"
+
+Toiminnallisia vaatimuksia:
+
+* _Salasanassa on käytettävä vähintään MD5-tason salausta_
+* _Palvelunhallinan tilatietoa voidaan lähettää viestinä palvelun valvojalle_
+* _Palvelunhallinnan on hyödynnettävä tilatieto-palvelua_
+
+Ei-Toiminnallisia vaatimuksia olisivat  
+
+* _Järjestelmän X sammuttaminen saa kestää 2 minuuttia_
+ 
+
+
+
+
 
 ## Asiakkuus & tilaaja tason vaatimukset (Needs)
 
