@@ -31,9 +31,10 @@ Ohjelmistotekniikassa puhutaa yleisesti vaatimuksista (Requirements). Vaatimuste
 
 Vaatimus on yleisesti muotoa esim. 
 
-_Käyttäjän on mahdollista kirjauta palveluun käyttäen Facebook-tunnusta_
-
-tai _Järjestelmän X käynnistyminen saa kestää maksimissaan 5 minuuttia_ tai _Salasanassa on käytettävä vähintään MD5-tason salausta_
+* _Käyttäjän on mahdollista kirjauta palveluun käyttäen Facebook-tunnusta_
+* _Järjestelmän X käynnistyminen saa kestää maksimissaan 5 minuuttia_ 
+* _Salasanassa on käytettävä vähintään MD5-tason salausta_
+* _Palvelun X kaatuessa se palautetaan automaattisesti toimintaan vikaa edeltäneeseen tilaan_
 
 Tärkeää on huomata, että vaatimus käsittelee vain yhtä asia kokonaisuutta! Alla olevassa vaatimuksessa on periaateessa kaksi erillistä. Usein ne myös johtavat useampaan uuteen
 
@@ -46,6 +47,15 @@ voisi johtaaa useampaan vaatimukseen =>
 * _Järjestelmän X tilatieto voidaan lähettää tekstiviestinä_
 * _Järjestelmän X tilatieto voidaan lähettää sähköpostina_
 * _tilatieto palvelun vastaanottajan osoite voidaan asettaa käyttöliittymässä Y_
+
+Vaatimusten eri muodot:
+
+Vaatimuksista oleellisin on ns. toiminnallinen vaatimus, joka nimensä mukaisesti kuvaa haluttua toimintaa joka 
+
+
+
+
+
 
 Ominaisuuden suhde vaatimuksiin..
 
