@@ -48,9 +48,42 @@ voisi johtaaa useampaan vaatimukseen =>
 * _Järjestelmän X tilatieto voidaan lähettää sähköpostina_
 * _tilatieto palvelun vastaanottajan osoite voidaan asettaa käyttöliittymässä Y_
 
-Vaatimusten eri muodot:
+Tärkeä tarkistus tapa on miettiä mielessä testi, joka voisi tarkistaa onko kyseinen vaatimus toteutettu ohjelmistossa/palvelussa.
 
-Vaatimuksista oleellisin on ns. toiminnallinen vaatimus, joka nimensä mukaisesti kuvaa haluttua toimintaa joka 
+Pelkkä vaatimus lauseena ei aina riitä, vaan  vaatimus pyritään luokittelemaan eri vaatimustyypien avulla:
+
+
+* toiminnalliset vaatimukset
+* ei-toiminnaliset vaatimukset
+
+Vaatimustyypeistä oleellisin on ehkä ns. _toiminnallinen vaatimus_, joka nimensä mukaisesti kuvaa haluttua toimintaa joka halutaan suunniteltuun ohjelmistoon/palveluun/järjestelmään.
+
+Toiminnallisuus kannataa ajatella vain yksinkertaisena lauseena "Käyttäjä voi tarvitessaan generoida PDF-raportin viime kuun ostoksista", joka on siis toiminnallinen vaatimus.
+
+Vaatimukseen liitettävä testi voisi olla esim. "Generoida raportti. Tarkista tuleeko ulos PDF tiedosto, joka sisältää todellisen ostoslistan" 
+
+Ei-Toiminnallisen (eli laadullisen) vaatimuksen suhde toiminnalliseen vaatimukseen. Ei-toiminnallisen vaatimuksen suhde tuntuu hieman hankalalta ymmärtää, koska se sisältää useita eri tyyppejä:
+
+* tehokkuus (Performance)
+* Kuormitettavuus (Load)
+* Laajennettavuus/skaalautuminen (Scalability)
+* palautusmiskyky (Recovery)
+* ylläpidettävyys (Maintainablity)
+* tietoturvallisuus (Security)
+* ja muitakin löytyy...
+
+
+Mietitään vielä PDF-raportin generointia...
+
+Tehokkuus näkökulmasta vaatimus voisi olla "Ostoslistan generointi PDF-muotoon saa kestää (esim. Mac Book Air-kannettavassa) koneessa minimissään 5 sekuntia"
+
+Skaalautumis näkökulmasta:
+
+"Ostoslistan generointi PDF muotoon täytyy onnistua yhtäaikaisesti 1500 käyttäjält"ä
+
+
+
+
 
 
 
