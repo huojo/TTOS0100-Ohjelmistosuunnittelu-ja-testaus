@@ -43,7 +43,7 @@ voisi johtaaa useampaan vaatimukseen =>
 
 * _Järjestelmän X sammuttaminen saa kestää 2 minuuttia_
 * _Järjestelmän X sammuttamisesta voidaan lähettää tekstiviesti_
-* _Järjestelmän X tilatieto voidaan lähettää tekstiviestinä_
+* _Järjestelmän X tilatieto voidaan lähettää viestinä valvojalle_
 * _Järjestelmän X tilatieto voidaan lähettää sähköpostina_
 * _tilatieto palvelun vastaan ottajan osoite voidaan asettaa käyttöliittymässä Y_
 
