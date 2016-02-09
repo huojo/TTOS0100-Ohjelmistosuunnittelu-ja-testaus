@@ -61,6 +61,8 @@
 * Miten paljon asiakkaita voi olla tulevaisuudessa? 
 * Onko tarve laajentaa palvelua?
 
+## Palautuvuus (Recovery)
+
 ## Ylläpidettävyys (Maintainablity)
 
 * Miten ohjelmisto on toteutettava, että se olisi ylläpidettävä? Miten dokumentoinnissa pitää huolehtia ylläpidettävyys?
