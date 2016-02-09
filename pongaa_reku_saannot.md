@@ -9,27 +9,29 @@
 
 
 
-## Asiakkuus & tilaaja
+## Asiakkuus & tilaaja tason vaatimukset
 
 ### Asiakas vaatimus (Customer requirement)
 
-* Sopivia kysymyksiä
+* Mitä asiakas toivoo tuotteella tekevänsä ?
 
 ### Liiketoiminta vaatimus (Business requirement)
 
-* Sopivia kysymyksiä
+* Mikä on liiketoiminnan tavoite ?
+* Miksi jokin ominaisuus on tärkeä ?
+
+# Ominaisuus (Feature)
+
+* 
 
 
 
-
-
-
-# Toiminnallinen vaatimus (Functional Requirement)
+# Toiminnalliset vaatimukset (Functional Requirements)
 
 ## Toiminnallinen vaatimus 
 
-* Sopivia kysymyksiä
-
+* Mitä toimintoja ohjelmistolla/palvelulla voidaan tehdä?
+* Onko toiminto itse asiassa ominaisuus ? Kannattaa keskittyä ominaisuuden toiminnallisuuksiin
 
 # Ei-Toiminnalliset (Laadulliset) vaatimukset
 
