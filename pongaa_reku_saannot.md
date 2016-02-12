@@ -38,7 +38,8 @@ Kuva2: Tässä kokoelma erilaisia käsitteitä.
 
 ## Tehokkuus (Performance)
 
-* sopivia kysymyksiä
+* sopivia kysymyksiä 
+* http://www.1202performance.com/atricles/how-to-write-performance-requirements-with-example/
  
 
 ## Kuormitettavuus (Load)
