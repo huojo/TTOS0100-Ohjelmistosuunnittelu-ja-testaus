@@ -23,6 +23,10 @@ Kuva2: Tässä kokoelma erilaisia käsitteitä.
 
 
 
+# Rajoitukset / tarkenukset (Constraints)
+
+
+
 
 
 
@@ -30,11 +34,15 @@ Kuva2: Tässä kokoelma erilaisia käsitteitä.
 
 ## Toiminnallinen vaatimus 
 
+* [Tutustu tarkemmin wikipediassa](https://en.wikipedia.org/wiki/functional_requirement)
+
+
 * Mitä toimintoja ohjelmistolla/palvelulla voidaan tehdä?
 * Onko toiminto itse asiassa ominaisuus ? Kannattaa keskittyä ominaisuuden toiminnallisuuksiin
 
 # Ei-Toiminnalliset (Laadulliset) vaatimukset
 
+* [Tutustu tarkemmin wikipediassa](https://en.wikipedia.org/wiki/Non-functional_requirement)
 
 ## Tehokkuus (Performance)
 
