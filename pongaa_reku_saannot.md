@@ -46,39 +46,56 @@ Kuva2: Tässä kokoelma erilaisia käsitteitä.
 
 ## Tehokkuus (Performance)
 
-* sopivia kysymyksiä 
+* Miten nopeasti saadaan jotain aikaan?
+* Miten paljon voidaan jotain tuottaa ?
+* Millainen on palvelun saatavuus ? (Availability)
+* Läpivienti aika ? (Throughput)
 * http://www.1202performance.com/atricles/how-to-write-performance-requirements-with-example/
  
 
 ## Kuormitettavuus (Load)
 
-* Miten paljon palvelua on kyettävä kuormittamaan ja samalla säilyttämään riittävä palvelukapasiteetti?
-
+* Miten palvelun on käyttäydyttävä kuormituksen alla ? 
+* riittävä palvelukapasiteetti?
+* [No wikipedia sitten..](https://en.wikipedia.org/wiki/Load_testing)
 
  
 ## Käytettävyys (Usability)
 
 * Millainen käytettävyys tuotteella/toiminnalla on oltava? 
 * Onko jotain vertailukohtaa tarjolla?
-* Millä kriteereillä käytettävyyttä on kehitettävä? Onko asiakasryhmiä, joille käytettävyys on huomioitava erikseen?
+* Millä kriteereillä käytettävyyttä on kehitettävä? 
+* Onko asiakasryhmiä, joille käytettävyys on huomioitava erikseen?
+* Millainen on hyvä käytettävyys, esimerkki ei pahitteeksi ?
+* 
 
 
-## Laajennettavuus (Scalability)
+## Skaalautuvuus (Scalability)
 
-* Miten laajennettavuus on otettava huomioon? 
-* millaista palvelun käyttö on ? Piikki kuormia? esim. joulumyynti ?
+* Miten tuotteen skaalautuvuus on otettava huomioon?
+* Vertikaalinen skaalautuvuus ?
+* Horisontaalinen skaalautuvuus ?
+* millaista palvelun käyttö on ? Esiintyykö piikki kuormia? esim. joulumyynti ?
 * Miten paljon asiakkaita voi olla tulevaisuudessa? 
-* Onko tarve laajentaa palvelua?
+* Onko tulevaisuudessa tarve laajentaa palvelua eri markkinoille?
 
 ## Palautuvuus (Recovery)
 
+* Miten ongelmatilanteesta on toivuttava ?
+
 ## Ylläpidettävyys (Maintainablity)
 
-* Miten ohjelmisto on toteutettava, että se olisi ylläpidettävä? Miten dokumentoinnissa pitää huolehtia ylläpidettävyys?
+* Miten ohjelmisto on toteutettava, että se olisi ylläpidettävä? 
+* Miten dokumentoinnissa otetaan ylläpidettävyys huomioon?
+* Millaisia koodauskäytänteitä on käytettävä ? (Coding Guide)
 
 ## Tietoturva (Security)
 
-* Onko joitain mitä tietoturvan näkökulmasta on huomioitava ? standardi ? Suojausluokat ? etc.
+* Onko joitain mitä tietoturvan näkökulmasta on huomioitava ? 
+* Tietoturva standardi ? 
+* Suojausluokat ? etc.
+* KATAKRI-vaatimukset ?
+* [Valtiovarain ministeriön näkökulma asiaan](https://www.vahtiohje.fi/web/guest/tietojenkasittelyn-yleiset-tietoturvavaatimukset)
 
 ## Käyttöturvallisuus (Safety)
 
