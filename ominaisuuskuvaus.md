@@ -17,6 +17,11 @@ Alustavat käyttäjätarinat (User Storys)
 * _Ylläpitäjänä haluan, että tervehdysviesti on vaihdettavissa, koska se virkistää työntekoa!_
 * 
 
+Käyttöliittymä/mock
+
+![](https://openclipart.org/image/300px/svg_to_png/178764/1370010418.png&disposition=attachment)
+
+
 Ominaisuuteen liittyvät toiminnalliset vaatimukset
 
 * Käyttäjä näkee jatkuvasti ruudulla "Lorem Ipsum"-viestin
