@@ -158,12 +158,16 @@ ohjelmiston osa-alueita/lohkoja?
 
 ### Ominaisuus 1
 
+  * [Linkki ominaisuuskuvaukseen](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md)
+
   * Kuvaus
   * Ominaisuuteen liittyvät vaatimukset ?
   * UI-Näkymä ?
   * Testauksessa huomioitavaa
 
 ### Ominaisuus 2
+
+  * [Linkki ominaisuuskuvaukseen](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md)
 
   * Kuvaus
   * Ominaisuuteen liittyvät vaatimukset ?
