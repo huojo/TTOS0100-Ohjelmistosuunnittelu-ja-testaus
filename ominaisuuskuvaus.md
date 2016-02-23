@@ -13,8 +13,8 @@ Täitä käyttötapauksia voidaan tarvittaessa käyttää hyväksyntätesteinä 
 
 Alustavat käyttäjätarinat (User Storys)
 
-* Käyttäjänä haluan, että lorem ipsum on näkyvillä koko käytön ajan, koska se tuo minulle turvallisen olon
-* Ylläpitäjänä haluan, että tervehdysviesti on vaihdettavissa, koska se virkistää työntekoa!
+* _Käyttäjänä haluan, että lorem ipsum on näkyvillä koko käytön ajan, koska se tuo minulle turvallisen olon_
+* _Ylläpitäjänä haluan, että tervehdysviesti on vaihdettavissa, koska se virkistää työntekoa!_
 * 
 
 Ominaisuuteen liittyvät toiminnalliset vaatimukset
@@ -29,9 +29,13 @@ Ominaisuuteen liittävät ei-toiminnalliset vaatimukset
 
 Ominaisuuteen liittyvät rajaukset
 
-*
+* Tervehdysviestin muodon on noudatettava standardia ZZZ123.1
 
 
+Testauksessa huomioitavaa:
+
+* Käyttäjäpalaute on otettava huomioon mahdollisimman aikaisessa vaiheessa
+* 
 
 
 
