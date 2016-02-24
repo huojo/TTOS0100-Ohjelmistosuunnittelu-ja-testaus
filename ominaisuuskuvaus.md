@@ -20,7 +20,7 @@ Täitä käyttötapauksia voidaan tarvittaessa käyttää hyväksyntätesteinä 
 
 * _Käyttäjänä haluan, että lorem ipsum on näkyvillä koko käytön ajan, koska se tuo minulle turvallisen olon_
 * _Ylläpitäjänä haluan, että tervehdysviesti on vaihdettavissa, koska se virkistää työntekoa!_
-* [3]
+#3
 
 ### Käyttöliittymänäkymä/mock
 
