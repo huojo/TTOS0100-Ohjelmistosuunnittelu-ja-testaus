@@ -73,7 +73,9 @@ Kuka on toimittaja, yhteistiedot ?
 
 ## Palvelun/ohjelmiston sidosryhmät ja asiakkaat (Service and customers) 
 
-### Sidosryhmät (Stakeholders)
+Asiakasryhmiä tarkastellaan "persoonien" kautta. Jokainen persoona edustaa isompaa otosta kyseisestä ihmisryhmästä.
+
+### Sidosryhmät/Persoonat (Stakeholders)
 
 https://en.wikipedia.org/wiki/Stakeholder_analysis
 
