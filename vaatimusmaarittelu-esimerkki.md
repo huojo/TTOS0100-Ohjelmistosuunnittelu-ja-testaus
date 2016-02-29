@@ -135,13 +135,11 @@ ohjelmiston osa-alueita ?
 
 ## Tärkeimmät piirteet/ominaisuudet (Features)
 
-### Ominaisuus 1
-
-* [Ominaisuus 1]()
-* [Ominaisuus 2]()
-* [Ominaisuus 3]()
-* [Ominaisuus 4]()
-* [Ominaisuus 5]()
+* [Ominaisuus 1 - linkki kuvaukseen]()
+* [Ominaisuus 2 - linkki kuvaukseen]()
+* [Ominaisuus 3 - linkki kuvaukseen]()
+* [Ominaisuus 4 - linkki kuvaukseen]()
+* [Ominaisuus 5 - linkki kuvaukseen]()
 
 
 ## Käyttötapaukset
