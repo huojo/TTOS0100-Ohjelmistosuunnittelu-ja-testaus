@@ -79,11 +79,11 @@ https://en.wikipedia.org/wiki/Stakeholder_analysis
 
 Kuka on kiinnostunut tuotteesta tai kenellä on sanansa sanottavana liittyen tuotteen kehittämiseen ?
 
-  * [Mungo consulting Oy](), Palvelun tarjoaja
-  * [RahoittajaA](), yrityksen osakas, Bankoman Oy, osakkeen omistaja 55 %
-  * [RahoittajaB](), Yrityksen osakas, Mauri Bosse, omistaa 5 %
-  * [TuotantotiimiA](), em. yrityksen työntekijät, Kalle, Kille, Pelle ja Pöppö
-  * [SuurAsiakasA](), NordMan Oy, yritysasiakas
+  * [Mungo consulting Oy](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md), Palvelun tarjoaja
+  * [RahoittajaA](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md), yrityksen osakas, Bankoman Oy, osakkeen omistaja 55 %
+  * [RahoittajaB](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md), Yrityksen osakas, Mauri Bosse, omistaa 5 %
+  * [TuotantotiimiA](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md), em. yrityksen työntekijät, Kalle, Kille, Pelle ja Pöppö
+  * [SuurAsiakasA](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md), NordMan Oy, yritysasiakas
   * Asiakasprofiilit 1-4, kuvattu alla
 
 ### Sidosryhmäkartta (Stakeholder map)
