@@ -48,9 +48,11 @@ Täitä käyttötapauksia voidaan tarvittaessa käyttää hyväksyntätesteinä 
 * 
 
 
-### Aikataulu/Roadmap
+### Status/Aikataulu/Roadmap
 
-
+| Status | |
+|:----:|:----:|
+| Hyväksytty/ Hylätty | - |
 
 
 
