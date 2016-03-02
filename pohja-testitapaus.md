@@ -1,4 +1,4 @@
-## Esimerkki perinteisestä testitapauksesta:
+## Esimerkki testitapauksesta:
 
 
 
