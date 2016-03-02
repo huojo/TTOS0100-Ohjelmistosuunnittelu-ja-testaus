@@ -9,8 +9,8 @@ esim: Tarkista että kirjautumiseen kuluva aika on < 3 sekuntia palvelun ollessa
 
 ### Linkit
 
-  * Vaatimus: (VaatimusREQID10202)- Asiakkaan kirjautumispyyntö palveluun saa kestää normaalisti korkeintaan (3) sekuntia   
-
+  * Vaatimus: [REQID10202]() Asiakkaan kirjautumispyyntö palveluun saa kestää normaalisti korkeintaan (3) sekuntia   
+  * Käyttötapaus: [UC12345]()
 
 ### Alkutilanne (Pre-state): 
 
