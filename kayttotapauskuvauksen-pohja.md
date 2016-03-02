@@ -1,17 +1,3 @@
-
-
-
-Käyttötapauskuvaus-pohja
-
-# Lähde
-
-Tämä wiki-dokumentin runko pohjautuu seuraavaan lähteeseen. 
-
-http://www.jhs-suositukset.fi/web/guest/jhs/recommendations/173
-
-Kiitokset alkuperäisen tekijöille!
-
-
 ## KÄYTTÖTAPAUKSEN NIMI esim. Asiakastietojen muutos
 
 Yleiskuvaus	Kuvataan lyhyesti mikä on käyttötapauksen tarkoitus/ tehtävä. 
@@ -74,3 +60,12 @@ v3
 Esim. Muutoksia tehdään n.100/päivässä
 
 ### Muuta	Kuvataan muita käyttötapaukseen liittyviä oleellisia tietoja, kuten avoimia asioita, viittauksia käytettäviin koodistoihin jne.
+
+
+
+# Lähde
+
+Tämä wiki-dokumentin runko pohjautuu [Julkisenhallinnon suosituksiin](http://www.jhs-suositukset.fi/web/guest/jhs/recommendations/173)
+
+Kiitokset alkuperäisen tekijöille!
+
