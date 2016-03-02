@@ -12,8 +12,8 @@ Sed non nisi id ligula interdum mattis. Fusce vel ullamcorper nunc. Nulla pharet
 
 Täitä käyttötapauksia voidaan tarvittaessa käyttää hyväksyntätesteinä tai pohjana niille.
 
-* [Use Case 1](link to use case)
-* [Use Case 1](link to use case)
+* [Use Case 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/pohja-kayttotapauskuvaus.md)
+* [Use Case 2](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/pohja-kayttotapauskuvaus.md)
 
 
 ### Alustavat käyttäjätarinat (User Storys)
