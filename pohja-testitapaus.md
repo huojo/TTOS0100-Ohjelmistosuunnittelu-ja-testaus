@@ -3,6 +3,10 @@
   * Testitapauksen suunnittelija: NarsuMan
   * Date : 26.06.2015
 
+### Päivityshistoria
+
+versio 1.1 - 21.3.2016 - Tarhytti - lisätty päivityshistoria
+
 ### Testin kuvaus
 
 esim: Tarkista että kirjautumiseen kuluva aika on < 3 sekuntia palvelun ollessa kuormitettu 50 % 
@@ -11,6 +15,7 @@ esim: Tarkista että kirjautumiseen kuluva aika on < 3 sekuntia palvelun ollessa
 
   * Vaatimus: [REQID10202]() Asiakkaan kirjautumispyyntö palveluun saa kestää normaalisti korkeintaan (3) sekuntia   
   * Käyttötapaus: [UC12345]()
+  * Ominaisuus: [XXXXX]()
 
 ### Alkutilanne (Pre-state): 
 
@@ -21,8 +26,6 @@ _esim: Palvelu saavutettavissa, Kuormitusgeneraattori asetettu 50 %iin. Testaaja
 1. askel
 2. askel
 3. askel
-4. 
-
 
 ## Huomioitava testin aikana
 
