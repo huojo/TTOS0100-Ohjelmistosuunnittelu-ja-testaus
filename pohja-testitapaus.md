@@ -6,9 +6,9 @@
 
 ### Päivityshistoria
 
-versio 1.1 - 22.03.2016 - Tarhytti - pohjaan tehty kosmeettisia muutoksia
-versio 1.0 - 24.12.2015 - Tarhytti - testitapaus hyväksytty
-versio 0.1 - 26.06.2015 - Narsuman - testitapaus luotu
+* versio 1.1 - 22.03.2016 - Tarhytti - pohjaan tehty kosmeettisia muutoksia
+* versio 1.0 - 24.12.2015 - Tarhytti - testitapaus hyväksytty
+* versio 0.1 - 26.06.2015 - Narsuman - testitapaus luotu
 
 ### Testin kuvaus
 
@@ -31,20 +31,20 @@ esim: Palvelu saavutettavissa, Kuormitusgeneraattori asennettu, kirjautumistunnu
 ### Testiaskeleet (Test Steps)
 
 esim
-1. Aseta palvelun kuormitus 30 prosenttiin
-2. Mittaa kirjaantumiseen kuluva aika
-3. Kirjaudu ulos palvelusta
-4. Toista testiaskeleet 1-3 kolme kertaa
-5. Laske kirjautumisaikojen keskiarvo
+ 1. Aseta palvelun kuormitus 30 prosenttiin
+ 2. Mittaa kirjaantumiseen kuluva aika
+ 3. Kirjaudu ulos palvelusta
+ 4. Toista testiaskeleet 1-3 kolme kertaa
+ 5. Laske kirjautumisaikojen keskiarvo
 
 Toista testiaskeleet palvelun kuormituksilla 50% ja 80%.
 
 ## Huomioitava testin aikana
 
 esim
-1. *Huomioi:* esim. Kirjautumisen aikana näyttö ei välky
-1. *Huomioi:* esim. Lokalisaatio ja kellon aika ovat samat kuin käyttäjän aiemin valitsemat.
-1. *Huomioi:* esim. Tervetuloviesti ilmestyy välittömästi (alle 1s)
+ * *Huomioi:* esim. Kirjautumisen aikana näyttö ei välky
+ * *Huomioi:* esim. Lokalisaatio ja kellon aika ovat samat kuin käyttäjän aiemin valitsemat.
+ * *Huomioi:* esim. Tervetuloviesti ilmestyy välittömästi (alle 1s)
 
 ## Testin lopputilanne (End-State)
 
