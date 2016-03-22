@@ -36,14 +36,14 @@ Toista seuraavat testiaskeleet palvelun kuormitusasteilla 30%, 50% ja 80%
  2. Mittaa kirjaantumiseen kuluva aika
  3. Kirjaudu ulos palvelusta
 
-## Huomioitava testin aikana
+### Huomioitava testin aikana
 
 esim
  * *Huomioi:* esim. Kirjautumisen aikana näyttö ei välky
  * *Huomioi:* esim. Lokalisaatio ja kellon aika ovat samat kuin käyttäjän aiemin valitsemat.
  * *Huomioi:* esim. Tervetuloviesti ilmestyy välittömästi (alle 1s)
 
-## Testin lopputilanne (End-State)
+### Testin lopputilanne (End-State)
 
 esim.
  - Jokainen kirjaantuminen onnistui
