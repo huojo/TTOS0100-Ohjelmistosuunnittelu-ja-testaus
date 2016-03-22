@@ -31,13 +31,10 @@ esim: Palvelu saavutettavissa, Kuormitusgeneraattori asennettu, kirjautumistunnu
 ### Testiaskeleet (Test Steps)
 
 esim
- 1. Aseta palvelun kuormitus 30 prosenttiin
+Toista seuraavat testiaskeleet palvelun kuormitusasteilla 30%, 50% ja 80%
+ 1. Aseta palvelun kuormitus
  2. Mittaa kirjaantumiseen kuluva aika
  3. Kirjaudu ulos palvelusta
- 4. Toista testiaskeleet 1-3 kolme kertaa
- 5. Laske kirjautumisaikojen keskiarvo
-
-Toista testiaskeleet palvelun kuormituksilla 50% ja 80%.
 
 ## Huomioitava testin aikana
 
@@ -49,16 +46,9 @@ esim
 ## Testin lopputilanne (End-State)
 
 esim.
- - Kirjaantumisaikojen keskiarvo ei ylitä 3 sekuntia
- - jokainen kirjaantuminen onnistui
+ - Jokainen kirjaantuminen onnistui
 
 ### Testin "tuomio"/tulos (Pass/Fail Criteria):
 
-PASS Aikaa kului < 5 sekuntia
-FAIL Aika > 5 sekuntia
-
- 
-
-Muita esimerkkejä:
-
-
+PASS Kirjaantumiseen kului aikaa =< 3 sekuntia
+FAIL Kirjaantumiseen kului aikaa  > 3 sekuntia
