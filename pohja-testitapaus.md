@@ -14,6 +14,7 @@
 ### Testin kuvaus
 
 esim 1: Tarkista että kirjautumiseen kuluva aika ei ylitä 3 sekunnin rajaa alle palvelun ollessa kuormitettu alle 80 % 
+
 esim 2: Testataan kosteushälytyksen toiminta
 
 ### Testin tavoite
