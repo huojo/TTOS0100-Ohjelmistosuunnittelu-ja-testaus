@@ -72,10 +72,13 @@ esim 2:
 ### Testin "tuomio"/tulos (Pass/Fail Criteria):
 
 esim 1:
+
 PASS Kirjaantumiseen kului aikaa =< 3 sekuntia
+
 FAIL Kirjaantumiseen kului aikaa  > 3 sekuntia
 
 esim 2:
 
 PASS: hälytysrajan pystyi asettamaan ja hälytys lähetettiin määriteltyyn numeroon rajan ylittyessä
+
 FAIL: hälytystä ei lähetetty
