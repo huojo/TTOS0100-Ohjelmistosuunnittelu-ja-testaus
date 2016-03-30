@@ -6,6 +6,7 @@
 
 ### Päivityshistoria
 
+* versio 1.2 - 30.03.2016 - Tarhytti - testiaskeleet-kappale muutettu taulukkomuotoon & esimerkkejä lisätty
 * versio 1.1 - 22.03.2016 - Tarhytti - pohjaan tehty kosmeettisia muutoksia
 * versio 1.0 - 24.12.2015 - Tarhytti - testitapaus hyväksytty
 * versio 0.1 - 26.06.2015 - Narsuman - testitapaus luotu
