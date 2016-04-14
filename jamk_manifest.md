@@ -1,10 +1,10 @@
 ##TT0S0100 Ohjelmistosuunnittelu ja testaus
 
-Kurssin sisältö
+###Kurssin sisältö
 
 Palvelumuotoilu, vaatimusmäärittely, ohjelmistoarkkitehtuurit, olio-suunnittelun alkeet ja mallintamismenetelmät, testiuunnittelun perusteet.
 
-Tavoitteet
+###Tavoitteet
 
 Opiskelija ymmärtää ohjelmistosuunnitelun ja testauksen merkityksen osana tuotekehitysprosessia. Opiskeluja tuntee ohjelmistoteollisuuden yleisesti käyttämät toimintatavat ja kuvauskielet. Opiskelija kykenee tuottamaan testitapauksia vaatimusmäärittelyiden pohjalta.
 
