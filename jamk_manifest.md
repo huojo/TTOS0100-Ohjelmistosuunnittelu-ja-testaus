@@ -9,4 +9,4 @@ This is example of template course....
 
 
 
-[target_url=https://github.com/JAMK-IT/template-course/wiki]
+[target_url=https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/wiki]
