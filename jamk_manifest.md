@@ -1,12 +1,17 @@
-## This is a TT0S0100 course manifest..
+##TT0S0100 Ohjelmistosuunnittelu ja testaus
 
-This is example of template course....
+Kurssin sisältö
 
-![](https://avatars0.githubusercontent.com/u/8133582?v=3&s=60)
+Palvelumuotoilu, vaatimusmäärittely, ohjelmistoarkkitehtuurit, olio-suunnittelun alkeet ja mallintamismenetelmät, testiuunnittelun perusteet.
 
-[Read more!](https://github.com/JAMK-IT/template-course/pulse)
+Tavoitteet
+
+Opiskelija ymmärtää ohjelmistosuunnitelun ja testauksen merkityksen osana tuotekehitysprosessia. Opiskeluja tuntee ohjelmistoteollisuuden yleisesti käyttämät toimintatavat ja kuvauskielet. Opiskelija kykenee tuottamaan testitapauksia vaatimusmäärittelyiden pohjalta.
+
+
+[Asio kuvaus](https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=TTOS0100&knro=&noclose=%20&lan=fi)
 
 
 
 
-[target_url=https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/wiki]
+[target_url=http://jamk-it.github.io/TT0S0100-software-desing-and-testing/]
