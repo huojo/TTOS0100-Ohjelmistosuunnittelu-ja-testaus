@@ -94,12 +94,7 @@ Linkkejä joita kannattaa tutkia....
 * [Tube: | But How ?](http://www.youtube.com/watch?v=7OSkB4BCx00)
 
 
-## Testaus 
 
-Työvälineitä
-
-* [Testing Tools](http://en.wikipedia.org/wiki/Category:Software_testing_tools)
-* [Test Management Tools](https://en.wikipedia.org/wiki/Test_management_tools)
 
 ## Testaukseen liittyvät järjestöt & yhteisöt
 
