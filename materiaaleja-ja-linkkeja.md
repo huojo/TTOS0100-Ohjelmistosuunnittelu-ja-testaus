@@ -9,8 +9,8 @@
 
 | *Aihe* | *Nimi & Linkki* | *Muuta* |
 | :--------: | :-------: | :-----: |
-| Ohjelmistotuotanto | [Ohjelmistotuotannon käytännöt, Ilkka Haikala - Tommi Mikkonen](http://janet.amkit.fi/cgi-bin/Pwebrecon.cgi?SC=Title&SEQ=20131219103325&PID=xq_HMVSIFeT2k23O-DABbO4oj&SA=Ohjelmistotuotannon+k%C3%A4yt%C3%A4nn%C3%B6t+/) | <img alt="" height="176" src="https://s2.adlibris.com/images/9150354/ohjelmistotuotannon-kaytannot.jpg" width="120" />  |
 | Palvelumuotoilu | [Palvelumuotoilu, Juha Tuulaniemi 2011](https://www.facebook.com/palvelumuotoilu) |  <img alt="" height="176" src="https://www.talentumshop.fi/media/catalog/product/cache/1/image/380x505/26fe0c86a0e9dbe34ab5599cb60da8a3/9/7/978-952-14-1551-7_Palvelumuotoilu_3d.jpg_1.jpg" width="120" /> |
+| Ohjelmistotuotanto | [Ohjelmistotuotannon käytännöt, Ilkka Haikala - Tommi Mikkonen](http://janet.amkit.fi/cgi-bin/Pwebrecon.cgi?SC=Title&SEQ=20131219103325&PID=xq_HMVSIFeT2k23O-DABbO4oj&SA=Ohjelmistotuotannon+k%C3%A4yt%C3%A4nn%C3%B6t+/) | <img alt="" height="176" src="https://s2.adlibris.com/images/9150354/ohjelmistotuotannon-kaytannot.jpg" width="120" />  |
 | Ohjelmistotestaus | [Ohjelmistotestaus](http://ekirjasto.kirjastot.fi/en/ekirjat/ohjelmistotestauksen-kasikirja) | <img alt="" height="176" src="http://www.ellibs.com/sites/default/files/imagecache/product/bookcover_978-952-5912-99-9.jpg" width="120" /> |
 | Mallinnus | [UML Distilled - Third Edition, Martin Fowler](http://martinfowler.com/books/uml.html) | <img alt="" height="176" src="http://martinfowler.com/books/umldist.jpg" width="120" /> |
 
@@ -18,10 +18,12 @@
 
 # Linkkejä liittyen aiheisiin..
 
+## GitHub käyttö
+
+* https://guides.github.com/activities/hello-world/
+* [Tube: Helloworld github](https://guides.github.com/activities/hello-world/)
 
 ## Palvelumuotoilu (Service Design)
-
-Linkkejä joita kannattaa tutkia....
 
 * [Forge Service Design Material](https://github.com/forgeservicelab/forge-sdt)
 * [Palvelumuotoilun työkalupakki](http://sdt.fi)
@@ -34,22 +36,9 @@ Linkkejä joita kannattaa tutkia....
 * [Service Design Toolkit](http://www.servicedesigntoolkit.org/)
 * [Nordström innovation labs](https://www.youtube.com/watch?v=szr0ezLyQHY)
 
-
-## Use Case
-
-* [Use Case 2.0](https://www.ivarjacobson.com/sites/default/files/field_iji_file/article/use-case_2_0_jan11.pdf)
-
-
-
-## GitHub
-
-* https://guides.github.com/activities/hello-world/
-* [Tube: Helloworld github](https://guides.github.com/activities/hello-world/)
-
-
 ## Vaatimusten kerääminen ja hallinta
 
-
+* [Use Case 2.0](https://www.ivarjacobson.com/sites/default/files/field_iji_file/article/use-case_2_0_jan11.pdf)
 * [Tube: Requirement Gathering](http://www.youtube.com/watch?v=rSwVZJT9j1c)
 * [Tube: User Storys as Requirements](http://www.youtube.com/watch?v=6q5-cVeNjCE)
 * [User Story](http://searchsoftwarequality.techtarget.com/definition/user-story)
@@ -91,8 +80,6 @@ Linkkejä joita kannattaa tutkia....
 * Heli Sutisen [opinnäytetyö](https://www.theseus.fi/handle/10024/86173) mockup-työkaluista
 * [Lean UX blogipostaus](https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/)
 * [Tube: | But How ?](http://www.youtube.com/watch?v=7OSkB4BCx00)
-
-
 
 
 ## Testaukseen liittyvät järjestöt & yhteisöt
