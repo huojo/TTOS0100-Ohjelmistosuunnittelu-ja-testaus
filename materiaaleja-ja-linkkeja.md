@@ -82,24 +82,9 @@
 * [Tube: | But How ?](http://www.youtube.com/watch?v=7OSkB4BCx00)
 
 
-## Testaukseen liittyvät järjestöt & yhteisöt
-
-*  [ISTQB Sanasto](http://www.fistb.fi/sites/fistb.ttlry.mearra.com/files/istqb_sanasto.pdf) 
-*  [ISTQB](http://www.istqb.org/)
-*  [TestausOSY](http://testausosy.fi/)
-*  [TestausOSY Linkedin group](http://www.linkedin.com/groups/TestausOSY-FAST-1812274/about)
-*  [Stickyminds](http://www.stickyminds.com/)
-*  [Finnish Software Testing Board (FiSTB)](http://www.fistb.fi/#!)
 
 
-##  Testaus
 
-* [Master Test Plan](http://qablog.practitest.com/2008/03/master-test-plan-the-strategic-side-of-testing/)
-* [You are not done yet!](http://www.thebraidytester.com/downloads/YouAreNotDoneYet.pdf)
-* [Ohjelmistotestaus.fi](http://ohjelmistotestaus.fi/)
-* [What is a good Test](http://www.kaner.com/pdfs/GoodTest.pdf)
-* [Unit Testing](http://stackoverflow.com/questions/67299/is-unit-testing-worth-the-effort)
-* [How to Write Clean, Testable Code, Misco Hevery](https://www.youtube.com/watch?v=XcT4yYu_TTs)
 
 ## Palvelutuotanto  /ITIL
 
