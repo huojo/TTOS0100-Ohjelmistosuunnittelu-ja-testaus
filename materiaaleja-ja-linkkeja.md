@@ -13,7 +13,7 @@
 | Kirja | [Ohjelmistotuotanto, Ilkka Haikala - Jukka Märijärvi](https://www.booky.fi/tuote/ilkka_haikala/ohjelmistotuotanto/9789521408502) | <img alt="" height="176" src="https://www.booky.fi/image.php?id=9789521408502&size=small" width="120" /> |
 | Palvelumuotoilu | [Palvelumuotoilu, Juha Tuulaniemi 2011](https://www.facebook.com/palvelumuotoilu) |  <img alt="" height="176" src="https://www.talentumshop.fi/media/catalog/product/cache/1/image/380x505/26fe0c86a0e9dbe34ab5599cb60da8a3/9/7/978-952-14-1551-7_Palvelumuotoilu_3d.jpg_1.jpg" width="120" /> |
 | Ohjelmistotestaus | [Ohjelmistotestaus](http://ekirjasto.kirjastot.fi/en/ekirjat/ohjelmistotestauksen-kasikirja) | <img alt="" height="176" src="http://www.ellibs.com/sites/default/files/imagecache/product/bookcover_978-952-5912-99-9.jpg" width="120" /> |
-| Mallinnus | [UML Distilled - Third Edition, Martin Fowler](http://martinfowler.com/books/uml.html) | <img alt="" height="264" src="http://martinfowler.com/books/umldist.jpg" width="200" /> |
+| Mallinnus | [UML Distilled - Third Edition, Martin Fowler](http://martinfowler.com/books/uml.html) | <img alt="" height="176" src="http://martinfowler.com/books/umldist.jpg" width="120" /> |
 
 
 
