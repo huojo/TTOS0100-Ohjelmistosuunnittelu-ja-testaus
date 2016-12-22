@@ -1,7 +1,9 @@
+# Seuraavat käsitteet ja aiheet tulevat kokeeseen!!
 
+Tässä lista erilaisia käsitteitä ja aiheita, joihin pitää ja kannattaa tutustua ennen koetta!
+Lista päivittyy kurssin aikana saadun palautteen pohjalta! Kannattaa siis seurata aktiivisesti.
 
-
-# Seuraavat käsitteet ja asiat kokeeseen!!
+Tilanne 22.12.2016
 
 ###Palvelumuotoilu (1)
 
