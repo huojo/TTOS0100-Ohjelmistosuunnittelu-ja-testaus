@@ -42,4 +42,9 @@ Tilanne 22.12.2016
  
 ### Ohjelmistotestaus
 
-
+* Jäljitettävyys
+* Testitapaus
+* Testaustaso
+* Mustalaatikkotestataus
+* Lasilaatiikotestaus
+* Hyväksyntätestaus
