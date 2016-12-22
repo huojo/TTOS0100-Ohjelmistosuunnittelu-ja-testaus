@@ -5,8 +5,7 @@ Tämä dokumentti on "elävä"-dokumentti, joka päivittyy jatkuvasti. Se on kar
 tv:NarsuMan
 
 
-
-## XXXXXX-palvelun/ohjelmiston vaatimusmäärittely
+## XYZOÄO palvelun vaatimusmäärittely
 
 Dokumentin versionumero X.Y
 
@@ -18,14 +17,14 @@ Salattu/Julkinen
 
 Kuka omistaa dokumentin?
 
-
-
 ## Sisältö
 
 Sisällysluettelo ?
 
 
 ## Johdatus
+
+Vastaa seuraaviin kysymyksiin!
 
   * Mikä on tämän dokumentin tehtävä? 
   * Mihin se liittyy ? 
@@ -34,20 +33,28 @@ Sisällysluettelo ?
 
 ### Lyhyt tuote/palvelukuvaus/asiakastarina
 
+Vastaa seuraaviin kysymyksiin!
+
   * Mitä määritetyltä palvelulta odotetaan? lyhyesti
   * Asiakastarina
 
 ### Tilaaja
+
+Vastaa seuraaviin kysymyksiin!
 
   * Kuka on tilaaja, yhteistiedot ?
   * Jos tiedot on projektisuunnitelmassa, niin linkit tänne!
 
 ### Toimittaja
 
+Vastaa seuraaviin kysymyksiin!
+
   * Kuka on toimittaja, yhteistiedot ?
   * Jos tiedot on projektisuunnitelmassa, niin linkit tänne!
 
 ### Aikataulu
+
+Vastaa seuraaviin kysymyksiin!
 
   * Mitä alustavasti tullaan tekemään ja milloin ?
   * Kannattaa viedä osaksi projektisuunnitelmaa ?
@@ -61,12 +68,17 @@ Sisällysluettelo ?
 
 ## Palvelun/ohjelmiston tunnistetut sidosryhmät ja asiakkaat (Stakeholders and customers) 
 
+Kirjataan näkyviin kaikki sidosryhmät, jotka on tunnistettu liityvän palveluun
+
+## Sidosryhmäkartta (Stakeholder map)
+
+
+![](https://www.lucidchart.com/publicSegments/view/afbaa205-0924-40f8-a0a1-96e281aafcf5/image.png)
+
 
 ### Sidosryhmät (Stakeholders)
 
-* https://en.wikipedia.org/wiki/Stakeholder_analysis
-* [Mikä ihmeen sidosryhmä?](https://fi.wikipedia.org/wiki/Sidosryhm%C3%A4)
-* Kuka on kiinnostunut tuotteesta tai kenellä on sanansa sanottavana liittyen tuotteen kehittämiseen ?
+Vastaa kysymykseen kuka/mikä on kiinnostunut tuotteesta tai kenellä on sanansa sanottavana liittyen tuotteen kehittämiseen ?
 
 Sidosryhmät (esimerkkejä)
 
@@ -80,29 +92,23 @@ Sidosryhmät (esimerkkejä)
 * Bad Man, kiusantekijä
 * Snake Consulting Oy, kilpailija
 
-Tunnistetut asiakasprofiilit 
 
 ## Asiakasprofiilit (Customer Profiles)
 
-Esimerkkejä! korvatkaa
-
-  * Asiakas 1, Mauno Mainio, 67, eläkeläinen, Vierumäki, kotosin Pohjois-Savosta (Matematiikan opettaja)
-  * Asiakas 2, Riku Rikas, 30, IT Yrittäjä, asuinpaikka tuntematon, kotoisin nomands land 
-  * Asiakas 3, Siiri Koikkalainen 99, suurmummo, Hankasalmi, (Sokea)
-  * Asiakas 4, John Rambu, 55, tuntematon, Helsinki, (Bad Man)
-
-Voi olla toisaalta järkevää luoda oma sivu jokaiselle asiakasprofiileille..
-
-  * [Linkki asiakasprofiiliin 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md)
-  * [Linkki asiakasprofiiliin 2](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md)
-  * [Linkki asiakasprofiiliin 3](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md)
+Kirjaa Tunnistetut asiakasprofiilit 
 
 
-## Sidosryhmäkartta (Stakeholder map)
+Esimerkkejä! korvaa toimeksiantoon liittyvillä henkilöillä
 
-![](https://www.lucidchart.com/publicSegments/view/afbaa205-0924-40f8-a0a1-96e281aafcf5/image.png)
+| Profiili | Nimi | Muuta |
+|:-: | :-: | :-: |
+| [Asiakasprofiili-1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md) | Mauno Mainio, 67, eläkeläinen, Vierumäki, kotosin Pohjois-Savosta (Matematiikan opettaja) | |
+| [Asiakasprofiili-2](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md) | Riku Rikas, 30, IT Yrittäjä, asuinpaikka tuntematon, kotoisin nomands land | |
+| [Asiakasprofiili-3](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md) | Siiri Koikkalainen 99, suurmummo, Hankasalmi, (Sokea) | | 
+| [Asiakasprofiili-4](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md) | John Rambu, 55, tuntematon, Helsinki, (Bad Man) || 
 
-## Yleinen palvelun asiakaspolku (General Customer Journey)
+
+## Palvelun asiakaspolku (Customer Journey)
 
 ![](https://camo.githubusercontent.com/1429ec848bc406a1bc7f38874188e4af03d3ee46/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f6c6f7076357a6a6a337076676261392f757365725f6a6f75726e6579732d30322e706e673f646c3d31)
 
@@ -110,10 +116,7 @@ Käydään läpi asiakaspolku, jossa käytetään nimettyjä sidosryhmien edusta
 
   *  [Mikä ihmeen palvelupolku](https://www.google.fi/search?q=palvelupolku&espv=2&biw=1626&bih=843&site=webhp&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjU3Kn22pnKAhWDWywKHWrDB-wQsAQIHA)
 
-
-## Palvelun yleiset käyttötapaukset
-
-### käyttötapaukset yhteiskuvassa (Use Case Diagram)
+### Tärkeät käyttötapaukset yhteiskuvassa (Use Case Diagram)
 
 ![](https://www.lucidchart.com/publicSegments/view/6994e113-aa9d-4eeb-ab5d-edc605b604ef/image.png)
 
@@ -149,24 +152,7 @@ ohjelmiston osa-alueita/lohkoja?
 
   * Tarkennetaan kuvausta tehtävän mukaisesti ?
 
-### Asiakaspolku käytöönotto [asiakasprofiili_1] näkökulmasta
-
-* lorem ipsum
-* Blue Print-kuva ?
-
-
-### Asiakaspolku tuotteen takuukorjaus [asiakasprofiili_2] näkökulmasta
-
-* lorem ipsum
-* Blue Print-kuva ?
-
-### Asiakaspolku tuotten uudelleenasennus [asiakasprofiili_3] näkökulmasta
-
-* lorem ipsum
-* Blue Print-kuva ?
-
-
-## Tärkeimmät piirteet/ominaisuudet (Features)
+##  Tuotteen piirteet/ominaisuudet (Features)
 
   * Kirjataan tärkeimmät ominaisuudet
   * Mitä ovat oleelliset ominaiduudet ?
