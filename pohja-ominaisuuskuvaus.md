@@ -44,8 +44,14 @@ Täitä käyttötapauksia voidaan tarvittaessa käyttää hyväksyntätesteinä 
 
 ### Testauksessa huomioitavaa:
 
-* Käyttäjäpalaute on otettava huomioon mahdollisimman aikaisessa vaiheessa
-* 
+| Testi  | Testin tavoite  | Kuka vastaa  |
+|:-: | :-:|:-:|
+| [Testitapaus 1](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-testitapaus.md)  |  |  |
+| [Testitapaus 2](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-testitapaus.md)  |  |  |
+| [Testitapaus 3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-testitapaus.md)  |  |  |
+| [Testitapaus 4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-testitapaus.md)  |  |  |
+| [Testitapaus 5](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-testitapaus.md)  |  |  |
+| [Testitapaus 6](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-testitapaus.md)  |  |  |
 
 
 ### Status/Aikataulu/Roadmap
