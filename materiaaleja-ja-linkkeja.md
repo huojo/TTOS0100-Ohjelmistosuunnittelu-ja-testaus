@@ -2,7 +2,7 @@
 
 #Kurssin materiaalit
 
-* [Google Share materiaalit ovat täällä!](* [Google Share](https://drive.google.com/drive/folders/0ByWXUybEcTavN1ZiQ0ktRTJLNTA?usp=sharing)
+* [Google Share materiaalit ovat täällä!]( [Google Share](https://drive.google.com/drive/folders/0ByWXUybEcTavN1ZiQ0ktRTJLNTA?usp=sharing)
 
 
 
