@@ -162,16 +162,15 @@ ohjelmiston osa-alueita/lohkoja?
 
 | Ominaisuus | Prioriteetti | Muuta |
 | :-: | :-: | :-: |
-| [Ominaisuus 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md) | | | 
-| [Ominaisuus 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md) | | | 
-| [Ominaisuus 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md) | | | 
-| [Ominaisuus 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md) | | | 
-| [Ominaisuus 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md) | | | 
-| [Ominaisuus 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md) | | | 
-| [Ominaisuus 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md) | | | 
-| [Ominaisuus 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md) | | | 
-| [Ominaisuus 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md) | | | 
-
+| [Ominaisuus 1](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
+| [Ominaisuus 2](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
+| [Ominaisuus 3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
+| [Ominaisuus 4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
+| [Ominaisuus 5](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
+| [Ominaisuus 6](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
+| [Ominaisuus 7](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
+| [Ominaisuus 8](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
+| [Ominaisuus 91(https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
 
 
 ## Riskit  (Risks)
@@ -187,7 +186,7 @@ ohjelmiston osa-alueita/lohkoja?
 
   * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
 
-## Yleiset vaatimukset (Functional Requirements)
+## Tuotteen yleiset vaatimukset
 
   * Tässä osiossa voidaan nostaa esiin huomioitavia tärkeitä vaatimuksia, jotka on hyvä pitää mielessä!
 
@@ -197,27 +196,6 @@ ohjelmiston osa-alueita/lohkoja?
 |YVA0002| Palvelun täytyy toimia Windows Phonessa | totetutus |  "ASAP"-tuotantotiimi | P2 |
 |YVA0003| Palvelun täytyy toimia Windows 95:ssa, koska johtajalla on moinen koneessaan! | totetuts |  "ASAP"-tuotantotiimi | P5 |
 
-## Tunnistetut toiminnnalliset vaatimukset (Functional Requirements)
-
-| Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|VAT0001|  | Toiminnnallinen | "ASAP"-tuotantotiimi | P1 |
-|VAT0002| Käyttäjä voi tarvittaessa vaihtaa salasanansa | Toiminnnallinen |  "ASAP"-tuotantotiimi | P5 |
-|VAT0003| Salasanan vaihdon jälkeen ei käyttäjän tarvitse kirjautua uudestaan | Toiminnnallinen |  "ASAP"-tuotantotiimi | P3 |
-
-  * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
-
-
-## Tunnistetut laadulliset /ei-toiminnalliset vaatimukset (Non-Functional Requirements)
-
-  * [Esimerkkejä tietoturvavaatimuksista](https://confluence.csc.fi/display/oppija/10.+Tietoturvavaatimukset)
-
-| Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|VAL0201| Palvelun pitää skaalatua hetkellisesti 1000 käyttäjälle | Skaalautuvuus | "ASAP"-tuotantotiimi | P1 |
-|VAL0202| Palvelun saatavuus on oltava 99.1 % | Stabiilisuus |  "ASAP"-tuotantotiimi | P5 |
-|VAL0203| Käyttäjän tiedot on salattavat | Tietoturva |  "ASAP"-tuotantotiimi | P3 |
-
   * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
 
 ### Käytettävyys
@@ -225,15 +203,6 @@ ohjelmiston osa-alueita/lohkoja?
   * Mitä on otettava huomioon ?
   * Asiakkaan toiveet ?
   * Teknologiset osa-alueet/asiat, jotka vaikuttavat käytettävyyteen?
-
-# Käyttöliittymä prototyyppi
-
-
-### Prototyypin esittely
-
-   * Linkit prototyyppi ympäristöön
-   * Tarvittavat tiedot prototyypin tarkasteluun
-
 
 ## Palvelun/ohjelmiston arkkitehtuuri
 
@@ -245,29 +214,6 @@ ohjelmiston osa-alueita/lohkoja?
 
    * [Esimerkki elävästä elämästä](https://confluence.csc.fi/display/OPHPALV/Koodistopalvelun+tekninen+dokumentaatio)
 
-
-
-
-### Luokkaehdokkaat (Class proposal)
-
-  * Yleensä osa tarkempaa suunnittelua
-  * Voidaan viitata linkeillä...
-
-  * Tunnistetut luokkaehdokkaat
-
-![](https://www.lucidchart.com/publicSegments/view/16b2b5a7-f349-48bf-8efb-594521131e09/image.png)
-
-### Luokkamalli (Class Diagram)
-
-  * Ainoastaan karkea kuvaus tarpeen ?
-
-![](https://www.lucidchart.com/publicSegments/view/c680dd6c-6e68-43b7-bf6c-421bbe21a17c/image.png)
-
-### Toiminta kuvaus (Sequence Diagram)
-
-  * Sekvenssikuvalla on aika kätevä esittää muutakin
-
-![](https://en.wikipedia.org/wiki/File:CheckEmail.svg)
 
 ### Sijoittelunäkymä (Deployment diagram
 
