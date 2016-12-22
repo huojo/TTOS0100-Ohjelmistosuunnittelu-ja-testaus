@@ -102,10 +102,10 @@ Esimerkkejä! korvaa toimeksiantoon liittyvillä henkilöillä
 
 | Profiili | Nimi | Muuta |
 |:-: | :-: | :-: |
-| [Asiakasprofiili-1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md) | Mauno Mainio, 67, eläkeläinen, Vierumäki, kotosin Pohjois-Savosta (Matematiikan opettaja) | |
-| [Asiakasprofiili-2](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md) | Riku Rikas, 30, IT Yrittäjä, asuinpaikka tuntematon, kotoisin nomands land | |
-| [Asiakasprofiili-3](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md) | Siiri Koikkalainen 99, suurmummo, Hankasalmi, (Sokea) | | 
-| [Asiakasprofiili-4](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/asiakasprofiilien_esimerkit.md) | John Rambu, 55, tuntematon, Helsinki, (Bad Man) || 
+| [Asiakasprofiili-1](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Mauno Mainio, 67, eläkeläinen, Vierumäki, kotosin Pohjois-Savosta (Matematiikan opettaja) | |
+| [Asiakasprofiili-2](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Riku Rikas, 30, IT Yrittäjä, asuinpaikka tuntematon, kotoisin nomands land | |
+| [Asiakasprofiili-3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Siiri Koikkalainen 99, suurmummo, Hankasalmi, (Sokea) | | 
+| [Asiakasprofiili-4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | John Rambu, 55, tuntematon, Helsinki, (Bad Man) || 
 
 
 ## Palvelun asiakaspolku (Customer Journey)
