@@ -111,6 +111,22 @@ Käydään läpi asiakaspolku, jossa käytetään nimettyjä sidosryhmien edusta
   *  [Mikä ihmeen palvelupolku](https://www.google.fi/search?q=palvelupolku&espv=2&biw=1626&bih=843&site=webhp&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjU3Kn22pnKAhWDWywKHWrDB-wQsAQIHA)
 
 
+## Palvelun yleiset käyttötapaukset
+
+### käyttötapaukset yhteiskuvassa (Use Case Diagram)
+
+![](https://www.lucidchart.com/publicSegments/view/6994e113-aa9d-4eeb-ab5d-edc605b604ef/image.png)
+
+### Käyttötapaus 1 (Use Case)
+
+| Käyttötapaus | | | 
+|:-:|:-:|:-:|
+| [Rekisteröityminen](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md) | | |
+| [Salasanan vaihto](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md) | | |
+| [Avatarin valinta](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md) | | |
+| [Salasanan vaihto](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md) | | |
+
+
 ## Palvelun osa-aluejako (Service Domain areas)
 
 Millaisiin osa-alueiseiin voidaan ohjelmisto/palvelu voidaan jakaa.
@@ -156,61 +172,21 @@ ohjelmiston osa-alueita/lohkoja?
   * Mitä ovat oleelliset ominaiduudet ?
   * [Tsekkaa MVP - Minimum Viable Product Features](https://en.wikipedia.org/wiki/Minimum_viable_product)
 
-### Ominaisuus 1
+### Tuotteen ominaisuudet 
 
-  * [Linkki ominaisuuskuvaukseen](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md)
+| Ominaisuus | Prioriteetti | Muuta |
+| :-: | :-: | :-: |
+| [Ominaisuus 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md) | | | 
+| [Ominaisuus 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md) | | | 
+| [Ominaisuus 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md) | | | 
+| [Ominaisuus 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md) | | | 
+| [Ominaisuus 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md) | | | 
+| [Ominaisuus 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md) | | | 
+| [Ominaisuus 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md) | | | 
+| [Ominaisuus 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md) | | | 
+| [Ominaisuus 1](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md) | | | 
 
-  * Kuvaus
-  * Ominaisuuteen liittyvät vaatimukset ?
-  * UI-Näkymä ?
-  * Testauksessa huomioitavaa
 
-### Ominaisuus 2
-
-  * [Linkki ominaisuuskuvaukseen](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/ominaisuuskuvaus.md)
-
-  * Kuvaus
-  * Ominaisuuteen liittyvät vaatimukset ?
-  * UI-Näkymä ?
-  * Testauksessa huomioitavaa
-
-### Ominaisuus 3
-
-  * Kuvaus
-  * Ominaisuuteen liittyvät vaatimukset ?
-  * UI-Näkymä ?
-  * Prototyyppi näkymä?
-  * Testauksessa huomioitavaa
-
-### Ominaisuus 4
-
-  * Kuvaus
-  * Ominaisuuteen liittyvät vaatimukset ?
-  * UI-Näkymä ?
-  * Prototyyppi näkymä?
-  * Testauksessa huomioitavaa
-
-## Käyttötapaukset
-
-### Tärkeimmät käyttötapaukset kuvana
-
-![](https://www.lucidchart.com/publicSegments/view/6994e113-aa9d-4eeb-ab5d-edc605b604ef/image.png)
-
-### Käyttötapaus 1
-
-   * [Rekisteröityminen](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md)
-
-### Käyttötapaus 2
-
-   * [Salasanan vaihto](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md)
-
-### Käyttötapaus 3
-
-   * [Esimerkki4](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md)
-
-### Käyttötapaus 4
-
-   * [Esimerkki4](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/kayttotapauskuvauksen-pohja.md)
 
 ## Riskit  (Risks)
 
