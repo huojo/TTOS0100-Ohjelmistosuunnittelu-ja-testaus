@@ -44,12 +44,12 @@ Täitä käyttötapauksia voidaan tarvittaessa käyttää hyväksyntätesteinä 
 
 ### Testauksessa huomioitavaa:
 
-| Testi  | Testin tavoite  | Kuka vastaa  |
+| Testi  | Testin lähde  | Kuka vastaa  |
 |:-: | :-:|:-:|
-| [Testitapaus 1](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-testitapaus.md)  |  |  |
+| [Testitapaus 1](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-testitapaus.md)  | Use Case 1  |  |
 | [Testitapaus 2](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-testitapaus.md)  |  |  |
-| [Testitapaus 3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-testitapaus.md)  |  |  |
-| [Testitapaus 4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-testitapaus.md)  |  |  |
+| [Testitapaus 3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-testitapaus.md)  | Use Case 2 |  |
+| [Testitapaus 4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-testitapaus.md)  | Vaatimus REQ001 |  |
 | [Testitapaus 5](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-testitapaus.md)  |  |  |
 | [Testitapaus 6](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-testitapaus.md)  |  |  |
 
