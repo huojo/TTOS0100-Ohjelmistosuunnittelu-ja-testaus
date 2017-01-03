@@ -10,6 +10,8 @@ tv:NarsuMan
 
 ## Sisällysluettelo ?
 
+
+
 * [Asiakastarina]()
 * [Sidosryhmät ja profiilikuvaukset]()
 * [Sidosryhmäkuva]()
@@ -25,41 +27,53 @@ tv:NarsuMan
 
 ## Johdatus
 
-  * Mikä on tämän vaatimusmäärittelydokumentin tehtävä? 
-  * Mihin se liittyy ? 
-  * Tärkeätä tietää/oleellista lukijalle ?
+Mikä on tämän vaatimusmäärittelydokumentin tehtävä? 
+* Mihin se liittyy ? 
+* Tärkeätä tietää/oleellista lukijalle ?
 
 ### Palvelukuvaus/asiakastarina
 
 Pyri vastaamaan seuraaviin kysymyksiin!
 
-  * Mitä määritetyltä palvelulta odotetaan? 
-  * Miten käytön oletetaan tapahtuvan
-  * Mitä saadaan hyötyä 
+* Mitä määritetyltä palvelulta odotetaan? 
+* Miten käytön oletetaan tapahtuvan
+* Mitä saadaan hyötyä 
 
 ### Tilaaja
 
 Vastaa seuraaviin kysymyksiin!
 
-  * Kuka tilaa määrittelytyön, yhteistiedot ?
+* Kuka tilaa määrittelytyön, yhteistiedot ?
 
 ### Toimittaja
 
-  * Kuka on tekee määrittelyn, yhteistiedot ?
-
+* Kuka tekee määrittelytyön, yhteistiedot ?
 
 
 ## Asiakastarina
 
+* Kirjoita tähän lyhyt kuvaus miten tuotteen/palvelun tulee toimia.
+* [Esimerkki 1]()
+* [Esimerkki 2]()
+* [Esimerkki 3]()
+* [Esimerkki 4]()
+
 
 ## Sidosryhmät ja profiilikuvaukset
 
-Kirjataan näkyviin kaikki sidosryhmät, jotka on tunnistettu liityvän palveluun. Vastaa kysymykseen kuka/mikä on kiinnostunut tuotteesta tai kenellä on sanansa sanottavana liittyen tuotteen kehittämiseen ?
+Kirjataan näkyviin kaikki sidosryhmät, jotka on tunnistettu liityvän palveluun. Vastaa kysymykseen kuka/mikä on kiinnostunut tuotteesta tai kenellä on sanansa sanottavana liittyen tuotteen kehittämiseen ? Ota selvää mitä sidosryhmiä liittyy tehtäväantoon?
 
-Sidosryhmät (esimerkkejä)
+Esimerkkejä! korvaa toimeksiantoon liittyvillä henkilöillä
 
-* [Linkki sidosryhmän omaan sivuun]()
-* Mungo consulting Oy, Palvelun tarjoaja
+| Profiili | Nimi | Muuta |
+|:-: | :-: | :-: |
+| [Sidosryhmäprofiili-1](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Mauno Mainio, 67, eläkeläinen, Vierumäki, kotosin Pohjois-Savosta (Matematiikan opettaja) | |
+| [Sidosryhmäprofiili-2](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Riku Rikas, 30, IT Yrittäjä, asuinpaikka tuntematon, kotoisin nomands land | |
+| [Sidosryhmäprofiili-3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Siiri Koikkalainen 99, suurmummo, Hankasalmi, (Sokea) | | 
+| [Sidosryhmäprofiili-4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | John Rambu, 55, tuntematon, Helsinki, (Bad Man) || 
+| Mungo consulting Oy |   Palvelun tarjoaja | |
+| | | |
+
 * RahoittajaA, yrityksen osakas, Bankoman Oy, osakkeen omistaja 55 %
 * RahoittajaB, Yrityksen osakas, Mauri Bosse, omistaa 5 %
 * TuotantotiimiA, em. yrityksen työntekijät, Kalle, Kille, Pelle ja Pöppö
@@ -68,14 +82,6 @@ Sidosryhmät (esimerkkejä)
 * Bad Man, kiusantekijä
 * Snake Consulting Oy, kilpailija
 
-Esimerkkejä! korvaa toimeksiantoon liittyvillä henkilöillä
-
-| Profiili | Nimi | Muuta |
-|:-: | :-: | :-: |
-| [Asiakasprofiili-1](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Mauno Mainio, 67, eläkeläinen, Vierumäki, kotosin Pohjois-Savosta (Matematiikan opettaja) | |
-| [Asiakasprofiili-2](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Riku Rikas, 30, IT Yrittäjä, asuinpaikka tuntematon, kotoisin nomands land | |
-| [Asiakasprofiili-3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Siiri Koikkalainen 99, suurmummo, Hankasalmi, (Sokea) | | 
-| [Asiakasprofiili-4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | John Rambu, 55, tuntematon, Helsinki, (Bad Man) || 
 
 ## Sidosryhmäkuva (Stakeholder map)
 
