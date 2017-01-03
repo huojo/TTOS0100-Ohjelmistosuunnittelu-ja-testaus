@@ -65,22 +65,19 @@ Kirjataan näkyviin kaikki sidosryhmät, jotka on tunnistettu liityvän palveluu
 
 Esimerkkejä! korvaa toimeksiantoon liittyvillä henkilöillä
 
-| Profiili | Nimi | Muuta |
+| Sidosryhmä/asiakasprofiili | Tehtävä | Muuta |
 |:-: | :-: | :-: |
-| [Sidosryhmäprofiili-1](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Mauno Mainio, 67, eläkeläinen, Vierumäki, kotosin Pohjois-Savosta (Matematiikan opettaja) | |
-| [Sidosryhmäprofiili-2](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Riku Rikas, 30, IT Yrittäjä, asuinpaikka tuntematon, kotoisin nomands land | |
-| [Sidosryhmäprofiili-3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Siiri Koikkalainen 99, suurmummo, Hankasalmi, (Sokea) | | 
-| [Sidosryhmäprofiili-4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | John Rambu, 55, tuntematon, Helsinki, (Bad Man) || 
-| Mungo consulting Oy |   Palvelun tarjoaja | |
-| | | |
+| [Sidosryhmäprofiili-1](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Mauno Mainio, 67, eläkeläinen, Vierumäki, kotosin Pohjois-Savosta  | (Matematiikan opettaja) |
+| [Sidosryhmäprofiili-2](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Rigu Rich, 30, IT Yrittäjä, asuinpaikka tuntematon, kotoisin nomands land | Ulkomaalainen |
+| [Sidosryhmäprofiili-3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Siiri Koikkalainen 99, suurmummo, Hankasalmi,  | (Sokea) | 
+| [Sidosryhmäprofiili-4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | John Rambu, 55, tuntematon, Helsinki, (Bad Man) | Hankala asiakas | 
+| Mungo consulting Oy |    | Palvelun tarjoaja |
+| RahoittajaA | Yrityksen osakas, Mauri Bosse, omistaa 5 % | |
+| TuotantotiimiA, em. yrityksen työntekijät, Kalle, Kille, Pelle ja Pöppö | | |
+| SuurAsiakasA, NordMan Oy, yritysasiakas | | |
+| Bad Man, kiusantekijä | | |
+| Snake Consulting Oy, kilpailija | | |
 
-* RahoittajaA, yrityksen osakas, Bankoman Oy, osakkeen omistaja 55 %
-* RahoittajaB, Yrityksen osakas, Mauri Bosse, omistaa 5 %
-* TuotantotiimiA, em. yrityksen työntekijät, Kalle, Kille, Pelle ja Pöppö
-* SuurAsiakasA, NordMan Oy, yritysasiakas
-* SuurAsiakasB, Bill Cates Ikkunatehdas, yritysasiakas
-* Bad Man, kiusantekijä
-* Snake Consulting Oy, kilpailija
 
 
 ## Sidosryhmäkuva (Stakeholder map)
