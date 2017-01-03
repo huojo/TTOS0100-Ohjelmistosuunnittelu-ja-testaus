@@ -10,16 +10,16 @@ tv:NarsuMan
 
 ## Sisällysluettelo ?
 
-[Asiakastarina]()
-[Sidosryhmät ja profiilit]()
-[Sidosryhmäkuva]()
-[Asiakastpolku]()
-[Yleinen käyttötapaus]()
-[Yleiset toiminnalliset vaatimukset]()
-[Yleiset ei-toiminnalliset vaatimukset]()
-[Palvelu MockUp]()
-[Tärkeimmät ominaisuudet]()
-[Julkaisun suunnitelma]()
+* [Asiakastarina]()
+* [Sidosryhmät ja profiilikuvaukset]()
+* [Sidosryhmäkuva]()
+* [Asiakastpolku]()
+* [Yleinen käyttötapaus]()
+* [Yleiset toiminnalliset vaatimukset]()
+* [Yleiset ei-toiminnalliset vaatimukset]()
+* [Palvelu MockUp]()
+* [Tärkeimmät ominaisuudet]()
+* [Julkaisun suunnitelma]()
 
 
 
@@ -41,43 +41,20 @@ Pyri vastaamaan seuraaviin kysymyksiin!
 
 Vastaa seuraaviin kysymyksiin!
 
-  * Kuka on tilaaja, yhteistiedot ?
-  * Jos tiedot on projektisuunnitelmassa, niin linkit tänne!
+  * Kuka tilaa määrittelytyön, yhteistiedot ?
 
 ### Toimittaja
 
-Vastaa seuraaviin kysymyksiin!
-
-  * Kuka on toimittaja, yhteistiedot ?
-  * Jos tiedot on projektisuunnitelmassa, niin linkit tänne!
-
-### Aikataulu
-
-Vastaa seuraaviin kysymyksiin!
-
-  * Mitä alustavasti tullaan tekemään ja milloin ?
-  * Kannattaa viedä osaksi projektisuunnitelmaa ?
-
-| Etappi | Alkaa | Loppuu | | | 
-|:-----:|:-----:|:-----:|:-----:|:-----:|
-| Profiiliasiakastapaamiset | 1.2.2017 | 12.2.2017 |  | P3 |
-| Sidosryhmä tapaaminen | 13.2.2017 | |  | P4 |
-| Esi-katselmointi | 25.2.2017 | |  | P1 |
-| Vaatimusmäärittely luovutetaan | 28.2.2017 | 12.2.2017 |  | P1 |
-
-## Palvelun/ohjelmiston tunnistetut sidosryhmät ja asiakkaat (Stakeholders and customers) 
-
-Kirjataan näkyviin kaikki sidosryhmät, jotka on tunnistettu liityvän palveluun
-
-## Sidosryhmäkartta (Stakeholder map)
+  * Kuka on tekee määrittelyn, yhteistiedot ?
 
 
-![](https://www.lucidchart.com/publicSegments/view/afbaa205-0924-40f8-a0a1-96e281aafcf5/image.png)
+
+## Asiakastarina
 
 
-### Sidosryhmät (Stakeholders)
+## Sidosryhmät ja profiilikuvaukset
 
-Vastaa kysymykseen kuka/mikä on kiinnostunut tuotteesta tai kenellä on sanansa sanottavana liittyen tuotteen kehittämiseen ?
+Kirjataan näkyviin kaikki sidosryhmät, jotka on tunnistettu liityvän palveluun. Vastaa kysymykseen kuka/mikä on kiinnostunut tuotteesta tai kenellä on sanansa sanottavana liittyen tuotteen kehittämiseen ?
 
 Sidosryhmät (esimerkkejä)
 
@@ -91,12 +68,6 @@ Sidosryhmät (esimerkkejä)
 * Bad Man, kiusantekijä
 * Snake Consulting Oy, kilpailija
 
-
-## Asiakasprofiilit (Customer Profiles)
-
-Kirjaa Tunnistetut asiakasprofiilit 
-
-
 Esimerkkejä! korvaa toimeksiantoon liittyvillä henkilöillä
 
 | Profiili | Nimi | Muuta |
@@ -106,20 +77,23 @@ Esimerkkejä! korvaa toimeksiantoon liittyvillä henkilöillä
 | [Asiakasprofiili-3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Siiri Koikkalainen 99, suurmummo, Hankasalmi, (Sokea) | | 
 | [Asiakasprofiili-4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | John Rambu, 55, tuntematon, Helsinki, (Bad Man) || 
 
+## Sidosryhmäkuva (Stakeholder map)
 
-## Palvelun asiakaspolku (Customer Journey)
+![](https://www.lucidchart.com/publicSegments/view/afbaa205-0924-40f8-a0a1-96e281aafcf5/image.png)
 
-![](https://camo.githubusercontent.com/1429ec848bc406a1bc7f38874188e4af03d3ee46/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f6c6f7076357a6a6a337076676261392f757365725f6a6f75726e6579732d30322e706e673f646c3d31)
+## Asiakaspolku (Customer Journey)
 
 Käydään läpi asiakaspolku, jossa käytetään nimettyjä sidosryhmien edustajia
 
-  *  [Mikä ihmeen palvelupolku](https://www.google.fi/search?q=palvelupolku&espv=2&biw=1626&bih=843&site=webhp&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjU3Kn22pnKAhWDWywKHWrDB-wQsAQIHA)
+![](https://camo.githubusercontent.com/1429ec848bc406a1bc7f38874188e4af03d3ee46/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f6c6f7076357a6a6a337076676261392f757365725f6a6f75726e6579732d30322e706e673f646c3d31)
 
-### Tärkeät käyttötapaukset yhteiskuvassa (Use Case Diagram)
+
+
+## Yleinen käyttötapaus
+
+* Palvelun kannalta tärkeät käyttötapaukset yhteiskuvassa (Use Case Diagram)
 
 ![](https://www.lucidchart.com/publicSegments/view/6994e113-aa9d-4eeb-ab5d-edc605b604ef/image.png)
-
-### Käyttötapaus 1 (Use Case)
 
 | Käyttötapaus | | | 
 |:-:|:-:|:-:|
@@ -129,7 +103,21 @@ Käydään läpi asiakaspolku, jossa käytetään nimettyjä sidosryhmien edusta
 | [Salasanan vaihto](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-kayttotapauskuvaus.md) | | |
 
 
-## Palvelun osa-aluejako (Service Domain areas)
+
+
+
+## Palveluun liittyvät toiminnalliset vaatimukset
+
+  * Tässä osiossa voidaan nostaa esiin huomioitavia tärkeitä vaatimuksia, jotka on hyvä pitää mielessä!
+
+| Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|YVA0001| Palvelun täytyy toimia Android versiosssa 4.x alkaen | Tekninen | "ASAP"-tuotantotiimi | P1 |
+|YVA0002| Palvelun täytyy toimia Windows Phonessa | totetutus |  "ASAP"-tuotantotiimi | P2 |
+|YVA0003| Palvelun täytyy toimia Windows 95:ssa, koska johtajalla on moinen koneessaan! | totetuts |  "ASAP"-tuotantotiimi | P5 |
+
+  * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
+
 
 Millaisiin osa-alueiseiin voidaan ohjelmisto/palvelu voidaan jakaa.
 
@@ -147,17 +135,29 @@ ohjelmiston osa-alueita/lohkoja?
   * Autentikointi ?
   * Laskutus ?
 
-## Tärkeimmät asiakaspolut (Customer Journey Maps) valituiden asiakasprofiilien näkökulmasta
 
-  * Tarkennetaan kuvausta tehtävän mukaisesti ?
+## Palveluun liittyvät ei-toiminnalliset vaatimukset
 
-##  Tuotteen piirteet/ominaisuudet (Features)
+### Suorituskyky? 
+
+
+### Tietoturva?
+
+### Käytettävyys
+
+  * Mitä on otettava huomioon ?
+  * Asiakkaan toiveet ?
+  * Teknologiset osa-alueet/asiat, jotka vaikuttavat käytettävyyteen?
+
+
+
+## Palvelu MockUp-prototyyppi
+## Tärkeimmät tunnistetut ominaisuudet (Features)
+
 
   * Kirjataan tärkeimmät ominaisuudet
   * Mitä ovat oleelliset ominaiduudet ?
   * [Tsekkaa MVP - Minimum Viable Product Features](https://en.wikipedia.org/wiki/Minimum_viable_product)
-
-### Tuotteen ominaisuudet 
 
 | Ominaisuus | Prioriteetti | Muuta |
 | :-: | :-: | :-: |
@@ -170,6 +170,10 @@ ohjelmiston osa-alueita/lohkoja?
 | [Ominaisuus 7](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
 | [Ominaisuus 8](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
 | [Ominaisuus 91(https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
+
+
+
+## Julkaisun suunnitelma
 
 
 ## Riskit  (Risks)
@@ -187,21 +191,7 @@ ohjelmiston osa-alueita/lohkoja?
 
 ## Tuotteen yleiset vaatimukset
 
-  * Tässä osiossa voidaan nostaa esiin huomioitavia tärkeitä vaatimuksia, jotka on hyvä pitää mielessä!
 
-| Vaatimus ID | Kuvaus | Tyyppi | Osa-alue | Vastuullinen | Prioriteetti | 
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|YVA0001| Palvelun täytyy toimia Android versiosssa 4.x alkaen | Tekninen | "ASAP"-tuotantotiimi | P1 |
-|YVA0002| Palvelun täytyy toimia Windows Phonessa | totetutus |  "ASAP"-tuotantotiimi | P2 |
-|YVA0003| Palvelun täytyy toimia Windows 95:ssa, koska johtajalla on moinen koneessaan! | totetuts |  "ASAP"-tuotantotiimi | P5 |
-
-  * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
-
-### Käytettävyys
-
-  * Mitä on otettava huomioon ?
-  * Asiakkaan toiveet ?
-  * Teknologiset osa-alueet/asiat, jotka vaikuttavat käytettävyyteen?
 
 ## Palvelun/ohjelmiston arkkitehtuuri
 
