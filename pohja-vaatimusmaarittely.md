@@ -1,6 +1,7 @@
-# Dokumentista
+# Vaatimusmäärittely
 
-Tämä dokumentti on "elävä"-dokumentti, joka päivittyy jatkuvasti. Se on karkea vaatimusmäärittelydokumentin runko, jota voi käyttää projektien vaatimusmäärittelyn pohjana. Rakennetta saa ja pitää muokata! Tavoitteena on luoda dokumentti, joka yhdistää palvelumuotoilun ja ohjelmistosuunnittelun saumattomasti yhteen. Tekijä ei ota mitään vastuuta dokumentin sisällöstä.
+
+Tämä vaatimumäärittely on "elävä"-dokumentti, joka päivittyy jatkuvasti. Dokumentti on karkea runko, jota voi käyttää projektien vaatimusmäärittelyn pohjana, mutta se vaatii muokkausta! Tavoitteena on luoda dokumentti, joka yhdistää palvelumuotoilun ja ohjelmistosuunnittelun saumattomasti yhteen. Tekijä ei ota mitään vastuuta dokumentin sisällöstä.
 
 tv:NarsuMan
 
