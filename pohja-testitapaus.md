@@ -22,17 +22,15 @@ Minkä pohjalta testi on suunniteltu?
 
 ### Alkutilanne (Pre-state): 
 
-*
-
+* Mitä pitää olla valmiina ennen testin suorittamista?
 
 ### Testiaskeleet (Test Steps)
 
 
-| Testiaskel | Odotettu tulos |
 
-[] 1. Aseta palvelun kuormitus | Kuormitus muuttuu asetetuksi |
-[] 1. Mittaa kirjaantumiseen kuluva aika | |
-[] 1. Kirjaudu ulos palvelusta | Palvelusta uloskirjautuminen onnistuu |
+ 1. Aseta palvelun kuormitus | Kuormitus muuttuu asetetuksi |
+ 1. Mittaa kirjaantumiseen kuluva aika | |
+ 1. Kirjaudu ulos palvelusta | Palvelusta uloskirjautuminen onnistuu |
 
 esim 2:
 
