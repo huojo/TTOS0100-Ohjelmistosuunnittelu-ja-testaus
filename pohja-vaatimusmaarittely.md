@@ -82,7 +82,7 @@ Esimerkkejä! korvaa toimeksiantoon liittyvillä henkilöillä
 
 ## Sidosryhmäkuva (Stakeholder map)
 
-![](https://www.lucidchart.com/publicSegments/view/afbaa205-0924-40f8-a0a1-96e281aafcf5/image.png)
+![](https://raw.githubusercontent.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/master/images/Ostotapahtuma%20-%20Sidosryhm%C3%A4kartta.jpeg)
 
 ## Asiakaspolku (Customer Journey)
 
