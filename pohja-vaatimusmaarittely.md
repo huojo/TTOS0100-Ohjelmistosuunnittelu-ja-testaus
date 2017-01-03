@@ -72,11 +72,11 @@ Esimerkkejä! korvaa toimeksiantoon liittyvillä henkilöillä
 | [Sidosryhmäprofiili-3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Siiri Koikkalainen 99, suurmummo, Hankasalmi,  | (Sokea) | 
 | [Sidosryhmäprofiili-4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | John Rambu, 55, tuntematon, Helsinki, (Bad Man) | Hankala asiakas | 
 | Mungo consulting Oy |    | Palvelun tarjoaja |
-| RahoittajaA | Yrityksen osakas, Mauri Bosse, omistaa 5 % | |
-| TuotantotiimiA, em. yrityksen työntekijät, Kalle, Kille, Pelle ja Pöppö | | |
-| SuurAsiakasA, NordMan Oy, yritysasiakas | | |
-| Bad Man, kiusantekijä | | |
-| Snake Consulting Oy, kilpailija | | |
+| RahoittajaA |  |Yrityksen osakas, Mauri Bosse, omistaa 5 % | |
+| TuotantotiimiA | yrityksen työntekijät, Kalle, Kille, Pelle ja Pöppö | |
+| SuurAsiakasA |  | NordMan Oy, yritysasiakas | |
+| Bad Man |  |Kiusantekijä | |
+| Snake Consulting Oy | | kilpailija | |
 
 
 
