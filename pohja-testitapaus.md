@@ -1,50 +1,38 @@
 ### Testitapaus ID  : TCID1234
 
-  * Testitapauksen suunnittelija: NarsuMan
-  * Testitapauksen hyväksyjä: Tarhytti
-  * Luontipvm : 26.06.2015
+  * Testitapauksen suunnittelija: xxxx
+  * Testitapauksen hyväksyjä: xx
+  * Luontipvm : 26.0x.20xx
 
 ### Päivityshistoria
 
-* versio 1.2 - 30.03.2016 - Tarhytti - testiaskeleet-kappale muutettu taulukkomuotoon & esimerkkejä lisätty
-* versio 1.1 - 22.03.2016 - Tarhytti - pohjaan tehty kosmeettisia muutoksia
-* versio 1.0 - 24.12.2015 - Tarhytti - testitapaus hyväksytty
-* versio 0.1 - 26.06.2015 - Narsuman - testitapaus luotu
+* versio 0.1 - 26.0x.20xx - Narsuman - testitapaus luotu
 
-### Testin kuvaus
+### Testitapauksen kuvaus
 
-esim 1: Tarkista että kirjautumiseen kuluva aika ei ylitä 3 sekunnin rajaa alle palvelun ollessa kuormitettu alle 80 % 
+Mitä pyritään tarkistamaan/testaamaan?
 
-esim 2: Testataan kosteushälytyksen toiminta
+### Lähde testille
 
-### Testin tavoite
+Minkä pohjalta testi on suunniteltu?
 
-esim 1: Tarkistetaan, että palvelun kuormitusaste ei vaikuta liiaksi kirjautumiseen käytettävään aikaan. Kirjatuminen testataan palvelun ollessa eri kuormitusasteilla. Mittaus tehdään käyttäjärajapinnasta.
-
-esim2: Tarkistetaan, että järjestelmään voidaa asettaa hälytysraja kosteudelle ja että ko hälytysrajan ylittyessä hälytys lähetetään ennalta määriteltyyn numeroon.
-
-### Linkit
-
-  * Vaatimus: [REQID10202]() Asiakkaan kirjautumispyyntö palveluun saa kestää normaalisti korkeintaan (3) sekuntia   
-  * Käyttötapaus: [UC12345]()
-  * Ominaisuus: [XXXXX]()
+* Vaatimus: [REQID10202]()  
+* Käyttötapaus: [UC12345]()
+* Ominaisuus: [Feature00012]()
 
 ### Alkutilanne (Pre-state): 
 
-esim 1: Palvelu saavutettavissa, Kuormitusgeneraattori asennettu, kirjautumistunnus luotu, ajanmittaus mahdollista
+*
 
-esim 2: Palvelu saavutettavissa, puhelinumero asetettu kosteushälytykseen
 
 ### Testiaskeleet (Test Steps)
 
-esim 1:
-Toista seuraavat testiaskeleet palvelun kuormitusasteilla 30%, 50% ja 80%
 
 | Testiaskel | Odotettu tulos |
-| ---------- | -------------- |
-| 1. Aseta palvelun kuormitus | Kuormitus muuttuu asetetuksi |
-| 2. Mittaa kirjaantumiseen kuluva aika | |
-| 3. Kirjaudu ulos palvelusta | Palvelusta uloskirjautuminen onnistuu |
+
+[] 1. Aseta palvelun kuormitus | Kuormitus muuttuu asetetuksi |
+[] 1. Mittaa kirjaantumiseen kuluva aika | |
+[] 1. Kirjaudu ulos palvelusta | Palvelusta uloskirjautuminen onnistuu |
 
 esim 2:
 
