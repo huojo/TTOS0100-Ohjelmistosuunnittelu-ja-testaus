@@ -5,38 +5,36 @@ Tämä dokumentti on "elävä"-dokumentti, joka päivittyy jatkuvasti. Se on kar
 tv:NarsuMan
 
 
-## XYZOÄO palvelun vaatimusmäärittely
 
-Dokumentin versionumero X.Y
 
-### Materiaalin luokittelu
+## Sisällysluettelo ?
 
-Salattu/Julkinen
+[Asiakastarina]()
+[Sidosryhmät ja profiilit]()
+[Sidosryhmäkuva]()
+[Asiakastpolku]()
+[Yleinen käyttötapaus]()
+[Yleiset toiminnalliset vaatimukset]()
+[Yleiset ei-toiminnalliset vaatimukset]()
+[Palvelu MockUp]()
+[Tärkeimmät ominaisuudet]()
+[Julkaisun suunnitelma]()
 
-### Oikeudet
-
-Kuka omistaa dokumentin?
-
-## Sisältö
-
-Sisällysluettelo ?
 
 
 ## Johdatus
 
-Vastaa seuraaviin kysymyksiin!
-
-  * Mikä on tämän dokumentin tehtävä? 
+  * Mikä on tämän vaatimusmäärittelydokumentin tehtävä? 
   * Mihin se liittyy ? 
-  * Tärkeätä tietää
-  * Oleellista lukijalle ?
+  * Tärkeätä tietää/oleellista lukijalle ?
 
-### Lyhyt tuote/palvelukuvaus/asiakastarina
+### Palvelukuvaus/asiakastarina
 
-Vastaa seuraaviin kysymyksiin!
+Pyri vastaamaan seuraaviin kysymyksiin!
 
-  * Mitä määritetyltä palvelulta odotetaan? lyhyesti
-  * Asiakastarina
+  * Mitä määritetyltä palvelulta odotetaan? 
+  * Miten käytön oletetaan tapahtuvan
+  * Mitä saadaan hyötyä 
 
 ### Tilaaja
 
