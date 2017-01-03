@@ -16,9 +16,7 @@ Mitä pyritään tarkistamaan/testaamaan?
 
 Minkä pohjalta testi on suunniteltu?
 
-* Vaatimus: [REQID10202]()  
-* Käyttötapaus: [UC12345]()
-* Ominaisuus: [Feature00012]()
+* vaatimus,ominaisuus,
 
 ### Alkutilanne (Pre-state): 
 
