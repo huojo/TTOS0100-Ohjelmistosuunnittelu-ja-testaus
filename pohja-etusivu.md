@@ -1,6 +1,6 @@
 TTOS0100 Kurssin harjoitustyö HT0
 
-
+Tämä on harjoitustyön etusivu
 
 
 
@@ -14,8 +14,7 @@ TTOS0100 Kurssin harjoitustyö HT0
 
 * Nimimerkki
 * Versionumero X.Y.Z
-
-[Linkki vaatimusmäärittelyyn]()
+* [Linkki vaatimusmäärittelyyn]()
 
 
 
