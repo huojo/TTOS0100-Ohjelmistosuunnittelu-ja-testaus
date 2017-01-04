@@ -87,6 +87,9 @@ qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
+![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
+
+
 ## Asiakaspolku (Customer Journey)
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
@@ -96,6 +99,8 @@ sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. N
 qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+
+![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
 
 ## Yleiset käyttötapaukset
 
@@ -107,7 +112,7 @@ qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
-
+![](https://openclipart.org/image/800px/svg_to_png/28058/cfry-Use-Case.png&disposition=attachment)
 
 
 ## Palveluun liittyvät toiminnalliset vaatimukset
@@ -139,8 +144,6 @@ qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
-
-
 ### Suorituskyky? 
 
 qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
@@ -153,7 +156,17 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 | REQ00x | Vaatimus? | Suorituskyky | Kuka vastaa | 
 | REQ00x | Vaatimus? | Suorituskyky | Kuka vastaa | 
 
+### Luotettavuus?
 
+qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
+incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
+quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+
+| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
+|:-:|:-:|:-:|:-:|
+| REQ00x | Vaatimus? | Luotettavuus | Kuka vastaa | 
+| REQ00x | Vaatimus? | Luotettavuus | Kuka vastaa | 
+| REQ00x | Vaatimus? | Luotettavuus | Kuka vastaa | 
 
 
 ### Tietoturva?
@@ -172,7 +185,6 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 | REQ00x | Vaatimus? | Tietoturva | Kuka vastaa | 
 
 ### Käytettävyys
-
 
 qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
@@ -193,6 +205,8 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+
+![](https://openclipart.org/image/800px/svg_to_png/236916/1452485143.png&disposition=attachment)
 
 
 ## Tärkeimmät tunnistetut ominaisuudet (Features)
