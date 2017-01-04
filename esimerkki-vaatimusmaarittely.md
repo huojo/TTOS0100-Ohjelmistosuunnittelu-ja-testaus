@@ -99,7 +99,7 @@ Käydään läpi asiakaspolku, jossa käytetään nimettyjä sidosryhmien edusta
 
 * Palvelun kannalta tärkeät käyttötapaukset yhteiskuvassa (Use Case Diagram)
 
-![](https://www.lucidchart.com/publicSegments/view/6994e113-aa9d-4eeb-ab5d-edc605b604ef/image.png)
+![](https://raw.githubusercontent.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/master/images/Use%20Case%20-%20New%20Page.png)
 
 | Käyttötapaus | | | 
 |:-:|:-:|:-:|
