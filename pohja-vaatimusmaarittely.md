@@ -1,16 +1,7 @@
 # Vaatimusmäärittely
 
 
-Tämä vaatimumäärittely on "elävä"-dokumentti, joka päivittyy jatkuvasti. Dokumentti on karkea runko, jota voi käyttää projektien vaatimusmäärittelyn pohjana, mutta se vaatii muokkausta! Tavoitteena on luoda dokumentti, joka yhdistää palvelumuotoilun ja ohjelmistosuunnittelun saumattomasti yhteen. Tekijä ei ota mitään vastuuta dokumentin sisällöstä.
-
-tv:NarsuMan
-
-
-
-
-## Sisällysluettelo ?
-
-
+## Sisällysluettelo
 
 * [Asiakastarina]()
 * [Sidosryhmät ja profiilikuvaukset]()
@@ -22,8 +13,7 @@ tv:NarsuMan
 * [Palvelu MockUp]()
 * [Tärkeimmät ominaisuudet]()
 * [Julkaisun suunnitelma]()
-
-
+* [Lähteet]()
 
 ## Johdatus
 
@@ -46,15 +36,13 @@ qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? 
 
-### Tilaaja
+### Vaatimusmäärittelytyön tilaaja
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 
-### Toimittaja
-
+### Vaatimusmäärittelyn toimittaja
 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
-
 
 ## Asiakastarina
 
@@ -66,8 +54,7 @@ qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
-
-## Sidosryhmät ja profiilikuvaukset
+## Sidosryhmät (Stakeholders) ja profiilikuvaukset (Profile descriptions)
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
@@ -89,7 +76,6 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 ![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
 
-
 ## Asiakaspolku (Customer Journey)
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
@@ -103,8 +89,7 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 ![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
 
 
-
-## Tuotteen yleisiä vaatimuksia ja rajoituksia
+## Tuotteen yleisiä vaatimuksia ja rajoituksia (General Requirements and restrictions)
 
 Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
 sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
@@ -122,7 +107,7 @@ incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minim
 
 
 
-## Yleiset käyttötapaukset
+## Yleiset käyttötapaukset (General Use Cases)
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
@@ -135,7 +120,7 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 ![](https://openclipart.org/image/800px/svg_to_png/28058/cfry-Use-Case.png&disposition=attachment)
 
 
-## Palveluun liittyvät toiminnalliset vaatimukset
+## Palveluun liittyvät toiminnalliset vaatimukset (Functional Requirements)
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
@@ -154,7 +139,7 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 | REQ005 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
 
 
-## Palveluun liittyvät ei-toiminnalliset vaatimukset
+## Palveluun liittyvät ei-toiminnalliset vaatimukset (Non Functional Requirements)
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
@@ -164,7 +149,7 @@ qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
-### Suorituskyky? 
+### Suorituskyky? (Performance)
 
 qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
