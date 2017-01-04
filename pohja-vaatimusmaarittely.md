@@ -102,6 +102,26 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 ![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
 
+
+
+## Tuotteen yleisiä vaatimuksia ja rajoituksia
+
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
+sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
+qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
+incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
+
+
+| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
+|:-:|:-:|:-:|:-:|
+| GENREQ001 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
+| GENREQ002 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
+| GENREQ003 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
+| GENREQ004 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
+| GENREQ005 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
+
+
+
 ## Yleiset käyttötapaukset
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
@@ -224,8 +244,6 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 | [Ominaisuus 5](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
 | [Ominaisuus 6](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
 | [Ominaisuus 7](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
-| [Ominaisuus 8](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
-| [Ominaisuus 91(https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
 
 
 
@@ -236,20 +254,6 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 | 1.4.201x [Ominaisuus 2](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
 | 15.4.201x [Ominaisuus 3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
 | 5.5.201x [Ominaisuus 4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
-
-
-
-
-## Tuotteen yleisiä vaatimuksia ja rajoituksia
-
-| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
-|:-:|:-:|:-:|:-:|
-| GENREQ001 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| GENREQ002 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| GENREQ003 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| GENREQ004 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| GENREQ005 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-
 
 
 ## Palvelun/ohjelmiston arkkitehtuuri
@@ -265,9 +269,6 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 ### Sijoittelunäkymä (Deployment diagram
 
-  * Vaatimusmäärittelyssä tämä saattaa olla yksi hyödyllisimpiä UML-kuvauksia ?
-  * Miten ohjelmisto/palvelu tulee karkeasti toimimaan osana vanhaa totetutusta..
-  * Miten olemassa oleva järjestelmä tulee karkeasti toimimaan
 
 ![](https://www.lucidchart.com/publicSegments/view/6f727a36-f880-4dca-b5ac-133f6f860697/image.png)
 
@@ -280,38 +281,22 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
   * Vaatimus -> Testaustarve
 
 
-##  Julkaisusuunnitelma ja priorisointi
 
-Julkaisujärjestys ei aina ole lineaarinen. [Ks. Kriittinen polku](https://fi.wikipedia.org/wiki/Kriittinen_polku)
-Joskus se saattaa tuntua siltä: [Release Plan](https://wiki.documentfoundation.org/ReleasePlan)
+### Dokumentit, standardit ja lähteet
 
-
-Toiminnallisuudet ja toteuttamisjärjestys
-
-  * Ominaisuus 1 - Maaliskuu 2019
-  * Ominaisuus 3 - Huhtikuu 2019
-  * Ominaisuus 5 - Toukokuu 2019
-  * Ominaisuus 2 - Syyskuu 2019
-  *     
+qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
+incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
+quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
 
-### Priorisointi 
+*Lähteet*
 
+| ID | Lähde | Kuvaus | Linkki | 
+|:-:|:-:|:-:|:-:| 
+| Id0 | Wikipedia | Vaatimusmäärittely |   https://fi.wikipedia.org/wiki/Ohjelmiston_vaatimusm%C3%A4%C3%A4rittely
+- | 
+| - | -  | - | 
+| - | -  | - | 
+| - | -  | - | 
 
-  * Miten taulukoita luetaan: P1 = Erittäin tärkeä, P3 = Oleellinen, P5 = Triviaali
-
-
-## Standardit ja lähteet
-
-  * ISTQB
-  * IPMA
-  * etc..
-
-
-
-# Lähteet
-
-# Lähteitä
-
-  * https://fi.wikipedia.org/wiki/Ohjelmiston_vaatimusm%C3%A4%C3%A4rittely
 
