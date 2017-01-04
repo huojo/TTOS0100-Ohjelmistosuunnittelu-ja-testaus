@@ -65,6 +65,8 @@ Kirjataan näkyviin kaikki sidosryhmät, jotka on tunnistettu liityvän palveluu
 
 Esimerkkejä! korvaa toimeksiantoon liittyvillä henkilöillä
 
+* [Esimerkki persoonat eri profiileille](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/esimerkki-asiakasprofiilit.md)
+
 | Sidosryhmä/asiakasprofiili | Tehtävä | Muuta |
 |:-: | :-: | :-: |
 | [Asiakasprofiili-1](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Jarmo Mainio, 27, eläkeläinen, Vierumäki, kotosin Pohjois-Savosta  | (Matematiikan opettaja) |
