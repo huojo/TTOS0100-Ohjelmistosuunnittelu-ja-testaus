@@ -67,13 +67,14 @@ Esimerkkejä! korvaa toimeksiantoon liittyvillä henkilöillä
 
 | Sidosryhmä/asiakasprofiili | Tehtävä | Muuta |
 |:-: | :-: | :-: |
-| [Sidosryhmäprofiili-1](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Mauno Mainio, 67, eläkeläinen, Vierumäki, kotosin Pohjois-Savosta  | (Matematiikan opettaja) |
-| [Sidosryhmäprofiili-2](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Rigu Rich, 30, IT Yrittäjä, asuinpaikka tuntematon, kotoisin nomands land | Ulkomaalainen |
-| [Sidosryhmäprofiili-3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Siiri Koikkalainen 99, suurmummo, Hankasalmi,  | (Sokea) | 
-| [Sidosryhmäprofiili-4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | John Rambu, 55, tuntematon, Helsinki, (Bad Man) | Hankala asiakas | 
-| Mungo consulting Oy |    | Palvelun tarjoaja |
-| RahoittajaA |  |Yrityksen osakas, Mauri Bosse, omistaa 5 % | |
-| TuotantotiimiA | yrityksen työntekijät, Kalle, Kille, Pelle ja Pöppö | |
+| [Asiakasprofiili-1](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Jarmo Mainio, 27, eläkeläinen, Vierumäki, kotosin Pohjois-Savosta  | (Matematiikan opettaja) |
+| [Asiakasprofiili-2](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Rigu Rich, 30, IT Yrittäjä, asuinpaikka tuntematon, kotoisin nomands land | Ulkomaalainen |
+| [Asiakasprofiili-3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Siiri Koikkalainen 99, suurmummo, Hankasalmi,  | (Sokea) | 
+| [Asiakasprofiili-4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | John Rambu, 55, tuntematon, Helsinki, (Bad Man) | Hankala asiakas | 
+| [Asiakasprofiili-4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | Sad Frog 26 |  | Kiusantekijä | |
+|[Sidosryhmä-1](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) |  Mungo consulting Oy | Palvelun tarjoaja |
+| [Sidosryhmä-2](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | RahoittajaA |  |Yrityksen osakas, Mauri Bosse, omistaa 5 % | |
+| [Sidosryhmä-3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-asiakasprofiili.md) | TuotantotiimiA | yrityksen työntekijät, Kalle, Kille, Pelle ja Pöppö | |
 | SuurAsiakasA |  | NordMan Oy, yritysasiakas | |
 | Bad Man |  |Kiusantekijä | |
 | Snake Consulting Oy | | kilpailija | |
@@ -82,7 +83,7 @@ Esimerkkejä! korvaa toimeksiantoon liittyvillä henkilöillä
 
 ## Sidosryhmäkuva (Stakeholder map)
 
-![](https://raw.githubusercontent.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/master/images/Ostotapahtuma%20-%20Sidosryhm%C3%A4kartta.jpeg)
+![](https://raw.githubusercontent.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/master/images/Sidosryhm%C3%A4kartta%20.jpeg)
 
 ## Asiakaspolku (Customer Journey)
 
