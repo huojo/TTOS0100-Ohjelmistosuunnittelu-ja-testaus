@@ -88,7 +88,7 @@ Esimerkkejä! korvaa toimeksiantoon liittyvillä henkilöillä
 
 Käydään läpi asiakaspolku, jossa käytetään nimettyjä sidosryhmien edustajia
 
-![](https://camo.githubusercontent.com/1429ec848bc406a1bc7f38874188e4af03d3ee46/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f6c6f7076357a6a6a337076676261392f757365725f6a6f75726e6579732d30322e706e673f646c3d31)
+![](https://raw.githubusercontent.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/master/images/Ostotapahtuma%20-%20Jarmon%20tarina.jpeg)
 
 
 
