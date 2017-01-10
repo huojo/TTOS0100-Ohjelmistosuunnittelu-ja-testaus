@@ -14,4 +14,4 @@ Opiskelija ymmärtää ohjelmistosuunnitelun ja testauksen merkityksen osana tuo
 
 
 
-[target_url=http://jamk-it.github.io/TT0S0100-software-desing-and-testing/]
+[target_url=http://jamk-it.github.io/TTOS0100-Ohjelmistosuunnittelu-ja-testaus]
